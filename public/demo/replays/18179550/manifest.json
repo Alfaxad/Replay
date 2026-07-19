@@ -1,0 +1,148 @@
+{
+  "fixtureId": 18179550,
+  "matchNumber": 82,
+  "generatedAt": "2026-07-19T20:56:00.636Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Belgium’s Late Turnaround",
+    "openingLine": "Welcome back to Replay: Belgium meet Senegal in the round of 32 at Seattle Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Belgium meet Senegal in the round of 32 at Seattle Stadium.",
+        "explainer": "The replay begins with both sides level at the start of the round of 32."
+      },
+      {
+        "id": "goal-2",
+        "spokenLine": "Habib DIARRA scores for Senegal, and the verified score moves to 0–1.",
+        "explainer": "Senegal take the lead, giving them the first advantage of the match."
+      },
+      {
+        "id": "halftime-3",
+        "spokenLine": "Belgium trail Senegal 0–1 at the interval.",
+        "explainer": "Senegal carry their one-goal lead into half-time."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Ismaila SARR scores for Senegal, and the verified score moves to 0–2.",
+        "explainer": "Senegal double their lead, putting Belgium two goals behind."
+      },
+      {
+        "id": "yellow_card-8",
+        "spokenLine": "Brandon MECHELE is shown a card for Belgium.",
+        "explainer": "Belgium receive a disciplinary setback while trailing 0–2."
+      },
+      {
+        "id": "yellow_card-10",
+        "spokenLine": "Lamine CAMARA is shown a card for Senegal.",
+        "explainer": "Senegal are also shown a card as they hold a 2–0 lead."
+      },
+      {
+        "id": "goal-14",
+        "spokenLine": "Romelu LUKAKU scores for Belgium, moving the verified score to 1–2.",
+        "explainer": "Belgium reduce the deficit to one goal."
+      },
+      {
+        "id": "goal-15",
+        "spokenLine": "Youri TIELEMANS scores for Belgium, and the verified score moves to 2–2.",
+        "explainer": "Belgium draw level after trailing Senegal 0–2."
+      },
+      {
+        "id": "yellow_card-16",
+        "spokenLine": "A Belgium player is shown a card.",
+        "explainer": "The match remains level at 2–2 as Belgium receive another card."
+      },
+      {
+        "id": "goal-21",
+        "spokenLine": "Youri TIELEMANS scores for Belgium, moving the verified score to 3–2.",
+        "explainer": "Belgium move in front after recovering from a 0–2 deficit."
+      },
+      {
+        "id": "fulltime-22",
+        "spokenLine": "Full time: Belgium 3–2 Senegal.",
+        "explainer": "Belgium finish ahead after turning a 0–2 deficit into a 3–2 victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179550/01-kickoff-0.mp3",
+      "text": "At kick-off, Belgium meet Senegal in the round of 32 at Seattle Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-2",
+      "audioPath": "/demo/replays/18179550/02-goal-2.mp3",
+      "text": "In the 24th minute, Habib DIARRA scores for Senegal, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-3",
+      "audioPath": "/demo/replays/18179550/03-halftime-3.mp3",
+      "text": "At half-time, Belgium trail Senegal 0–1.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18179550/04-goal-4.mp3",
+      "text": "In the 51st minute, Ismaila SARR scores for Senegal, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-8",
+      "audioPath": "/demo/replays/18179550/05-yellow_card-8.mp3",
+      "text": "In the 64th minute, Brandon MECHELE is shown a card for Belgium.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-10",
+      "audioPath": "/demo/replays/18179550/06-yellow_card-10.mp3",
+      "text": "In the 67th minute, Lamine CAMARA is shown a card for Senegal.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-14",
+      "audioPath": "/demo/replays/18179550/07-goal-14.mp3",
+      "text": "In the 86th minute, Romelu LUKAKU scores for Belgium, moving the verified score to 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-15",
+      "audioPath": "/demo/replays/18179550/08-goal-15.mp3",
+      "text": "In the 89th minute, Youri TIELEMANS scores for Belgium, and the verified score moves to 2–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-16",
+      "audioPath": "/demo/replays/18179550/09-yellow_card-16.mp3",
+      "text": "In the 90th minute, A Belgium player is shown a card.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-21",
+      "audioPath": "/demo/replays/18179550/10-goal-21.mp3",
+      "text": "In the 5th minute of extra-time stoppage time, Youri TIELEMANS scores for Belgium, moving the verified score to 3–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-22",
+      "audioPath": "/demo/replays/18179550/11-fulltime-22.mp3",
+      "text": "At full-time, Belgium 3–2 Senegal.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

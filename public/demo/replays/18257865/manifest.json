@@ -1,0 +1,280 @@
+{
+  "fixtureId": 18257865,
+  "matchNumber": 103,
+  "generatedAt": "2026-07-19T20:56:33.835Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "France and England: A Bronze Final in Full Flight",
+    "openingLine": "A bronze final begins at Miami Stadium, with France meeting England.",
+    "moments": [
+      {
+        "id": "kickoff-19",
+        "spokenLine": "France meet England in the bronze final at Miami Stadium.",
+        "explainer": "The replay opens with the two teams set for the bronze final."
+      },
+      {
+        "id": "goal-52",
+        "spokenLine": "Declan RICE scores, and England lead France 0–1.",
+        "explainer": "England strike first, putting France behind on the verified score."
+      },
+      {
+        "id": "corner-102",
+        "spokenLine": "England win a corner, and the count is 0–1.",
+        "explainer": "England add territorial pressure as the corner count moves in their favour."
+      },
+      {
+        "id": "pressure-129",
+        "spokenLine": "England drive forward with 3 shots and 18 dangerous actions.",
+        "explainer": "The opening ten-minute passage belongs to England by the recorded attacking numbers."
+      },
+      {
+        "id": "corner-207",
+        "spokenLine": "France win a corner, bringing the count to 1–1.",
+        "explainer": "France answer with their first confirmed corner of the match."
+      },
+      {
+        "id": "corner-247",
+        "spokenLine": "England win another corner, and lead that count 1–2.",
+        "explainer": "England regain the corner advantage before their next major breakthrough."
+      },
+      {
+        "id": "goal-251",
+        "spokenLine": "Ezri KONSA scores, and England move 0–2 ahead.",
+        "explainer": "England double their lead, widening the early gap."
+      },
+      {
+        "id": "corner-420",
+        "spokenLine": "France win a corner, making the count 2–2.",
+        "explainer": "France level the corner count as the first half continues."
+      },
+      {
+        "id": "goal-457",
+        "spokenLine": "Bukayo SAKA scores, and England lead France 0–3.",
+        "explainer": "England turn their advantage into a three-goal lead."
+      },
+      {
+        "id": "pressure-490",
+        "spokenLine": "England surge again with 4 shots and 18 dangerous actions.",
+        "explainer": "Their 30'–40' spell shows England sustaining the attacking flow."
+      },
+      {
+        "id": "goal-575",
+        "spokenLine": "Bukayo SAKA scores again, and England lead 0–4.",
+        "explainer": "A second goal from Bukayo SAKA before the interval leaves England four ahead."
+      },
+      {
+        "id": "corner-596",
+        "spokenLine": "England win a corner, and the count is 2–3.",
+        "explainer": "England hold the corner advantage as half-time approaches."
+      },
+      {
+        "id": "halftime-604",
+        "spokenLine": "At half-time, France trail England 0–4.",
+        "explainer": "The interval arrives with England four goals ahead."
+      },
+      {
+        "id": "goal-653",
+        "spokenLine": "Kylian MBAPPE scores, and France move to 1–4.",
+        "explainer": "France begin the second half by reducing the deficit."
+      },
+      {
+        "id": "goal-737",
+        "spokenLine": "Bradley BARCOLA scores, and France move to 2–4.",
+        "explainer": "France score again and bring the match back within two goals."
+      },
+      {
+        "id": "corner-781",
+        "spokenLine": "England win a corner, and the count is 2–4.",
+        "explainer": "England restore their corner advantage during France’s recovery."
+      },
+      {
+        "id": "goal-896",
+        "spokenLine": "Kylian MBAPPE scores again, and France trail 3–4.",
+        "explainer": "France are now one goal behind after Kylian MBAPPE’s second score."
+      },
+      {
+        "id": "pressure-902",
+        "spokenLine": "France surge with 4 shots and 27 dangerous actions.",
+        "explainer": "The 60'–70' passage records France controlling the attacking pressure."
+      },
+      {
+        "id": "corner-1096",
+        "spokenLine": "France win a corner, bringing the count to 3–4.",
+        "explainer": "France continue their late push, narrowing the corner difference."
+      },
+      {
+        "id": "goal-1165",
+        "spokenLine": "Ousmane DEMBELE scores, and France move to 4–5.",
+        "explainer": "France complete the comeback from 0–4 to within one goal."
+      },
+      {
+        "id": "goal-1186",
+        "spokenLine": "Jude BELLINGHAM scores, and England move to 4–6.",
+        "explainer": "England answer immediately, restoring a two-goal lead at the finish."
+      },
+      {
+        "id": "fulltime-1195",
+        "spokenLine": "Full time: France 4–6 England.",
+        "explainer": "The bronze final ends with England six goals to France’s four."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-19",
+      "audioPath": "/demo/replays/18257865/01-kickoff-19.mp3",
+      "text": "At kick-off, France meet England in the bronze final at Miami Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-52",
+      "audioPath": "/demo/replays/18257865/02-goal-52.mp3",
+      "text": "In the 3rd minute, Declan RICE scores, and England lead France 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-102",
+      "audioPath": "/demo/replays/18257865/03-corner-102.mp3",
+      "text": "In the 6th minute, England win a confirmed corner. The corner count is 0–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-129",
+      "audioPath": "/demo/replays/18257865/04-pressure-129.mp3",
+      "text": "Between the 0th and 10th minutes, England drive forward with 3 shots and 18 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "corner-207",
+      "audioPath": "/demo/replays/18257865/05-corner-207.mp3",
+      "text": "In the 14th minute, France win a confirmed corner. The corner count is 1–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-247",
+      "audioPath": "/demo/replays/18257865/06-corner-247.mp3",
+      "text": "In the 17th minute, England win a confirmed corner. The corner count is 1–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-251",
+      "audioPath": "/demo/replays/18257865/07-goal-251.mp3",
+      "text": "In the 18th minute, Ezri KONSA scores, and England move 0–2 ahead.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-420",
+      "audioPath": "/demo/replays/18257865/08-corner-420.mp3",
+      "text": "In the 34th minute, France win a confirmed corner. The corner count is 2–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-457",
+      "audioPath": "/demo/replays/18257865/09-goal-457.mp3",
+      "text": "In the 37th minute, Bukayo SAKA scores, and England lead France 0–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "pressure-490",
+      "audioPath": "/demo/replays/18257865/10-pressure-490.mp3",
+      "text": "Between the 30th and 40th minutes, England surge again with 4 shots and 18 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "goal-575",
+      "audioPath": "/demo/replays/18257865/11-goal-575.mp3",
+      "text": "In the 1st minute of first-half stoppage time, Bukayo SAKA scores again, and England lead 0–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-596",
+      "audioPath": "/demo/replays/18257865/12-corner-596.mp3",
+      "text": "In the 48th minute, England win a confirmed corner. The corner count is 2–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-604",
+      "audioPath": "/demo/replays/18257865/13-halftime-604.mp3",
+      "text": "At half-time, France trail England 0–4.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-653",
+      "audioPath": "/demo/replays/18257865/14-goal-653.mp3",
+      "text": "In the 48th minute, Kylian MBAPPE scores, and France move to 1–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-737",
+      "audioPath": "/demo/replays/18257865/15-goal-737.mp3",
+      "text": "In the 54th minute, Bradley BARCOLA scores, and France move to 2–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-781",
+      "audioPath": "/demo/replays/18257865/16-corner-781.mp3",
+      "text": "In the 58th minute, England win a confirmed corner. The corner count is 2–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-896",
+      "audioPath": "/demo/replays/18257865/17-goal-896.mp3",
+      "text": "In the 66th minute, Kylian MBAPPE scores again, and France trail 3–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "pressure-902",
+      "audioPath": "/demo/replays/18257865/18-pressure-902.mp3",
+      "text": "Between the 60th and 70th minutes, France surge with 4 shots and 27 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-1096",
+      "audioPath": "/demo/replays/18257865/19-corner-1096.mp3",
+      "text": "In the 90th minute, France win a confirmed corner. The corner count is 3–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-1165",
+      "audioPath": "/demo/replays/18257865/20-goal-1165.mp3",
+      "text": "In the 6th minute of second-half stoppage time, Ousmane DEMBELE scores, and France move to 4–5.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-1186",
+      "audioPath": "/demo/replays/18257865/21-goal-1186.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Jude BELLINGHAM scores, and England move to 4–6.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-1195",
+      "audioPath": "/demo/replays/18257865/22-fulltime-1195.mp3",
+      "text": "At full-time, France 4–6 England.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

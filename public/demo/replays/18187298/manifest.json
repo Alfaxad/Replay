@@ -1,0 +1,244 @@
+{
+  "fixtureId": 18187298,
+  "matchNumber": 91,
+  "generatedAt": "2026-07-19T20:56:11.846Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Brazil–Norway: The Late Swing",
+    "openingLine": "Welcome to Replay: Brazil meet Norway in the round of 16 at New York/New Jersey Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-19",
+        "spokenLine": "Brazil meet Norway in the round of 16 at New York/New Jersey Stadium.",
+        "explainer": "The journey begins with the verified setting: a round-of-16 meeting between Brazil and Norway."
+      },
+      {
+        "id": "corner-86",
+        "spokenLine": "Norway open the corner count at 0–1.",
+        "explainer": "Norway take the early edge in the confirmed corner count."
+      },
+      {
+        "id": "corner-421",
+        "spokenLine": "Brazil respond, bringing the corner count level at 1–1.",
+        "explainer": "Brazil restore parity in the corner count."
+      },
+      {
+        "id": "pressure-422",
+        "spokenLine": "Brazil’s spell brings 6 shots and 28 dangerous actions across ten minutes.",
+        "explainer": "This is Brazil’s clearest sustained attacking passage so far."
+      },
+      {
+        "id": "corner-448",
+        "spokenLine": "Norway move ahead on corners again, 1–2.",
+        "explainer": "Norway regain the corner advantage before the interval."
+      },
+      {
+        "id": "corner-487",
+        "spokenLine": "Norway add another corner, leading 1–3.",
+        "explainer": "The confirmed corner count now tilts further toward Norway."
+      },
+      {
+        "id": "halftime-545",
+        "spokenLine": "Brazil and Norway are level at 0–0 at the interval.",
+        "explainer": "Despite Brazil’s pressure spell, neither side has scored by half-time."
+      },
+      {
+        "id": "corner-650",
+        "spokenLine": "Brazil narrow the corner gap to 2–3.",
+        "explainer": "Brazil begin to close Norway’s corner advantage after the break."
+      },
+      {
+        "id": "corner-716",
+        "spokenLine": "Brazil draw level on corners at 3–3.",
+        "explainer": "The corner count is level once more."
+      },
+      {
+        "id": "corner-760",
+        "spokenLine": "Norway edge back in front on corners, 3–4.",
+        "explainer": "Norway regain a narrow set-piece advantage."
+      },
+      {
+        "id": "pressure-767",
+        "spokenLine": "Norway’s spell brings 3 shots and 17 dangerous actions across ten minutes.",
+        "explainer": "Norway answer Brazil’s earlier surge with their own sustained pressure."
+      },
+      {
+        "id": "goal-887",
+        "spokenLine": "Erling HAALAND scores for Norway, and the verified score moves to 0–1.",
+        "explainer": "The deadlock is broken, with Norway taking the lead."
+      },
+      {
+        "id": "corner-904",
+        "spokenLine": "Brazil bring the corner count level at 4–4.",
+        "explainer": "Brazil respond to falling behind by restoring parity in corners."
+      },
+      {
+        "id": "corner-908",
+        "spokenLine": "Brazil take the corner lead, 5–4.",
+        "explainer": "Brazil move ahead in the corner count during their response."
+      },
+      {
+        "id": "corner-972",
+        "spokenLine": "Norway level the corner count at 5–5.",
+        "explainer": "Norway erase Brazil’s corner advantage late on."
+      },
+      {
+        "id": "pressure-992",
+        "spokenLine": "Brazil’s spell brings 1 shot and 31 dangerous actions across ten minutes.",
+        "explainer": "Brazil sustain heavy pressure late, though the verified passage records only 1 shot."
+      },
+      {
+        "id": "goal-996",
+        "spokenLine": "Erling HAALAND scores for Norway; the verified score moves to 0–2.",
+        "explainer": "Norway extend their lead late in the match."
+      },
+      {
+        "id": "yellow_card-1049",
+        "spokenLine": "NEYMAR JR is shown a card for Brazil.",
+        "explainer": "A late disciplinary moment arrives for Brazil."
+      },
+      {
+        "id": "fulltime-1100",
+        "spokenLine": "Brazil 1–2 Norway: the final score is confirmed.",
+        "explainer": "Norway finish with the victory after scoring twice."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-19",
+      "audioPath": "/demo/replays/18187298/01-kickoff-19.mp3",
+      "text": "At kick-off, Brazil meet Norway in the round of 16 at New York/New Jersey Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-86",
+      "audioPath": "/demo/replays/18187298/02-corner-86.mp3",
+      "text": "In the 5th minute, Norway win a confirmed corner. The corner count is 0–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-421",
+      "audioPath": "/demo/replays/18187298/03-corner-421.mp3",
+      "text": "In the 39th minute, Brazil win a confirmed corner. The corner count is 1–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-422",
+      "audioPath": "/demo/replays/18187298/04-pressure-422.mp3",
+      "text": "Between the 30th and 40th minutes, Brazil’s spell brings 6 shots and 28 dangerous actions across ten minutes.",
+      "kind": "pressure",
+      "intensity": 80
+    },
+    {
+      "id": "corner-448",
+      "audioPath": "/demo/replays/18187298/05-corner-448.mp3",
+      "text": "In the 42nd minute, Norway win a confirmed corner. The corner count is 1–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-487",
+      "audioPath": "/demo/replays/18187298/06-corner-487.mp3",
+      "text": "In the 45th minute, Norway win a confirmed corner. The corner count is 1–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-545",
+      "audioPath": "/demo/replays/18187298/07-halftime-545.mp3",
+      "text": "At half-time, Brazil and Norway are level at 0–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-650",
+      "audioPath": "/demo/replays/18187298/08-corner-650.mp3",
+      "text": "In the 53rd minute, Brazil win a confirmed corner. The corner count is 2–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-716",
+      "audioPath": "/demo/replays/18187298/09-corner-716.mp3",
+      "text": "In the 60th minute, Brazil win a confirmed corner. The corner count is 3–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-760",
+      "audioPath": "/demo/replays/18187298/10-corner-760.mp3",
+      "text": "In the 65th minute, Norway win a confirmed corner. The corner count is 3–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-767",
+      "audioPath": "/demo/replays/18187298/11-pressure-767.mp3",
+      "text": "Between the 60th and 70th minutes, Norway’s spell brings 3 shots and 17 dangerous actions across ten minutes.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "goal-887",
+      "audioPath": "/demo/replays/18187298/12-goal-887.mp3",
+      "text": "In the 79th minute, Erling HAALAND scores for Norway, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-904",
+      "audioPath": "/demo/replays/18187298/13-corner-904.mp3",
+      "text": "In the 81st minute, Brazil win a confirmed corner. The corner count is 4–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-908",
+      "audioPath": "/demo/replays/18187298/14-corner-908.mp3",
+      "text": "In the 82nd minute, Brazil win a confirmed corner. The corner count is 5–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-972",
+      "audioPath": "/demo/replays/18187298/15-corner-972.mp3",
+      "text": "In the 87th minute, Norway win a confirmed corner. The corner count is 5–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-992",
+      "audioPath": "/demo/replays/18187298/16-pressure-992.mp3",
+      "text": "Between the 80th and 90th minutes, Brazil’s spell brings 1 shot and 31 dangerous actions across ten minutes.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "goal-996",
+      "audioPath": "/demo/replays/18187298/17-goal-996.mp3",
+      "text": "In the 90th minute, Erling HAALAND scores for Norway; the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-1049",
+      "audioPath": "/demo/replays/18187298/18-yellow_card-1049.mp3",
+      "text": "In the 6th minute of second-half stoppage time, NEYMAR JR is shown a card for Brazil.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-1100",
+      "audioPath": "/demo/replays/18187298/19-fulltime-1100.mp3",
+      "text": "At full-time, Brazil 1–2 Norway: the final score is confirmed.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

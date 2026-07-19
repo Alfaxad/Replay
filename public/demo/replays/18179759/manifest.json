@@ -1,0 +1,124 @@
+{
+  "fixtureId": 18179759,
+  "matchNumber": 79,
+  "generatedAt": "2026-07-19T20:55:53.534Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Mexico Take Control",
+    "openingLine": "Welcome to Replay, where Mexico’s meeting with Ecuador comes back to life.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Mexico meet Ecuador in the round of 32 at Mexico City Stadium.",
+        "explainer": "The replay begins with the setting established: a knockout meeting between Mexico and Ecuador."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "Julian QUINONES puts Mexico ahead, 1–0.",
+        "explainer": "Mexico take the lead, creating the first verified shift in the score."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Raul JIMENEZ makes it 2–0 to Mexico.",
+        "explainer": "Mexico double their advantage, moving from a narrow lead to a two-goal margin."
+      },
+      {
+        "id": "yellow_card-5",
+        "spokenLine": "Alan FRANCO is shown a card for Ecuador.",
+        "explainer": "The first verified disciplinary moment arrives before the interval, with Ecuador receiving the card."
+      },
+      {
+        "id": "halftime-6",
+        "spokenLine": "Mexico lead Ecuador 2–0 at the interval.",
+        "explainer": "Half-time confirms Mexico’s two-goal advantage after the opening period."
+      },
+      {
+        "id": "yellow_card-15",
+        "spokenLine": "Kendry PAEZ is shown a card for Ecuador.",
+        "explainer": "A late card adds another disciplinary moment for Ecuador."
+      },
+      {
+        "id": "red_card-16",
+        "spokenLine": "Piero HINCAPIE is shown a red card for Ecuador.",
+        "explainer": "The red card is a decisive late match event, arriving while Mexico hold a 2–0 lead."
+      },
+      {
+        "id": "yellow_card-17",
+        "spokenLine": "Moises CAICEDO is shown a card for Ecuador.",
+        "explainer": "Another Ecuador card follows in the closing moments of the match."
+      },
+      {
+        "id": "fulltime-18",
+        "spokenLine": "Mexico 2–0 Ecuador. That is the final score.",
+        "explainer": "The full-time score confirms Mexico’s two-goal victory over Ecuador."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179759/01-kickoff-0.mp3",
+      "text": "At kick-off, Mexico meet Ecuador in the round of 32 at Mexico City Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18179759/02-goal-3.mp3",
+      "text": "In the 22nd minute, Julian QUINONES puts Mexico ahead, 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18179759/03-goal-4.mp3",
+      "text": "In the 31st minute, Raul JIMENEZ makes it 2–0 to Mexico.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-5",
+      "audioPath": "/demo/replays/18179759/04-yellow_card-5.mp3",
+      "text": "In the 1st minute of first-half stoppage time, Alan FRANCO is shown a card for Ecuador.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-6",
+      "audioPath": "/demo/replays/18179759/05-halftime-6.mp3",
+      "text": "At half-time, Mexico lead Ecuador 2–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-15",
+      "audioPath": "/demo/replays/18179759/06-yellow_card-15.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, Kendry PAEZ is shown a card for Ecuador.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "red_card-16",
+      "audioPath": "/demo/replays/18179759/07-red_card-16.mp3",
+      "text": "In the 5th minute of second-half stoppage time, Piero HINCAPIE is shown a red card for Ecuador.",
+      "kind": "red_card",
+      "intensity": 92
+    },
+    {
+      "id": "yellow_card-17",
+      "audioPath": "/demo/replays/18179759/08-yellow_card-17.mp3",
+      "text": "In the 9th minute of second-half stoppage time, Moises CAICEDO is shown a card for Ecuador.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-18",
+      "audioPath": "/demo/replays/18179759/09-fulltime-18.mp3",
+      "text": "At full-time, Mexico 2–0 Ecuador. That is the final score.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

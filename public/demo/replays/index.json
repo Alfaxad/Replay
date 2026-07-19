@@ -1,0 +1,178 @@
+{
+  "generatedAt": "2026-07-19T20:56:33.835Z",
+  "mode": "offline-demo",
+  "modelsUsedAtGenerationTime": [
+    "gpt-5.6-luna",
+    "gpt-4o-mini-tts"
+  ],
+  "runtimeOpenAICalls": 0,
+  "completedMatches": 33,
+  "chapters": 471,
+  "matches": [
+    {
+      "fixtureId": 17588326,
+      "matchNumber": 69,
+      "chapters": 10
+    },
+    {
+      "fixtureId": 17588325,
+      "matchNumber": 70,
+      "chapters": 10
+    },
+    {
+      "fixtureId": 18167317,
+      "matchNumber": 73,
+      "chapters": 6
+    },
+    {
+      "fixtureId": 18175983,
+      "matchNumber": 74,
+      "chapters": 18
+    },
+    {
+      "fixtureId": 18172260,
+      "matchNumber": 75,
+      "chapters": 11
+    },
+    {
+      "fixtureId": 18172489,
+      "matchNumber": 76,
+      "chapters": 11
+    },
+    {
+      "fixtureId": 18175981,
+      "matchNumber": 77,
+      "chapters": 6
+    },
+    {
+      "fixtureId": 18175397,
+      "matchNumber": 78,
+      "chapters": 7
+    },
+    {
+      "fixtureId": 18179759,
+      "matchNumber": 79,
+      "chapters": 9
+    },
+    {
+      "fixtureId": 18179764,
+      "matchNumber": 80,
+      "chapters": 8
+    },
+    {
+      "fixtureId": 18172379,
+      "matchNumber": 81,
+      "chapters": 7
+    },
+    {
+      "fixtureId": 18179550,
+      "matchNumber": 82,
+      "chapters": 11
+    },
+    {
+      "fixtureId": 18179763,
+      "matchNumber": 83,
+      "chapters": 9
+    },
+    {
+      "fixtureId": 18179551,
+      "matchNumber": 84,
+      "chapters": 7
+    },
+    {
+      "fixtureId": 18179552,
+      "matchNumber": 85,
+      "chapters": 7
+    },
+    {
+      "fixtureId": 18175918,
+      "matchNumber": 86,
+      "chapters": 10
+    },
+    {
+      "fixtureId": 18179549,
+      "matchNumber": 87,
+      "chapters": 9
+    },
+    {
+      "fixtureId": 18176123,
+      "matchNumber": 88,
+      "chapters": 14
+    },
+    {
+      "fixtureId": 18188721,
+      "matchNumber": 89,
+      "chapters": 8
+    },
+    {
+      "fixtureId": 18185036,
+      "matchNumber": 90,
+      "chapters": 14
+    },
+    {
+      "fixtureId": 18187298,
+      "matchNumber": 91,
+      "chapters": 19
+    },
+    {
+      "fixtureId": 18192996,
+      "matchNumber": 92,
+      "chapters": 32
+    },
+    {
+      "fixtureId": 18198205,
+      "matchNumber": 93,
+      "chapters": 20
+    },
+    {
+      "fixtureId": 18193785,
+      "matchNumber": 94,
+      "chapters": 22
+    },
+    {
+      "fixtureId": 18202701,
+      "matchNumber": 95,
+      "chapters": 18
+    },
+    {
+      "fixtureId": 18202783,
+      "matchNumber": 96,
+      "chapters": 22
+    },
+    {
+      "fixtureId": 18209181,
+      "matchNumber": 97,
+      "chapters": 19
+    },
+    {
+      "fixtureId": 18218149,
+      "matchNumber": 98,
+      "chapters": 19
+    },
+    {
+      "fixtureId": 18213979,
+      "matchNumber": 99,
+      "chapters": 22
+    },
+    {
+      "fixtureId": 18222446,
+      "matchNumber": 100,
+      "chapters": 26
+    },
+    {
+      "fixtureId": 18237038,
+      "matchNumber": 101,
+      "chapters": 18
+    },
+    {
+      "fixtureId": 18241006,
+      "matchNumber": 102,
+      "chapters": 20
+    },
+    {
+      "fixtureId": 18257865,
+      "matchNumber": 103,
+      "chapters": 22
+    }
+  ]
+}

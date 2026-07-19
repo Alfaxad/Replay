@@ -1,0 +1,232 @@
+{
+  "fixtureId": 18237038,
+  "matchNumber": 101,
+  "generatedAt": "2026-07-19T20:56:30.456Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Spain Reach the Final in Dallas",
+    "openingLine": "France meet Spain in the semi-final at Dallas Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-20",
+        "spokenLine": "France meet Spain in the semi-final at Dallas Stadium.",
+        "explainer": "The semi-final begins in Dallas, with everything still to be decided."
+      },
+      {
+        "id": "corner-76",
+        "spokenLine": "France win a confirmed corner. The corner count is 1–0.",
+        "explainer": "France register the first corner, an early sign of attacking intent."
+      },
+      {
+        "id": "yellow_card-110",
+        "spokenLine": "Adrien RABIOT is shown a card for France.",
+        "explainer": "The opening disciplinary moment belongs to France."
+      },
+      {
+        "id": "corner-169",
+        "spokenLine": "France win another confirmed corner. The corner count is 2–0.",
+        "explainer": "France add to their early set-piece pressure."
+      },
+      {
+        "id": "pressure-213",
+        "spokenLine": "France drive a sustained spell: 1 shot and 17 dangerous actions.",
+        "explainer": "The numbers underline a forceful ten-minute passage for France."
+      },
+      {
+        "id": "yellow_card-260",
+        "spokenLine": "Marc CUCURELLA is shown a card for Spain.",
+        "explainer": "Spain now enter the disciplinary record as the match develops."
+      },
+      {
+        "id": "corner-346",
+        "spokenLine": "Spain win a confirmed corner. The corner count is 2–1.",
+        "explainer": "Spain answer France’s early corner advantage with their first."
+      },
+      {
+        "id": "pressure-352",
+        "spokenLine": "Spain drive a sustained spell: 4 shots and 14 dangerous actions.",
+        "explainer": "The flow swings toward Spain during this ten-minute spell."
+      },
+      {
+        "id": "corner-388",
+        "spokenLine": "France win a confirmed corner. The corner count is 3–1.",
+        "explainer": "France regain a little set-piece momentum before the interval."
+      },
+      {
+        "id": "halftime-478",
+        "spokenLine": "France 0–1 Spain at the interval.",
+        "explainer": "Spain carry a one-goal advantage into half-time."
+      },
+      {
+        "id": "goal-618",
+        "spokenLine": "Pedro PORRO scores for Spain, and the verified score moves to 0–2.",
+        "explainer": "Spain double the lead, creating a much steeper challenge for France."
+      },
+      {
+        "id": "corner-682",
+        "spokenLine": "France win a confirmed corner. The corner count is 4–1.",
+        "explainer": "France begin to build their corner total after falling two behind."
+      },
+      {
+        "id": "corner-688",
+        "spokenLine": "France win another corner. The corner count is 5–1.",
+        "explainer": "The pressure continues, with France adding another set piece."
+      },
+      {
+        "id": "corner-713",
+        "spokenLine": "France win a third straight corner. The corner count is 6–1.",
+        "explainer": "Three corners in quick succession show France pushing forward."
+      },
+      {
+        "id": "pressure-729",
+        "spokenLine": "France drive a sustained spell: 2 shots and 17 dangerous actions.",
+        "explainer": "France’s attacking volume rises again, but the score remains 0–2."
+      },
+      {
+        "id": "yellow_card-896",
+        "spokenLine": "Kylian MBAPPE is shown a card for France.",
+        "explainer": "France’s late push now includes another disciplinary moment."
+      },
+      {
+        "id": "corner-930",
+        "spokenLine": "France win a confirmed corner. The corner count is 7–1.",
+        "explainer": "France keep pressing for a way back into the match."
+      },
+      {
+        "id": "fulltime-1026",
+        "spokenLine": "France 0–2 Spain.",
+        "explainer": "Spain’s two-goal advantage stands, sending them through from the semi-final."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-20",
+      "audioPath": "/demo/replays/18237038/01-kickoff-20.mp3",
+      "text": "At kick-off, France meet Spain in the semi-final at Dallas Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-76",
+      "audioPath": "/demo/replays/18237038/02-corner-76.mp3",
+      "text": "In the 5th minute, France win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-110",
+      "audioPath": "/demo/replays/18237038/03-yellow_card-110.mp3",
+      "text": "In the 8th minute, Adrien RABIOT is shown a card for France.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-169",
+      "audioPath": "/demo/replays/18237038/04-corner-169.mp3",
+      "text": "In the 15th minute, France win a confirmed corner. The corner count is 2–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-213",
+      "audioPath": "/demo/replays/18237038/05-pressure-213.mp3",
+      "text": "Between the 10th and 20th minutes, France drive a sustained spell: 1 shot and 17 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "yellow_card-260",
+      "audioPath": "/demo/replays/18237038/06-yellow_card-260.mp3",
+      "text": "In the 31st minute, Marc CUCURELLA is shown a card for Spain.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-346",
+      "audioPath": "/demo/replays/18237038/07-corner-346.mp3",
+      "text": "In the 37th minute, Spain win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-352",
+      "audioPath": "/demo/replays/18237038/08-pressure-352.mp3",
+      "text": "Between the 30th and 40th minutes, Spain drive a sustained spell: 4 shots and 14 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-388",
+      "audioPath": "/demo/replays/18237038/09-corner-388.mp3",
+      "text": "In the 41st minute, France win a confirmed corner. The corner count is 3–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-478",
+      "audioPath": "/demo/replays/18237038/10-halftime-478.mp3",
+      "text": "At half-time, France 0–1 Spain.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-618",
+      "audioPath": "/demo/replays/18237038/11-goal-618.mp3",
+      "text": "In the 58th minute, Pedro PORRO scores for Spain, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-682",
+      "audioPath": "/demo/replays/18237038/12-corner-682.mp3",
+      "text": "In the 63rd minute, France win a confirmed corner. The corner count is 4–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-688",
+      "audioPath": "/demo/replays/18237038/13-corner-688.mp3",
+      "text": "In the 64th minute, France win a confirmed corner. The corner count is 5–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-713",
+      "audioPath": "/demo/replays/18237038/14-corner-713.mp3",
+      "text": "In the 66th minute, France win a confirmed corner. The corner count is 6–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-729",
+      "audioPath": "/demo/replays/18237038/15-pressure-729.mp3",
+      "text": "Between the 60th and 70th minutes, France drive a sustained spell: 2 shots and 17 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 68
+    },
+    {
+      "id": "yellow_card-896",
+      "audioPath": "/demo/replays/18237038/16-yellow_card-896.mp3",
+      "text": "In the 86th minute, Kylian MBAPPE is shown a card for France.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-930",
+      "audioPath": "/demo/replays/18237038/17-corner-930.mp3",
+      "text": "In the 89th minute, France win a confirmed corner. The corner count is 7–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "fulltime-1026",
+      "audioPath": "/demo/replays/18237038/18-fulltime-1026.mp3",
+      "text": "At full-time, France 0–2 Spain.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

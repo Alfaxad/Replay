@@ -1,0 +1,280 @@
+{
+  "fixtureId": 18213979,
+  "matchNumber": 99,
+  "generatedAt": "2026-07-19T20:56:27.364Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Norway v England: The Quarter-final Replay",
+    "openingLine": "Welcome back to Norway against England, the quarter-final replay from Miami Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-19",
+        "spokenLine": "Norway meet England in the quarter-final at Miami Stadium.",
+        "explainer": "The replay begins with the quarter-final set at Miami Stadium."
+      },
+      {
+        "id": "corner-170",
+        "spokenLine": "England win a confirmed corner, and the count is 0–1.",
+        "explainer": "England take the early corner advantage."
+      },
+      {
+        "id": "goal-314",
+        "spokenLine": "Andreas SCHJELDERUP scores for Norway, and the verified score is 1–0.",
+        "explainer": "Norway move in front through SCHJELDERUP."
+      },
+      {
+        "id": "pressure-353",
+        "spokenLine": "Norway sustain the surge with 4 shots and 14 dangerous actions.",
+        "explainer": "This ten-minute passage confirms Norway’s attacking flow after taking the lead."
+      },
+      {
+        "id": "corner-398",
+        "spokenLine": "England win another confirmed corner, making the count 0–2.",
+        "explainer": "England add to their corner tally before the interval."
+      },
+      {
+        "id": "goal-418",
+        "spokenLine": "Jude BELLINGHAM scores for England, and the verified score is 1–1.",
+        "explainer": "England level the quarter-final just before half-time."
+      },
+      {
+        "id": "halftime-447",
+        "spokenLine": "Norway 1–1 England at the interval.",
+        "explainer": "The teams go into the break level."
+      },
+      {
+        "id": "corner-521",
+        "spokenLine": "Norway win a confirmed corner, and the count is 1–2.",
+        "explainer": "Norway begin the second half by narrowing the corner gap."
+      },
+      {
+        "id": "corner-528",
+        "spokenLine": "Norway win another confirmed corner, and the count is 2–2.",
+        "explainer": "The corner count is level."
+      },
+      {
+        "id": "corner-531",
+        "spokenLine": "Norway win again, moving the confirmed corner count to 3–2.",
+        "explainer": "Norway now lead the corner count."
+      },
+      {
+        "id": "corner-541",
+        "spokenLine": "Norway win another confirmed corner, and the count is 4–2.",
+        "explainer": "The set-piece pressure continues to build for Norway."
+      },
+      {
+        "id": "corner-657",
+        "spokenLine": "Norway win a confirmed corner, with the count at 4–2.",
+        "explainer": "Norway remain the side with more confirmed corners."
+      },
+      {
+        "id": "pressure-697",
+        "spokenLine": "Norway drive on with 2 shots and 19 dangerous actions.",
+        "explainer": "This ten-minute passage shows sustained Norway pressure."
+      },
+      {
+        "id": "corner-715",
+        "spokenLine": "Norway win another confirmed corner, making the count 5–2.",
+        "explainer": "Norway extend their corner advantage."
+      },
+      {
+        "id": "corner-766",
+        "spokenLine": "England win a confirmed corner, and the count is 5–3.",
+        "explainer": "England respond by reducing the corner deficit."
+      },
+      {
+        "id": "corner-871",
+        "spokenLine": "England win again, bringing the confirmed corner count to 5–4.",
+        "explainer": "England close within one corner."
+      },
+      {
+        "id": "goal-885",
+        "spokenLine": "Jude BELLINGHAM scores for England, and the verified score is 1–2.",
+        "explainer": "England take the lead late through BELLINGHAM."
+      },
+      {
+        "id": "corner-963",
+        "spokenLine": "Norway win a confirmed corner, and the count is 6–4.",
+        "explainer": "Norway continue to seek a response after falling behind."
+      },
+      {
+        "id": "pressure-1063",
+        "spokenLine": "Norway press with 5 shots and 18 dangerous actions.",
+        "explainer": "This ten-minute passage records a strong Norway attacking spell while England lead 1–2."
+      },
+      {
+        "id": "corner-1098",
+        "spokenLine": "Norway win another confirmed corner, moving the count to 7–4.",
+        "explainer": "Norway add another corner as the late pressure continues."
+      },
+      {
+        "id": "yellow_card-1129",
+        "spokenLine": "Kristoffer AJER is shown a card for Norway.",
+        "explainer": "Norway receive a card late in the match."
+      },
+      {
+        "id": "fulltime-1184",
+        "spokenLine": "Norway 1–2 England.",
+        "explainer": "England finish the quarter-final with the victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-19",
+      "audioPath": "/demo/replays/18213979/01-kickoff-19.mp3",
+      "text": "At kick-off, Norway meet England in the quarter-final at Miami Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-170",
+      "audioPath": "/demo/replays/18213979/02-corner-170.mp3",
+      "text": "In the 15th minute, England win a confirmed corner. The corner count is 0–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-314",
+      "audioPath": "/demo/replays/18213979/03-goal-314.mp3",
+      "text": "In the 36th minute, Andreas SCHJELDERUP scores for Norway, and the verified score is 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "pressure-353",
+      "audioPath": "/demo/replays/18213979/04-pressure-353.mp3",
+      "text": "Between the 30th and 40th minutes, Norway sustain the surge with 4 shots and 14 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-398",
+      "audioPath": "/demo/replays/18213979/05-corner-398.mp3",
+      "text": "In the 43rd minute, England win a confirmed corner. The corner count is 0–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-418",
+      "audioPath": "/demo/replays/18213979/06-goal-418.mp3",
+      "text": "In the 2nd minute of first-half stoppage time, Jude BELLINGHAM scores for England, and the verified score is 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-447",
+      "audioPath": "/demo/replays/18213979/07-halftime-447.mp3",
+      "text": "At half-time, Norway 1–1 England.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-521",
+      "audioPath": "/demo/replays/18213979/08-corner-521.mp3",
+      "text": "In the 51st minute, Norway win a confirmed corner. The corner count is 1–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-528",
+      "audioPath": "/demo/replays/18213979/09-corner-528.mp3",
+      "text": "In the 52nd minute, Norway win a confirmed corner. The corner count is 2–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-531",
+      "audioPath": "/demo/replays/18213979/10-corner-531.mp3",
+      "text": "In the 53rd minute, Norway win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-541",
+      "audioPath": "/demo/replays/18213979/11-corner-541.mp3",
+      "text": "In the 57th minute, Norway win a confirmed corner. The corner count is 4–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-657",
+      "audioPath": "/demo/replays/18213979/12-corner-657.mp3",
+      "text": "In the 74th minute, Norway win a confirmed corner. The corner count is 4–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-697",
+      "audioPath": "/demo/replays/18213979/13-pressure-697.mp3",
+      "text": "Between the 70th and 80th minutes, Norway drive on with 2 shots and 19 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 68
+    },
+    {
+      "id": "corner-715",
+      "audioPath": "/demo/replays/18213979/14-corner-715.mp3",
+      "text": "In the 81st minute, Norway win a confirmed corner. The corner count is 5–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-766",
+      "audioPath": "/demo/replays/18213979/15-corner-766.mp3",
+      "text": "In the 87th minute, England win a confirmed corner. The corner count is 5–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-871",
+      "audioPath": "/demo/replays/18213979/16-corner-871.mp3",
+      "text": "In the 91st minute, England win a confirmed corner. The corner count is 5–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-885",
+      "audioPath": "/demo/replays/18213979/17-goal-885.mp3",
+      "text": "In the 93rd minute, Jude BELLINGHAM scores for England, and the verified score is 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-963",
+      "audioPath": "/demo/replays/18213979/18-corner-963.mp3",
+      "text": "In the 103rd minute, Norway win a confirmed corner. The corner count is 6–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-1063",
+      "audioPath": "/demo/replays/18213979/19-pressure-1063.mp3",
+      "text": "Between the 100th and 110th minutes, Norway press with 5 shots and 18 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 77
+    },
+    {
+      "id": "corner-1098",
+      "audioPath": "/demo/replays/18213979/20-corner-1098.mp3",
+      "text": "In the 113th minute, Norway win a confirmed corner. The corner count is 7–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-1129",
+      "audioPath": "/demo/replays/18213979/21-yellow_card-1129.mp3",
+      "text": "In the 117th minute, Kristoffer AJER is shown a card for Norway.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-1184",
+      "audioPath": "/demo/replays/18213979/22-fulltime-1184.mp3",
+      "text": "At full-time, Norway 1–2 England.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

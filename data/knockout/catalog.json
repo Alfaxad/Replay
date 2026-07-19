@@ -1,0 +1,5323 @@
+{
+  "generatedAt": "2026-07-19T18:37:50.387Z",
+  "scope": "FIFA World Cup 2026 · TxLINE published fixture coverage",
+  "sources": [
+    {
+      "id": "txline",
+      "label": "TxLINE historical scores",
+      "url": "https://txline.txodds.com/documentation/scores/overview"
+    },
+    {
+      "id": "fifa",
+      "label": "FIFA official match calendar and live records",
+      "url": "https://api.fifa.com/api/v3"
+    }
+  ],
+  "matches": [
+    {
+      "matchNumber": 69,
+      "fixtureId": 17588326,
+      "fifaMatchId": "400021497",
+      "fifaStageId": "289273",
+      "stage": "Group stage",
+      "group": "Group J",
+      "date": "2026-06-28T02:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Algeria",
+        "code": "ALG"
+      },
+      "away": {
+        "name": "Austria",
+        "code": "AUT"
+      },
+      "score": [
+        3,
+        3
+      ],
+      "penalties": null,
+      "stadium": "Kansas City Stadium",
+      "attendance": 69045,
+      "eventSource": "fifa-official-events",
+      "eventCount": 19,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Michael Gregoritsch",
+          "playerOff": "Marko ARNAUTOVIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Paul WANNER",
+          "playerOff": "Romano SCHMID"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Florian GRILLITSCH",
+          "playerOff": "Xaver Schlager"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 11,
+          "clock": "11'",
+          "side": 2,
+          "player": "Marko ARNAUTOVIC"
+        },
+        {
+          "kind": "goal",
+          "minute": 28,
+          "clock": "28'",
+          "side": 2,
+          "player": "Marko ARNAUTOVIC",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 45,
+          "clock": "45'",
+          "side": 1,
+          "player": "Rafik BELGHALI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 55,
+          "clock": "55'",
+          "side": 2,
+          "player": "Marcel SABITZER",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Riyad MAHREZ",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 2,
+          "player": "Kevin Danso",
+          "playerOff": "David ALABA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Rayan AIT-NOURI",
+          "playerOff": "Jaouen HADJAM"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Zineddine BELAID",
+          "playerOff": "Amine GOUIRI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Samir CHERGUI",
+          "playerOff": "Rafik BELGHALI"
+        },
+        {
+          "kind": "goal",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Riyad MAHREZ",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 1,
+          "player": "Fares GHEDJEMIS",
+          "playerOff": "Houssem Aouar"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 2,
+          "player": "Sasa KALAJDZIC",
+          "playerOff": "Phillip MWENE"
+        },
+        {
+          "kind": "goal",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 2,
+          "player": "Sasa KALAJDZIC",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 70,
+      "fixtureId": 17588325,
+      "fifaMatchId": "400021495",
+      "fifaStageId": "289273",
+      "stage": "Group stage",
+      "group": "Group J",
+      "date": "2026-06-28T02:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Jordan",
+        "code": "JOR"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "score": [
+        1,
+        3
+      ],
+      "penalties": null,
+      "stadium": "Dallas Stadium",
+      "attendance": 70649,
+      "eventSource": "fifa-official-events",
+      "eventCount": 20,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "MAHMOUD ALMARDI",
+          "playerOff": "ODEH FAKHOURY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "MOUSA ALTAMARI",
+          "playerOff": "ALI AZAIZEH"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 17,
+          "clock": "17'",
+          "side": 1,
+          "player": "MOHANNAD ABUTAHA"
+        },
+        {
+          "kind": "goal",
+          "minute": 19,
+          "clock": "19'",
+          "side": 2,
+          "player": "Giovani LO CELSO",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 31,
+          "clock": "31'",
+          "side": 2,
+          "player": "Lautaro MARTINEZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 55,
+          "clock": "55'",
+          "side": 1,
+          "player": "MOUSA ALTAMARI",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Thiago ALMADA",
+          "playerOff": "Giovani Lo Celso"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Lionel MESSI",
+          "playerOff": "Lautaro MARTINEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Alexis MAC ALLISTER",
+          "playerOff": "Nico PAZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 64,
+          "clock": "64'",
+          "side": 1,
+          "player": "YAZAN ALARAB"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Valentin BARCO",
+          "playerOff": "Giuliano SIMEONE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 76,
+          "clock": "76'",
+          "side": 1,
+          "player": "AMER JAMOUS",
+          "playerOff": "NIZAR ALRASHDAN"
+        },
+        {
+          "kind": "goal",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "Lionel MESSI",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Jose Manuel LOPEZ",
+          "playerOff": "Julian ALVAREZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "MOHAMMAD ABUZRAIQ",
+          "playerOff": "ALI OLWAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "SALEEM OBAID",
+          "playerOff": "HUSAM ABUDAHAB"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 1,
+          "player": "MOHAMMAD ABUZRAIQ"
+        }
+      ]
+    },
+    {
+      "matchNumber": 73,
+      "fixtureId": 18167317,
+      "fifaMatchId": "400021518",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-28T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "South Africa",
+        "code": "RSA"
+      },
+      "away": {
+        "name": "Canada",
+        "code": "CAN"
+      },
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Los Angeles Stadium",
+      "attendance": 69237,
+      "eventSource": "fifa-official-events",
+      "eventCount": 14,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Thalente MBATHA",
+          "playerOff": "Relebohile MOFOKENG"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 54,
+          "clock": "54'",
+          "side": 2,
+          "player": "Nathan SALIBA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 59,
+          "clock": "59'",
+          "side": 2,
+          "player": "Niko SIGUR",
+          "playerOff": "Nathan SALIBA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 59,
+          "clock": "59'",
+          "side": 2,
+          "player": "Luc DE FOUGEROLLES",
+          "playerOff": "Moise BOMBITO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Niko SIGUR"
+        },
+        {
+          "kind": "substitution",
+          "minute": 70,
+          "clock": "70'",
+          "side": 2,
+          "player": "Promise DAVID",
+          "playerOff": "Tani OLUWASEYI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 70,
+          "clock": "70'",
+          "side": 2,
+          "player": "Jacob SHAFFELBURG",
+          "playerOff": "Liam MILLAR"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Alphonso DAVIES",
+          "playerOff": "Tajon BUCHANAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Iqraam RAYNERS",
+          "playerOff": "Evidence MAKGOPA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Tshepang MOREMI",
+          "playerOff": "Thapelo MASEKO"
+        },
+        {
+          "kind": "goal",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 2,
+          "player": "Stephen EUSTAQUIO",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 74,
+      "fixtureId": 18175983,
+      "fifaMatchId": "400021513",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-29T20:30:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Germany",
+        "code": "GER"
+      },
+      "away": {
+        "name": "Paraguay",
+        "code": "PAR"
+      },
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        3,
+        4
+      ],
+      "stadium": "Boston Stadium",
+      "attendance": 63945,
+      "eventSource": "fifa-official-events",
+      "eventCount": 32,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Jose CANALE",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Matias GALARZA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Gustavo GOMEZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "MAURICIO",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Nadiem AMIRI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Jamal MUSIALA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Joshua KIMMICH",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Leon GORETZKA",
+          "playerOff": "Felix NMECHA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Gustavo VELAZQUEZ",
+          "playerOff": "Miguel ALMIRON"
+        },
+        {
+          "kind": "goal",
+          "minute": 42,
+          "clock": "42'",
+          "side": 2,
+          "player": "Julio ENCISO",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 54,
+          "clock": "54'",
+          "side": 1,
+          "player": "Kai HAVERTZ",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 55,
+          "clock": "55'",
+          "side": 2,
+          "player": "Gustavo CABALLERO",
+          "playerOff": "Gabriel AVALOS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 57,
+          "clock": "57'",
+          "side": 2,
+          "player": "MAURICIO",
+          "playerOff": "Julio ENCISO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 1,
+          "player": "Jamal MUSIALA",
+          "playerOff": "Deniz UNDAV"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 65,
+          "clock": "65'",
+          "side": 2,
+          "player": "Andres CUBAS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 1,
+          "player": "Waldemar ANTON",
+          "playerOff": "Aleksandar PAVLOVIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 88,
+          "clock": "88'",
+          "side": 1,
+          "player": "Nick WOLTEMADE",
+          "playerOff": "Leroy SANE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 99,
+          "clock": "99'",
+          "side": 2,
+          "player": "Braian OJEDA",
+          "playerOff": "Juan Jose CACERES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 99,
+          "clock": "99'",
+          "side": 2,
+          "player": "Antonio SANABRIA",
+          "playerOff": "Damian BOBADILLA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 105,
+          "clock": "105'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 106,
+          "clock": "105'+1'",
+          "side": 1,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 106,
+          "clock": "106'",
+          "side": 1,
+          "player": "Kai HAVERTZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 110,
+          "clock": "110'",
+          "side": 1,
+          "player": "Malick THIAW",
+          "playerOff": "Antonio RUEDIGER"
+        },
+        {
+          "kind": "substitution",
+          "minute": 110,
+          "clock": "110'",
+          "side": 1,
+          "player": "Nadiem Amiri",
+          "playerOff": "Florian WIRTZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 115,
+          "clock": "115'",
+          "side": 1,
+          "player": "Jamal MUSIALA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 116,
+          "clock": "116'",
+          "side": 1,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 117,
+          "clock": "117'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 117,
+          "clock": "117'",
+          "side": 2,
+          "player": "Matias GALARZA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 122,
+          "clock": "120'+2'",
+          "side": 2,
+          "player": "Fabian BALBUENA",
+          "playerOff": "Junior ALONSO"
+        }
+      ]
+    },
+    {
+      "matchNumber": 75,
+      "fixtureId": 18172260,
+      "fifaMatchId": "400021522",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-30T01:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Netherlands",
+        "code": "NED"
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "MAR"
+      },
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        2,
+        3
+      ],
+      "stadium": "Monterrey Stadium",
+      "attendance": 51243,
+      "eventSource": "fifa-official-events",
+      "eventCount": 22,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Ismael SAIBARI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Chemsdine TALBI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Soufiane RAHIMI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Wout WEGHORST",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Teun KOOPMEINERS",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 47,
+          "clock": "47'",
+          "side": 2,
+          "player": "Issa DIOP"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Teun KOOPMEINERS",
+          "playerOff": "Nathan AKE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Wout WEGHORST",
+          "playerOff": "Brian BROBBEY"
+        },
+        {
+          "kind": "goal",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Cody GAKPO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Anass SALAH EDDINE",
+          "playerOff": "Chadi RIAD"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Gessime YASSINE",
+          "playerOff": "Brahim DIAZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Samir EL MOURABET",
+          "playerOff": "Ayyoub BOUADDI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Quinten TIMBER",
+          "playerOff": "Ryan GRAVENBERCH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Jorrel HATO",
+          "playerOff": "Micky VAN DE VEN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Soufiane RAHIMI",
+          "playerOff": "Azzedine OUNAHI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Chemsdine TALBI",
+          "playerOff": "Bilal EL KHANNOUSS"
+        },
+        {
+          "kind": "goal",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 2,
+          "player": "Issa DIOP",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 110,
+          "clock": "110'",
+          "side": 1,
+          "player": "Marten DE ROON",
+          "playerOff": "Frenkie DE JONG"
+        },
+        {
+          "kind": "substitution",
+          "minute": 113,
+          "clock": "113'",
+          "side": 1,
+          "player": "Justin KLUIVERT",
+          "playerOff": "Cody GAKPO"
+        }
+      ]
+    },
+    {
+      "matchNumber": 76,
+      "fixtureId": 18172489,
+      "fifaMatchId": "400021516",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-29T17:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      "away": {
+        "name": "Japan",
+        "code": "JPN"
+      },
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Houston Stadium",
+      "attendance": 68777,
+      "eventSource": "fifa-official-events",
+      "eventCount": 20,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "ENDRICK",
+          "playerOff": "LUCAS PAQUETA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 12,
+          "clock": "12'",
+          "side": 2,
+          "player": "Kaishu SANO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 14,
+          "clock": "14'",
+          "side": 1,
+          "player": "CASEMIRO"
+        },
+        {
+          "kind": "goal",
+          "minute": 29,
+          "clock": "29'",
+          "side": 2,
+          "player": "Kaishu SANO",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 45,
+          "clock": "45'",
+          "side": 2,
+          "player": "Daichi KAMADA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 48,
+          "clock": "48'",
+          "side": 1,
+          "player": "DANILO"
+        },
+        {
+          "kind": "goal",
+          "minute": 56,
+          "clock": "56'",
+          "side": 1,
+          "player": "CASEMIRO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 65,
+          "clock": "65'",
+          "side": 1,
+          "player": "GABRIEL MARTINELLI",
+          "playerOff": "MATHEUS CUNHA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Junnosuke SUZUKI",
+          "playerOff": "Keito Nakamura"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Yukinari Sugawara",
+          "playerOff": "Ritsu DOAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 2,
+          "player": "Shuto MACHINO",
+          "playerOff": "Junya ITO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 2,
+          "player": "Ao TANAKA",
+          "playerOff": "Daichi KAMADA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 84,
+          "clock": "84'",
+          "side": 2,
+          "player": "Junnosuke SUZUKI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 1,
+          "player": "FABINHO",
+          "playerOff": "CASEMIRO"
+        },
+        {
+          "kind": "goal",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 1,
+          "player": "GABRIEL MARTINELLI",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 97,
+          "clock": "90'+7'",
+          "side": 1,
+          "player": "DANILO SANTOS",
+          "playerOff": "BRUNO GUIMARAES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 97,
+          "clock": "90'+7'",
+          "side": 2,
+          "player": "Koki OGAWA",
+          "playerOff": "Daizen MAEDA"
+        }
+      ]
+    },
+    {
+      "matchNumber": 77,
+      "fixtureId": 18175981,
+      "fifaMatchId": "400021523",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-30T21:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "France",
+        "code": "FRA"
+      },
+      "away": {
+        "name": "Sweden",
+        "code": "SWE"
+      },
+      "score": [
+        3,
+        0
+      ],
+      "penalties": null,
+      "stadium": "New York/New Jersey Stadium",
+      "attendance": 80663,
+      "eventSource": "fifa-official-events",
+      "eventCount": 16,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 45,
+          "clock": "45'",
+          "side": 1,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 53,
+          "clock": "53'",
+          "side": 1,
+          "player": "Bradley BARCOLA",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 65,
+          "clock": "65'",
+          "side": 2,
+          "player": "Taha ALI",
+          "playerOff": "Elliot STROUD"
+        },
+        {
+          "kind": "substitution",
+          "minute": 65,
+          "clock": "65'",
+          "side": 2,
+          "player": "Besfort ZENELI",
+          "playerOff": "Lucas BERGVALL"
+        },
+        {
+          "kind": "goal",
+          "minute": 74,
+          "clock": "74'",
+          "side": 1,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 1,
+          "player": "Desire DOUE",
+          "playerOff": "Ousmane DEMBELE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 1,
+          "player": "Malo GUSTO",
+          "playerOff": "Jules KOUNDE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Theo HERNANDEZ",
+          "playerOff": "Lucas Digne"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Mattias SVANBERG",
+          "playerOff": "Daniel SVENSSON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Benjamin NYGREN",
+          "playerOff": "Yasin AYARI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "Jean-Philippe MATETA",
+          "playerOff": "Kylian MBAPPE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "Rayan CHERKI",
+          "playerOff": "Michael OLISE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Gustaf NILSSON",
+          "playerOff": "Alexander Isak"
+        }
+      ]
+    },
+    {
+      "matchNumber": 78,
+      "fixtureId": 18175397,
+      "fifaMatchId": "400021514",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-06-30T17:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Côte d'Ivoire",
+        "code": "CIV"
+      },
+      "away": {
+        "name": "Norway",
+        "code": "NOR"
+      },
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Dallas Stadium",
+      "attendance": 69665,
+      "eventSource": "fifa-official-events",
+      "eventCount": 15,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 39,
+          "clock": "39'",
+          "side": 2,
+          "player": "Antonio NUSA",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 46,
+          "clock": "45'+1'",
+          "side": 2,
+          "player": "Antonio NUSA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Amad DIALLO",
+          "playerOff": "Christ Inao OULAI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Elye WAHI",
+          "playerOff": "Ange-Yoan BONNY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Andreas SCHJELDERUP",
+          "playerOff": "Antonio NUSA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Oscar BOBB",
+          "playerOff": "Alexander SORLOTH"
+        },
+        {
+          "kind": "goal",
+          "minute": 74,
+          "clock": "74'",
+          "side": 1,
+          "player": "Amad DIALLO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 2,
+          "player": "Fredrik AURSNES",
+          "playerOff": "Marcus HOLMGREN PEDERSEN"
+        },
+        {
+          "kind": "goal",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Erling HAALAND",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Oumar DIAKITE",
+          "playerOff": "Nicolas PEPE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Evann GUESSAND",
+          "playerOff": "Yan DIOMANDE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Bazoumana TOURE",
+          "playerOff": "Ghislain KONAN"
+        }
+      ]
+    },
+    {
+      "matchNumber": 79,
+      "fixtureId": 18179759,
+      "fifaMatchId": "400021520",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-01T02:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      "away": {
+        "name": "Ecuador",
+        "code": "ECU"
+      },
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "stadium": "Mexico City Stadium",
+      "attendance": 80824,
+      "eventSource": "fifa-official-events",
+      "eventCount": 19,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Yaimar MEDINA",
+          "playerOff": "Alan FRANCO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Angelo PRECIADO",
+          "playerOff": "Joel ORDONEZ"
+        },
+        {
+          "kind": "goal",
+          "minute": 22,
+          "clock": "22'",
+          "side": 1,
+          "player": "Julian QUINONES",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 31,
+          "clock": "31'",
+          "side": 1,
+          "player": "Raul JIMENEZ",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 46,
+          "clock": "45'+1'",
+          "side": 2,
+          "player": "Alan FRANCO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 59,
+          "clock": "59'",
+          "side": 1,
+          "player": "Brian GUTIERREZ",
+          "playerOff": "Gilberto MORA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 59,
+          "clock": "59'",
+          "side": 2,
+          "player": "Kevin RODRIGUEZ",
+          "playerOff": "Enner VALENCIA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 1,
+          "player": "Santiago GIMENEZ",
+          "playerOff": "Raul JIMENEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 1,
+          "player": "Obed VARGAS",
+          "playerOff": "Luis ROMO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Jordy CAICEDO",
+          "playerOff": "John YEBOAH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Kendry PAEZ",
+          "playerOff": "Nilson ANGULO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 1,
+          "player": "Orbelin PINEDA",
+          "playerOff": "Julian QUINONES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 1,
+          "player": "Israel REYES",
+          "playerOff": "Roberto ALVARADO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 2,
+          "player": "Kendry PAEZ"
+        },
+        {
+          "kind": "red_card",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 2,
+          "player": "Piero HINCAPIE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 99,
+          "clock": "90'+9'",
+          "side": 2,
+          "player": "Moises CAICEDO"
+        }
+      ]
+    },
+    {
+      "matchNumber": 80,
+      "fixtureId": 18179764,
+      "fifaMatchId": "400021512",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-01T16:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "England",
+        "code": "ENG"
+      },
+      "away": {
+        "name": "Congo DR",
+        "code": "COD"
+      },
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Atlanta Stadium",
+      "attendance": 68239,
+      "eventSource": "fifa-official-events",
+      "eventCount": 17,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 7,
+          "clock": "7'",
+          "side": 2,
+          "player": "Brian CIPENGA",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 19,
+          "clock": "19'",
+          "side": 1,
+          "player": "Jude BELLINGHAM"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 27,
+          "clock": "27'",
+          "side": 2,
+          "player": "Noah SADIKI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Bukayo SAKA",
+          "playerOff": "Noni MADUEKE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Anthony GORDON",
+          "playerOff": "Marcus RASHFORD"
+        },
+        {
+          "kind": "substitution",
+          "minute": 64,
+          "clock": "64'",
+          "side": 2,
+          "player": "Meschack ELIA",
+          "playerOff": "Nathanael MBUKU"
+        },
+        {
+          "kind": "substitution",
+          "minute": 70,
+          "clock": "70'",
+          "side": 1,
+          "player": "Eberechi EZE",
+          "playerOff": "Djed SPENCE"
+        },
+        {
+          "kind": "goal",
+          "minute": 75,
+          "clock": "75'",
+          "side": 1,
+          "player": "Harry KANE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 76,
+          "clock": "76'",
+          "side": 2,
+          "player": "Theo BONGONDA",
+          "playerOff": "Brian CIPENGA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 76,
+          "clock": "76'",
+          "side": 2,
+          "player": "Edo Kayembe",
+          "playerOff": "Ngalayel MUKAU"
+        },
+        {
+          "kind": "goal",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Harry KANE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Fiston MAYELE",
+          "playerOff": "Samuel Moutoussamy"
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Joris KAYEMBE",
+          "playerOff": "Arthur MASUAKU"
+        },
+        {
+          "kind": "substitution",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 1,
+          "player": "John STONES",
+          "playerOff": "Declan RICE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 81,
+      "fixtureId": 18172379,
+      "fifaMatchId": "400021524",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-02T00:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "USA",
+        "code": "USA"
+      },
+      "away": {
+        "name": "Bosnia and Herzegovina",
+        "code": "BIH"
+      },
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "stadium": "San Francisco Bay Area Stadium",
+      "attendance": 68827,
+      "eventSource": "fifa-official-events",
+      "eventCount": 16,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 45,
+          "clock": "45'",
+          "side": 1,
+          "player": "Folarin BALOGUN",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 51,
+          "clock": "51'",
+          "side": 2,
+          "player": "Ermin MAHMIC",
+          "playerOff": "Edin DZEKO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 51,
+          "clock": "51'",
+          "side": 2,
+          "player": "Esmir BAJRAKTAREVIC",
+          "playerOff": "Armin GIGOVIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 51,
+          "clock": "51'",
+          "side": 2,
+          "player": "Benjamin TAHIROVIC",
+          "playerOff": "Ivan SUNJIC"
+        },
+        {
+          "kind": "red_card",
+          "minute": 64,
+          "clock": "64'",
+          "side": 1,
+          "player": "Folarin BALOGUN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Amar MEMIC",
+          "playerOff": "Nikola KATIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Haris TABAKOVIC",
+          "playerOff": "Sead KOLASINAC"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "Stjepan RADELJIC"
+        },
+        {
+          "kind": "goal",
+          "minute": 82,
+          "clock": "82'",
+          "side": 1,
+          "player": "Malik TILLMAN",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Sebastian BERHALTER",
+          "playerOff": "Sergino DEST"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Ricardo PEPI",
+          "playerOff": "Christian PULISIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 1,
+          "player": "Giovanni REYNA",
+          "playerOff": "Weston McKENNIE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 82,
+      "fixtureId": 18179550,
+      "fifaMatchId": "400021525",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-01T20:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Belgium",
+        "code": "BEL"
+      },
+      "away": {
+        "name": "Senegal",
+        "code": "SEN"
+      },
+      "score": [
+        3,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Seattle Stadium",
+      "attendance": 66925,
+      "eventSource": "fifa-official-events",
+      "eventCount": 23,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Romelu LUKAKU",
+          "playerOff": "Charles DE KETELAERE"
+        },
+        {
+          "kind": "goal",
+          "minute": 24,
+          "clock": "24'",
+          "side": 2,
+          "player": "Habib DIARRA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 51,
+          "clock": "51'",
+          "side": 2,
+          "player": "Ismaila SARR",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 56,
+          "clock": "56'",
+          "side": 1,
+          "player": "Dodi LUKEBAKIO",
+          "playerOff": "Jeremy DOKU"
+        },
+        {
+          "kind": "substitution",
+          "minute": 56,
+          "clock": "56'",
+          "side": 1,
+          "player": "Nicolas RASKIN",
+          "playerOff": "Kevin DE BRUYNE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 1,
+          "player": "Diego MOREIRA",
+          "playerOff": "Hans VANAKEN"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 64,
+          "clock": "64'",
+          "side": 1,
+          "player": "Brandon MECHELE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Lamine CAMARA",
+          "playerOff": "Pape GUEYE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Lamine CAMARA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 2,
+          "player": "Ibrahim MBAYE",
+          "playerOff": "Iliman NDIAYE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 2,
+          "player": "Pape Matar SARR",
+          "playerOff": "Habib DIARRA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Thomas MEUNIER",
+          "playerOff": "Maxim DE CUYPER"
+        },
+        {
+          "kind": "goal",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Romelu LUKAKU",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 89,
+          "clock": "89'",
+          "side": 1,
+          "player": "Youri TIELEMANS",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "Player null"
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "93'",
+          "side": 2,
+          "player": "Nicolas JACKSON",
+          "playerOff": "Sadio MANE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "93'",
+          "side": 2,
+          "player": "El Hadji Malick DIOUF",
+          "playerOff": "Ismail JAKOBS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "95'",
+          "side": 2,
+          "player": "Bara Sapoko NDIAYE",
+          "playerOff": "Idrissa Gana GUEYE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 109,
+          "clock": "109'",
+          "side": 1,
+          "player": "Amadou ONANA",
+          "playerOff": "Leandro TROSSARD"
+        },
+        {
+          "kind": "goal",
+          "minute": 125,
+          "clock": "120'+5'",
+          "side": 1,
+          "player": "Youri TIELEMANS",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 83,
+      "fixtureId": 18179763,
+      "fifaMatchId": "400021526",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-02T23:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Portugal",
+        "code": "POR"
+      },
+      "away": {
+        "name": "Croatia",
+        "code": "CRO"
+      },
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Toronto Stadium",
+      "attendance": 43036,
+      "eventSource": "fifa-official-events",
+      "eventCount": 18,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Igor MATANOVIC",
+          "playerOff": "Ante BUDIMIR"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 17,
+          "clock": "17'",
+          "side": 1,
+          "player": "RUBEN DIAS"
+        },
+        {
+          "kind": "goal",
+          "minute": 53,
+          "clock": "53'",
+          "side": 2,
+          "player": "Ivan PERISIC",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 59,
+          "clock": "59'",
+          "side": 2,
+          "player": "Luka MODRIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 1,
+          "player": "FRANCISCO CONCEICAO",
+          "playerOff": "PEDRO NETO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 1,
+          "player": "BERNARDO SILVA",
+          "playerOff": "VITINHA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 1,
+          "player": "NELSON SEMEDO",
+          "playerOff": "BRUNO FERNANDES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 1,
+          "player": "GONCALO RAMOS",
+          "playerOff": "JOAO CANCELO"
+        },
+        {
+          "kind": "goal",
+          "minute": 68,
+          "clock": "68'",
+          "side": 1,
+          "player": "CRISTIANO RONALDO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 68,
+          "clock": "68'",
+          "side": 2,
+          "player": "Mario PASALIC",
+          "playerOff": "Martin BATURINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 81,
+          "clock": "81'",
+          "side": 1,
+          "player": "RUBEN NEVES",
+          "playerOff": "CRISTIANO RONALDO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 2,
+          "player": "Josko GVARDIOL",
+          "playerOff": "Nikola VLASIC"
+        },
+        {
+          "kind": "goal",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 1,
+          "player": "GONCALO RAMOS",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 2,
+          "player": "Andrej KRAMARIC",
+          "playerOff": "Mateo KOVACIC"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "Ivan PERISIC"
+        }
+      ]
+    },
+    {
+      "matchNumber": 84,
+      "fixtureId": 18179551,
+      "fifaMatchId": "400021519",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-02T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Spain",
+        "code": "ESP"
+      },
+      "away": {
+        "name": "Austria",
+        "code": "AUT"
+      },
+      "score": [
+        3,
+        0
+      ],
+      "penalties": null,
+      "stadium": "Los Angeles Stadium",
+      "attendance": 70492,
+      "eventSource": "fifa-official-events",
+      "eventCount": 17,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Florian GRILLITSCH",
+          "playerOff": "Xaver Schlager"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Carney CHUKWUEMEKA",
+          "playerOff": "Nicolas SEIWALD"
+        },
+        {
+          "kind": "goal",
+          "minute": 36,
+          "clock": "36'",
+          "side": 1,
+          "player": "Mikel OYARZABAL",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Marko ARNAUTOVIC",
+          "playerOff": "Michael Gregoritsch"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Sasa KALAJDZIC",
+          "playerOff": "Romano SCHMID"
+        },
+        {
+          "kind": "goal",
+          "minute": 66,
+          "clock": "66'",
+          "side": 1,
+          "player": "Pedro PORRO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Ferran TORRES",
+          "playerOff": "Alex BAENA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Mikel MERINO",
+          "playerOff": "Dani OLMO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 83,
+          "clock": "83'",
+          "side": 2,
+          "player": "Stefan POSCH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "GAVI",
+          "playerOff": "Lamine YAMAL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Alexander PRASS",
+          "playerOff": "Stefan POSCH"
+        },
+        {
+          "kind": "goal",
+          "minute": 89,
+          "clock": "89'",
+          "side": 1,
+          "player": "Mikel OYARZABAL",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Marc PUBILL",
+          "playerOff": "Aymeric LAPORTE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Fabian RUIZ",
+          "playerOff": "PEDRI"
+        }
+      ]
+    },
+    {
+      "matchNumber": 85,
+      "fixtureId": 18179552,
+      "fifaMatchId": "400021527",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-03T03:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Switzerland",
+        "code": "SUI"
+      },
+      "away": {
+        "name": "Algeria",
+        "code": "ALG"
+      },
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "stadium": "BC Place Vancouver",
+      "attendance": 52497,
+      "eventSource": "fifa-official-events",
+      "eventCount": 17,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 10,
+          "clock": "10'",
+          "side": 1,
+          "player": "Breel EMBOLO",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 36,
+          "clock": "36'",
+          "side": 2,
+          "player": "Fares CHAIBI"
+        },
+        {
+          "kind": "goal",
+          "minute": 46,
+          "clock": "46'",
+          "side": 1,
+          "player": "Dan NDOYE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 58,
+          "clock": "58'",
+          "side": 2,
+          "player": "Jaouen HADJAM",
+          "playerOff": "Houssem Aouar"
+        },
+        {
+          "kind": "substitution",
+          "minute": 58,
+          "clock": "58'",
+          "side": 2,
+          "player": "Amine GOUIRI",
+          "playerOff": "Ramiz ZERROUKI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 70,
+          "clock": "70'",
+          "side": 1,
+          "player": "Fabian RIEDER",
+          "playerOff": "Ruben VARGAS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 70,
+          "clock": "70'",
+          "side": 1,
+          "player": "Noah OKAFOR",
+          "playerOff": "Johan MANZAMBI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Hicham BOUDAOUI",
+          "playerOff": "Nabil Bentaleb"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Anis HADJ MOUSSA",
+          "playerOff": "Riyad Mahrez"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Hicham BOUDAOUI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 1,
+          "player": "Zeki AMDOUNI",
+          "playerOff": "Breel EMBOLO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Adil BOULBINA",
+          "playerOff": "Rafik BELGHALI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Michel AEBISCHER",
+          "playerOff": "Dan NDOYE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Silvan WIDMER",
+          "playerOff": "Denis ZAKARIA"
+        }
+      ]
+    },
+    {
+      "matchNumber": 86,
+      "fixtureId": 18175918,
+      "fifaMatchId": "400021521",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-03T22:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "away": {
+        "name": "Cabo Verde",
+        "code": "CPV"
+      },
+      "score": [
+        3,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Miami Stadium",
+      "attendance": 64478,
+      "eventSource": "fifa-official-events",
+      "eventCount": 21,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 29,
+          "clock": "29'",
+          "side": 1,
+          "player": "Lionel MESSI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 59,
+          "clock": "59'",
+          "side": 2,
+          "player": "DEROY DUARTE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 1,
+          "player": "Nico GONZALEZ",
+          "playerOff": "Thiago ALMADA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 1,
+          "player": "Julian ALVAREZ",
+          "playerOff": "Lautaro MARTINEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "DAILON LIVRAMENTO",
+          "playerOff": "NUNO DA COSTA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "JAMIRO MONTEIRO",
+          "playerOff": "LAROS DUARTE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 68,
+          "clock": "68'",
+          "side": 2,
+          "player": "KEVIN PINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "HELIO VARELA",
+          "playerOff": "JOVANE CABRAL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "WILLY SEMEDO",
+          "playerOff": "RYAN MENDES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 84,
+          "clock": "84'",
+          "side": 1,
+          "player": "Leandro PAREDES",
+          "playerOff": "Rodrigo DE PAUL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "Nicolas TAGLIAFICO",
+          "playerOff": "Facundo MEDINA"
+        },
+        {
+          "kind": "goal",
+          "minute": 92,
+          "clock": "92'",
+          "side": 1,
+          "player": "Lisandro MARTINEZ",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 100,
+          "clock": "100'",
+          "side": 2,
+          "player": "GILSON BENCHIMOL",
+          "playerOff": "KEVIN PINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 100,
+          "clock": "100'",
+          "side": 2,
+          "player": "YANNICK SEMEDO",
+          "playerOff": "DEROY DUARTE"
+        },
+        {
+          "kind": "goal",
+          "minute": 103,
+          "clock": "103'",
+          "side": 2,
+          "player": "SIDNY LOPES CABRAL",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 104,
+          "clock": "104'",
+          "side": 1,
+          "player": "Gonzalo MONTIEL",
+          "playerOff": "Nahuel MOLINA"
+        },
+        {
+          "kind": "goal",
+          "minute": 111,
+          "clock": "111'",
+          "side": 1,
+          "player": "Player 409241",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 115,
+          "clock": "115'",
+          "side": 1,
+          "player": "Gonzalo MONTIEL"
+        }
+      ]
+    },
+    {
+      "matchNumber": 87,
+      "fixtureId": 18179549,
+      "fifaMatchId": "400021517",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-04T01:30:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      "away": {
+        "name": "Ghana",
+        "code": "GHA"
+      },
+      "score": [
+        1,
+        0
+      ],
+      "penalties": null,
+      "stadium": "Kansas City Stadium",
+      "attendance": 69045,
+      "eventSource": "fifa-official-events",
+      "eventCount": 18,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Richard RIOS",
+          "playerOff": "James RODRIGUEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 8,
+          "clock": "8'",
+          "side": 1,
+          "player": "Luis SUAREZ",
+          "playerOff": "Jhon CORDOBA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 12,
+          "clock": "12'",
+          "side": 1,
+          "player": "Jhon ARIAS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 13,
+          "clock": "13'",
+          "side": 2,
+          "player": "Alidu SEIDU",
+          "playerOff": "Marvin SENAYA"
+        },
+        {
+          "kind": "goal",
+          "minute": 14,
+          "clock": "14'",
+          "side": 1,
+          "player": "Jhon ARIAS",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 49,
+          "clock": "49'",
+          "side": 2,
+          "player": "Caleb YIRENKYI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 2,
+          "player": "Abdul FATAWU",
+          "playerOff": "Inaki WILLIAMS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 2,
+          "player": "Elisha OWUSU",
+          "playerOff": "Kwasi SIBO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Abdul FATAWU"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Juan QUINTERO",
+          "playerOff": "Jhon ARIAS"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 76,
+          "clock": "76'",
+          "side": 2,
+          "player": "Alidu SEIDU"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Richard RIOS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Prince ADU",
+          "playerOff": "Caleb YIRENKYI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Ernest NUAMAH",
+          "playerOff": "Jordan AYEW"
+        },
+        {
+          "kind": "substitution",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "Jaminton CAMPAZ",
+          "playerOff": "Luis DIAZ"
+        }
+      ]
+    },
+    {
+      "matchNumber": 88,
+      "fixtureId": 18176123,
+      "fifaMatchId": "400021515",
+      "fifaStageId": "289287",
+      "stage": "Round of 32",
+      "group": null,
+      "date": "2026-07-03T18:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Australia",
+        "code": "AUS"
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "EGY"
+      },
+      "score": [
+        1,
+        1
+      ],
+      "penalties": [
+        2,
+        4
+      ],
+      "stadium": "Dallas Stadium",
+      "attendance": 70244,
+      "eventSource": "fifa-official-events",
+      "eventCount": 25,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "HOSSAM ABDELMAGUID",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "MOHAMED SALAH",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "RAMY RABIA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "MAHMOUD SABER",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Awer MABIL",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Jackson IRVINE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Kai TREWIN",
+          "playerOff": "Jordan BOS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Awer MABIL",
+          "playerOff": "Connor METCALFE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Paul OKON-ENGSTLER",
+          "playerOff": "Aiden ONEILL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "HAMZA ABDELKARIM",
+          "playerOff": "OMAR MARMOUSH"
+        },
+        {
+          "kind": "goal",
+          "minute": 13,
+          "clock": "13'",
+          "side": 2,
+          "player": "EMAM ASHOUR",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 55,
+          "clock": "55'",
+          "side": 1,
+          "player": "Player 408950",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Haissem HASSAN",
+          "playerOff": "MOSTAFA ZICO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "HOSSAM ABDELMAGUID",
+          "playerOff": "HAMDY FATHY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 74,
+          "clock": "74'",
+          "side": 1,
+          "player": "Ajdin HRUSTIC",
+          "playerOff": "Cristian VOLPATO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 74,
+          "clock": "74'",
+          "side": 1,
+          "player": "Mohamed TOURE",
+          "playerOff": "Nestory IRANKUNDA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "TREZEGUET",
+          "playerOff": "KARIM HAFEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 91,
+          "clock": "91'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 104,
+          "clock": "104'",
+          "side": 2,
+          "player": "HAISSEM HASSAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 119,
+          "clock": "119'",
+          "side": 1,
+          "player": "Mathew RYAN",
+          "playerOff": "Patrick BEACH"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 120,
+          "clock": "120'",
+          "side": 2,
+          "player": "YASSER IBRAHIM"
+        },
+        {
+          "kind": "substitution",
+          "minute": 121,
+          "clock": "120'+1'",
+          "side": 2,
+          "player": "MAHMOUD SABER",
+          "playerOff": "MARAWAN ATTIA"
+        }
+      ]
+    },
+    {
+      "matchNumber": 89,
+      "fixtureId": 18188721,
+      "fifaMatchId": "400021533",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-04T21:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Paraguay",
+        "code": "PAR"
+      },
+      "away": {
+        "name": "France",
+        "code": "FRA"
+      },
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Philadelphia Stadium",
+      "attendance": 68324,
+      "eventSource": "fifa-official-events",
+      "eventCount": 14,
+      "officialMoments": [
+        {
+          "kind": "yellow_card",
+          "minute": 19,
+          "clock": "19'",
+          "side": 2,
+          "player": "Bradley BARCOLA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 58,
+          "clock": "58'",
+          "side": 1,
+          "player": "Jose CANALE",
+          "playerOff": "Omar ALDERETE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 61,
+          "clock": "61'",
+          "side": 1,
+          "player": "Gustavo CABALLERO",
+          "playerOff": "Julio ENCISO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 61,
+          "clock": "61'",
+          "side": 2,
+          "player": "Desire DOUE",
+          "playerOff": "Bradley BARCOLA"
+        },
+        {
+          "kind": "goal",
+          "minute": 70,
+          "clock": "70'",
+          "side": 2,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Gabriel AVALOS",
+          "playerOff": "Miguel ALMIRON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "MAURICIO",
+          "playerOff": "Diego GOMEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 81,
+          "clock": "81'",
+          "side": 2,
+          "player": "Manu KONE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 84,
+          "clock": "84'",
+          "side": 2,
+          "player": "Rayan CHERKI",
+          "playerOff": "Ousmane DEMBELE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "Player null"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 97,
+          "clock": "90'+7'",
+          "side": 2,
+          "player": "Michael OLISE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 90,
+      "fixtureId": 18185036,
+      "fifaMatchId": "400021530",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-04T17:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Canada",
+        "code": "CAN"
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "MAR"
+      },
+      "score": [
+        0,
+        3
+      ],
+      "penalties": null,
+      "stadium": "Houston Stadium",
+      "attendance": 68777,
+      "eventSource": "fifa-official-events",
+      "eventCount": 24,
+      "officialMoments": [
+        {
+          "kind": "yellow_card",
+          "minute": 20,
+          "clock": "20'",
+          "side": 2,
+          "player": "Redouane HALHAL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 22,
+          "clock": "22'",
+          "side": 2,
+          "player": "Soufiane RAHIMI",
+          "playerOff": "Ismael SAIBARI"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 40,
+          "clock": "40'",
+          "side": 1,
+          "player": "Richie LARYEA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 40,
+          "clock": "40'",
+          "side": 2,
+          "player": "Achraf HAKIMI"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 43,
+          "clock": "43'",
+          "side": 1,
+          "player": "Jonathan DAVID"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 45,
+          "clock": "45'",
+          "side": 2,
+          "player": "Azzedine OUNAHI"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 49,
+          "clock": "49'",
+          "side": 1,
+          "player": "Luc DE FOUGEROLLES"
+        },
+        {
+          "kind": "goal",
+          "minute": 50,
+          "clock": "50'",
+          "side": 2,
+          "player": "Azzedine OUNAHI",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 51,
+          "clock": "45'+6'",
+          "side": 2,
+          "player": "Bilal EL KHANNOUSS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 1,
+          "player": "Cyle LARIN",
+          "playerOff": "Tani OLUWASEYI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 2,
+          "player": "Sofyan AMRABAT",
+          "playerOff": "Ayyoub BOUADDI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 2,
+          "player": "Chemsdine TALBI",
+          "playerOff": "Bilal EL KHANNOUSS"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 67,
+          "clock": "67'",
+          "side": 1,
+          "player": "Cyle LARIN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Promise DAVID",
+          "playerOff": "Ali AHMED"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Jacob SHAFFELBURG",
+          "playerOff": "Richie LARYEA"
+        },
+        {
+          "kind": "goal",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Azzedine OUNAHI",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Jayden Nelson",
+          "playerOff": "Tajon BUCHANAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Jonathan OSORIO",
+          "playerOff": "Niko SIGUR"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 2,
+          "player": "Marwane SAADANE",
+          "playerOff": "Issa Diop"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 2,
+          "player": "Samir EL MOURABET",
+          "playerOff": "Azzedine OUNAHI"
+        },
+        {
+          "kind": "goal",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "Soufiane RAHIMI",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 91,
+      "fixtureId": 18187298,
+      "fifaMatchId": "400021532",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-05T20:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Brazil",
+        "code": "BRA"
+      },
+      "away": {
+        "name": "Norway",
+        "code": "NOR"
+      },
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "stadium": "New York/New Jersey Stadium",
+      "attendance": 80663,
+      "eventSource": "txline-historical",
+      "eventCount": 1102,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Andreas SCHJELDERUP",
+          "playerOff": "Antonio NUSA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Oscar BOBB",
+          "playerOff": "Alexander SORLOTH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 58,
+          "clock": "58'",
+          "side": 1,
+          "player": "ENDRICK",
+          "playerOff": "MATHEUS CUNHA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 63,
+          "clock": "63'",
+          "side": 2,
+          "player": "Fredrik AURSNES",
+          "playerOff": "Julian RYERSON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 1,
+          "player": "NEYMAR JR",
+          "playerOff": "GABRIEL MARTINELLI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 1,
+          "player": "DANILO SANTOS",
+          "playerOff": "RAYAN"
+        },
+        {
+          "kind": "goal",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Erling HAALAND",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 1,
+          "player": "EDERSON SILVA",
+          "playerOff": "BRUNO GUIMARAES"
+        },
+        {
+          "kind": "goal",
+          "minute": 90,
+          "clock": "90'",
+          "side": 2,
+          "player": "Erling HAALAND",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 2,
+          "player": "Leo OSTIGARD",
+          "playerOff": "David MOLLER WOLFE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 1,
+          "player": "NEYMAR JR"
+        },
+        {
+          "kind": "goal",
+          "minute": 100,
+          "clock": "90'+10'",
+          "side": 1,
+          "player": "NEYMAR JR",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 92,
+      "fixtureId": 18192996,
+      "fifaMatchId": "400021531",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-06T01:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Mexico",
+        "code": "MEX"
+      },
+      "away": {
+        "name": "England",
+        "code": "ENG"
+      },
+      "score": [
+        2,
+        3
+      ],
+      "penalties": null,
+      "stadium": "Mexico City Stadium",
+      "attendance": 80824,
+      "eventSource": "txline-historical",
+      "eventCount": 1048,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Edson ALVAREZ",
+          "playerOff": "Cesar MONTES"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 1,
+          "clock": "1'",
+          "side": 2,
+          "player": "Declan RICE"
+        },
+        {
+          "kind": "goal",
+          "minute": 36,
+          "clock": "36'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 38,
+          "clock": "38'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 42,
+          "clock": "42'",
+          "side": 1,
+          "player": "Julian QUINONES",
+          "assist": null
+        },
+        {
+          "kind": "red_card",
+          "minute": 54,
+          "clock": "54'",
+          "side": 2,
+          "player": "Jarell QUANSAH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 57,
+          "clock": "57'",
+          "side": 2,
+          "player": "John STONES",
+          "playerOff": "Bukayo SAKA"
+        },
+        {
+          "kind": "goal",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Harry KANE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 61,
+          "clock": "61'",
+          "side": 1,
+          "player": "Santiago GIMENEZ",
+          "playerOff": "Gilberto MORA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 61,
+          "clock": "61'",
+          "side": 1,
+          "player": "Brian GUTIERREZ",
+          "playerOff": "Luis ROMO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 68,
+          "clock": "68'",
+          "side": 2,
+          "player": "Marc GUEHI"
+        },
+        {
+          "kind": "goal",
+          "minute": 69,
+          "clock": "69'",
+          "side": 1,
+          "player": "Raul JIMENEZ",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Jorge SANCHEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Nico OREILLY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Dan BURN",
+          "playerOff": "Elliot ANDERSON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Djed SPENCE",
+          "playerOff": "Nico OREILLY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 1,
+          "player": "Alvaro FIDALGO",
+          "playerOff": "Jorge SANCHEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 81,
+          "clock": "81'",
+          "side": 1,
+          "player": "Guillermo MARTINEZ",
+          "playerOff": "Julian QUINONES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 90,
+          "clock": "90'",
+          "side": 2,
+          "player": "Morgan ROGERS",
+          "playerOff": "Harry KANE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 1,
+          "player": "Johan VASQUEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "Jordan HENDERSON"
+        }
+      ]
+    },
+    {
+      "matchNumber": 93,
+      "fixtureId": 18198205,
+      "fifaMatchId": "400021529",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-06T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Portugal",
+        "code": "POR"
+      },
+      "away": {
+        "name": "Spain",
+        "code": "ESP"
+      },
+      "score": [
+        0,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Dallas Stadium",
+      "attendance": 70649,
+      "eventSource": "txline-historical",
+      "eventCount": 994,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 56,
+          "clock": "56'",
+          "side": 1,
+          "player": "NELSON SEMEDO",
+          "playerOff": "NUNO MENDES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "RAFAEL LEAO",
+          "playerOff": "JOAO FELIX"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "DIOGO DALOT",
+          "playerOff": "JOAO CANCELO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 75,
+          "clock": "75'",
+          "side": 2,
+          "player": "Ferran TORRES",
+          "playerOff": "Alex BAENA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 1,
+          "player": "BERNARDO SILVA",
+          "playerOff": "VITINHA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 1,
+          "player": "FRANCISCO CONCEICAO",
+          "playerOff": "PEDRO NETO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Mikel MERINO",
+          "playerOff": "Dani OLMO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Fabian RUIZ",
+          "playerOff": "PEDRI"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 89,
+          "clock": "89'",
+          "side": 1,
+          "player": "BERNARDO SILVA"
+        },
+        {
+          "kind": "goal",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 2,
+          "player": "Mikel MERINO",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "RENATO VEIGA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 97,
+          "clock": "90'+7'",
+          "side": 2,
+          "player": "Borja IGLESIAS",
+          "playerOff": "Mikel OYARZABAL"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "Ferran TORRES"
+        }
+      ]
+    },
+    {
+      "matchNumber": 94,
+      "fixtureId": 18193785,
+      "fifaMatchId": "400021534",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-07T00:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "USA",
+        "code": "USA"
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "BEL"
+      },
+      "score": [
+        1,
+        4
+      ],
+      "penalties": null,
+      "stadium": "Seattle Stadium",
+      "attendance": 66925,
+      "eventSource": "txline-historical",
+      "eventCount": 1125,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "0'",
+          "side": 2,
+          "player": "Charles DE KETELAERE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Giovanni REYNA",
+          "playerOff": "Sergino DEST"
+        },
+        {
+          "kind": "substitution",
+          "minute": 21,
+          "clock": "21'",
+          "side": 2,
+          "player": "Hans VANAKEN",
+          "playerOff": "Amadou ONANA"
+        },
+        {
+          "kind": "goal",
+          "minute": 31,
+          "clock": "31'",
+          "side": 1,
+          "player": "Malik TILLMAN",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 33,
+          "clock": "33'",
+          "side": 2,
+          "player": "Charles DE KETELAERE",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 35,
+          "clock": "35'",
+          "side": 1,
+          "player": "Weston McKENNIE"
+        },
+        {
+          "kind": "goal",
+          "minute": 57,
+          "clock": "57'",
+          "side": 2,
+          "player": "Hans VANAKEN",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 59,
+          "clock": "59'",
+          "side": 1,
+          "player": "Sebastian BERHALTER",
+          "playerOff": "Christian PULISIC"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Romelu LUKAKU",
+          "playerOff": "Charles DE KETELAERE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Jeremy DOKU",
+          "playerOff": "Dodi LUKEBAKIO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 69,
+          "clock": "69'",
+          "side": 1,
+          "player": "Malik TILLMAN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Ricardo PEPI",
+          "playerOff": "Tyler ADAMS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Alexis SAELEMAEKERS",
+          "playerOff": "Leandro TROSSARD"
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Axel WITSEL",
+          "playerOff": "Nicolas RASKIN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 1,
+          "player": "Haji WRIGHT",
+          "playerOff": "Folarin BALOGUN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 1,
+          "player": "Max ARFSTEN",
+          "playerOff": "Antonee ROBINSON"
+        },
+        {
+          "kind": "goal",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 2,
+          "player": "Romelu LUKAKU",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 95,
+      "fixtureId": 18202701,
+      "fifaMatchId": "400021528",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-07T16:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "away": {
+        "name": "Egypt",
+        "code": "EGY"
+      },
+      "score": [
+        3,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Atlanta Stadium",
+      "attendance": 68239,
+      "eventSource": "txline-historical",
+      "eventCount": 563,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "HAMDY FATHY",
+          "playerOff": "EMAM ASHOUR"
+        },
+        {
+          "kind": "goal",
+          "minute": 15,
+          "clock": "15'",
+          "side": 2,
+          "player": "YASSER IBRAHIM",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 21,
+          "clock": "21'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 1,
+          "player": "Lautaro MARTINEZ",
+          "playerOff": "Rodrigo DE PAUL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 1,
+          "player": "Nico GONZALEZ",
+          "playerOff": "Nicolas TAGLIAFICO"
+        },
+        {
+          "kind": "goal",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "MOSTAFA ZICO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 1,
+          "player": "Gonzalo MONTIEL",
+          "playerOff": "Nahuel MOLINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 73,
+          "clock": "73'",
+          "side": 2,
+          "player": "TREZEGUET",
+          "playerOff": "Haissem HASSAN"
+        },
+        {
+          "kind": "goal",
+          "minute": 79,
+          "clock": "79'",
+          "side": 1,
+          "player": "Cristian ROMERO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 80,
+          "clock": "80'",
+          "side": 2,
+          "player": "OMAR MARMOUSH",
+          "playerOff": "MOSTAFA ZICO"
+        },
+        {
+          "kind": "goal",
+          "minute": 83,
+          "clock": "83'",
+          "side": 1,
+          "player": "Lionel MESSI",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 90,
+          "clock": "90'",
+          "side": 2,
+          "player": "HAISSEM HASSAN"
+        },
+        {
+          "kind": "goal",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 1,
+          "player": "Enzo FERNANDEZ",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 2,
+          "player": "MOSTAFA SHOUBIR"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 2,
+          "player": "HAMDY FATHY"
+        },
+        {
+          "kind": "red_card",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 1,
+          "player": "Nicolas OTAMENDI",
+          "playerOff": "Cristian ROMERO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 1,
+          "player": "Facundo MEDINA",
+          "playerOff": "Julian ALVAREZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 2,
+          "player": "ZIZO",
+          "playerOff": "MOHANAD LASHIN"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "MARAWAN ATTIA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 99,
+          "clock": "90'+9'",
+          "side": 2,
+          "player": "Player null"
+        }
+      ]
+    },
+    {
+      "matchNumber": 96,
+      "fixtureId": 18202783,
+      "fifaMatchId": "400021535",
+      "fifaStageId": "289288",
+      "stage": "Round of 16",
+      "group": null,
+      "date": "2026-07-07T20:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Switzerland",
+        "code": "SUI"
+      },
+      "away": {
+        "name": "Colombia",
+        "code": "COL"
+      },
+      "score": [
+        0,
+        0
+      ],
+      "penalties": [
+        4,
+        3
+      ],
+      "stadium": "BC Place Vancouver",
+      "attendance": 52497,
+      "eventSource": "txline-historical",
+      "eventCount": 1355,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Luis DIAZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Jaminton CAMPAZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Juan QUINTERO",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Ruben VARGAS",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Cedric ITTEN",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Zeki AMDOUNI",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Granit XHAKA",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Djibril SOW",
+          "playerOff": "Ardon JASHARI"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 51,
+          "clock": "51'",
+          "side": 1,
+          "player": "Granit XHAKA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 59,
+          "clock": "59'",
+          "side": 1,
+          "player": "Denis ZAKARIA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Luis SUAREZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Jaminton CAMPAZ",
+          "playerOff": "Jhon ARIAS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 66,
+          "clock": "66'",
+          "side": 2,
+          "player": "Juan QUINTERO",
+          "playerOff": "James RODRIGUEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Miro MUHEIM",
+          "playerOff": "Ricardo RODRIGUEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Richard RIOS",
+          "playerOff": "Jefferson LERMA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 2,
+          "player": "Cucho HERNANDEZ",
+          "playerOff": "Luis SUAREZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Cedric ITTEN",
+          "playerOff": "Breel EMBOLO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Silvan WIDMER",
+          "playerOff": "Denis ZAKARIA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 1,
+          "player": "Ruben VARGAS",
+          "playerOff": "Dan NDOYE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 94,
+          "clock": "94'",
+          "side": 2,
+          "player": "Davinson SANCHEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 95,
+          "clock": "95'",
+          "side": 2,
+          "player": "Player null"
+        },
+        {
+          "kind": "substitution",
+          "minute": 103,
+          "clock": "103'",
+          "side": 1,
+          "player": "Zeki AMDOUNI",
+          "playerOff": "Fabian RIEDER"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 105,
+          "clock": "105'",
+          "side": 1,
+          "player": "Miro MUHEIM"
+        },
+        {
+          "kind": "substitution",
+          "minute": 118,
+          "clock": "118'",
+          "side": 2,
+          "player": "Yerry MINA",
+          "playerOff": "Jhon LUCUMI"
+        }
+      ]
+    },
+    {
+      "matchNumber": 97,
+      "fixtureId": 18209181,
+      "fifaMatchId": "400021536",
+      "fifaStageId": "289289",
+      "stage": "Quarter-final",
+      "group": null,
+      "date": "2026-07-09T20:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "France",
+        "code": "FRA"
+      },
+      "away": {
+        "name": "Morocco",
+        "code": "MAR"
+      },
+      "score": [
+        2,
+        0
+      ],
+      "penalties": null,
+      "stadium": "Boston Stadium",
+      "attendance": 63811,
+      "eventSource": "txline-historical",
+      "eventCount": 1116,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 2,
+          "player": "Sofyan AMRABAT",
+          "playerOff": "Ayyoub BOUADDI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 62,
+          "clock": "62'",
+          "side": 2,
+          "player": "Soufiane RAHIMI",
+          "playerOff": "Bilal EL KHANNOUSS"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 63,
+          "clock": "63'",
+          "side": 2,
+          "player": "Issa DIOP"
+        },
+        {
+          "kind": "goal",
+          "minute": 66,
+          "clock": "66'",
+          "side": 1,
+          "player": "Ousmane DEMBELE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 1,
+          "player": "Warren ZAIRE-EMERY",
+          "playerOff": "Manu KONE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 74,
+          "clock": "74'",
+          "side": 2,
+          "player": "Zakaria EL OUAHDI",
+          "playerOff": "Anass SALAH EDDINE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 74,
+          "clock": "74'",
+          "side": 2,
+          "player": "Gessime YASSINE",
+          "playerOff": "Brahim DIAZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 77,
+          "clock": "77'",
+          "side": 1,
+          "player": "Jean-Philippe MATETA",
+          "playerOff": "Kylian MBAPPE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 77,
+          "clock": "77'",
+          "side": 1,
+          "player": "Bradley BARCOLA",
+          "playerOff": "Desire DOUE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Amine SBAI",
+          "playerOff": "Chemsdine TALBI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 87,
+          "clock": "87'",
+          "side": 1,
+          "player": "Malo GUSTO",
+          "playerOff": "Jules KOUNDE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 98,
+      "fixtureId": 18218149,
+      "fifaMatchId": "400021538",
+      "fifaStageId": "289289",
+      "stage": "Quarter-final",
+      "group": null,
+      "date": "2026-07-10T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Spain",
+        "code": "ESP"
+      },
+      "away": {
+        "name": "Belgium",
+        "code": "BEL"
+      },
+      "score": [
+        2,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Los Angeles Stadium",
+      "attendance": 70492,
+      "eventSource": "txline-historical",
+      "eventCount": 1089,
+      "officialMoments": [
+        {
+          "kind": "goal",
+          "minute": 30,
+          "clock": "30'",
+          "side": 1,
+          "player": "Fabian RUIZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 41,
+          "clock": "41'",
+          "side": 2,
+          "player": "Charles DE KETELAERE",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 43,
+          "clock": "43'",
+          "side": 1,
+          "player": "Pau CUBARSI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 55,
+          "clock": "55'",
+          "side": 1,
+          "player": "Ferran TORRES",
+          "playerOff": "Alex BAENA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 55,
+          "clock": "55'",
+          "side": 1,
+          "player": "PEDRI",
+          "playerOff": "Fabian RUIZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Romelu LUKAKU",
+          "playerOff": "Hans VANAKEN"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Axel WITSEL",
+          "playerOff": "Leandro TROSSARD"
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 2,
+          "player": "Joaquin SEYS",
+          "playerOff": "Maxim DE CUYPER"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Senne LAMMENS",
+          "playerOff": "Thibaut COURTOIS"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 1,
+          "player": "Nico WILLIAMS",
+          "playerOff": "Mikel OYARZABAL"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Kevin DE BRUYNE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Mikel MERINO",
+          "playerOff": "Dani OLMO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Alexis SAELEMAEKERS",
+          "playerOff": "Kevin DE BRUYNE"
+        },
+        {
+          "kind": "goal",
+          "minute": 88,
+          "clock": "88'",
+          "side": 1,
+          "player": "Mikel MERINO",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 93,
+          "clock": "90'+3'",
+          "side": 1,
+          "player": "Aymeric LAPORTE"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 2,
+          "player": "Axel WITSEL"
+        }
+      ]
+    },
+    {
+      "matchNumber": 99,
+      "fixtureId": 18213979,
+      "fifaMatchId": "400021539",
+      "fifaStageId": "289289",
+      "stage": "Quarter-final",
+      "group": null,
+      "date": "2026-07-11T21:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Norway",
+        "code": "NOR"
+      },
+      "away": {
+        "name": "England",
+        "code": "ENG"
+      },
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Miami Stadium",
+      "attendance": 64478,
+      "eventSource": "txline-historical",
+      "eventCount": 1185,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Leo OSTIGARD",
+          "playerOff": "Torbjorn HEGGEM"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Jorgen STRAND LARSEN",
+          "playerOff": "Erling HAALAND"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Eberechi EZE",
+          "playerOff": "Declan RICE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Bukayo SAKA",
+          "playerOff": "Noni MADUEKE"
+        },
+        {
+          "kind": "goal",
+          "minute": 36,
+          "clock": "36'",
+          "side": 1,
+          "player": "Andreas SCHJELDERUP",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 47,
+          "clock": "45'+2'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 60,
+          "clock": "60'",
+          "side": 1,
+          "player": "Fredrik AURSNES",
+          "playerOff": "Julian RYERSON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 1,
+          "player": "Oscar BOBB",
+          "playerOff": "Alexander SORLOTH"
+        },
+        {
+          "kind": "substitution",
+          "minute": 67,
+          "clock": "67'",
+          "side": 1,
+          "player": "Antonio NUSA",
+          "playerOff": "Andreas SCHJELDERUP"
+        },
+        {
+          "kind": "substitution",
+          "minute": 71,
+          "clock": "71'",
+          "side": 2,
+          "player": "Reece JAMES",
+          "playerOff": "Anthony GORDON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Djed SPENCE",
+          "playerOff": "Nico OREILLY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 89,
+          "clock": "89'",
+          "side": 2,
+          "player": "Morgan ROGERS",
+          "playerOff": "Ezri KONSA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 90,
+          "clock": "90'",
+          "side": 1,
+          "player": "Marcus HOLMGREN PEDERSEN",
+          "playerOff": "David MOLLER WOLFE"
+        },
+        {
+          "kind": "goal",
+          "minute": 93,
+          "clock": "93'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 111,
+          "clock": "111'",
+          "side": 2,
+          "player": "Dan BURN",
+          "playerOff": "Jude BELLINGHAM"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 117,
+          "clock": "117'",
+          "side": 1,
+          "player": "Kristoffer AJER"
+        }
+      ]
+    },
+    {
+      "matchNumber": 100,
+      "fixtureId": 18222446,
+      "fifaMatchId": "400021537",
+      "fifaStageId": "289289",
+      "stage": "Quarter-final",
+      "group": null,
+      "date": "2026-07-12T01:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "away": {
+        "name": "Switzerland",
+        "code": "SUI"
+      },
+      "score": [
+        3,
+        1
+      ],
+      "penalties": null,
+      "stadium": "Kansas City Stadium",
+      "attendance": 69045,
+      "eventSource": "txline-historical",
+      "eventCount": 1307,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Thiago ALMADA",
+          "playerOff": "Enzo FERNANDEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Nicolas OTAMENDI",
+          "playerOff": "Cristian ROMERO"
+        },
+        {
+          "kind": "goal",
+          "minute": 10,
+          "clock": "10'",
+          "side": 1,
+          "player": "Alexis MAC ALLISTER",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 44,
+          "clock": "44'",
+          "side": 2,
+          "player": "Breel EMBOLO"
+        },
+        {
+          "kind": "goal",
+          "minute": 67,
+          "clock": "67'",
+          "side": 2,
+          "player": "Dan NDOYE",
+          "assist": null
+        },
+        {
+          "kind": "red_card",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Breel EMBOLO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 78,
+          "clock": "78'",
+          "side": 1,
+          "player": "Nico GONZALEZ",
+          "playerOff": "Nicolas TAGLIAFICO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "Lautaro MARTINEZ",
+          "playerOff": "Rodrigo DE PAUL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 85,
+          "clock": "85'",
+          "side": 1,
+          "player": "Gonzalo MONTIEL",
+          "playerOff": "Nahuel MOLINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Miro MUHEIM",
+          "playerOff": "Fabian RIEDER"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Silvan WIDMER",
+          "playerOff": "Djibril SOW"
+        },
+        {
+          "kind": "substitution",
+          "minute": 86,
+          "clock": "86'",
+          "side": 2,
+          "player": "Zeki AMDOUNI",
+          "playerOff": "Dan NDOYE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 95,
+          "clock": "90'+5'",
+          "side": 2,
+          "player": "Eray COEMERT",
+          "playerOff": "Ricardo RODRIGUEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 96,
+          "clock": "96'",
+          "side": 2,
+          "player": "Ardon JASHARI",
+          "playerOff": "Denis ZAKARIA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 97,
+          "clock": "97'",
+          "side": 1,
+          "player": "Thiago ALMADA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 98,
+          "clock": "98'",
+          "side": 1,
+          "player": "Lautaro MARTINEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 110,
+          "clock": "110'",
+          "side": 1,
+          "player": "Jose Manuel LOPEZ",
+          "playerOff": "Leandro PAREDES"
+        },
+        {
+          "kind": "goal",
+          "minute": 112,
+          "clock": "112'",
+          "side": 1,
+          "player": "Julian ALVAREZ",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 114,
+          "clock": "114'",
+          "side": 1,
+          "player": "Jose Manuel LOPEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 115,
+          "clock": "115'",
+          "side": 2,
+          "player": "Ruben VARGAS",
+          "playerOff": "Remo FREULER"
+        },
+        {
+          "kind": "goal",
+          "minute": 121,
+          "clock": "120'+1'",
+          "side": 1,
+          "player": "Lautaro MARTINEZ",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 101,
+      "fixtureId": 18237038,
+      "fifaMatchId": "400021541",
+      "fifaStageId": "289290",
+      "stage": "Semi-final",
+      "group": null,
+      "date": "2026-07-14T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "France",
+        "code": "FRA"
+      },
+      "away": {
+        "name": "Spain",
+        "code": "ESP"
+      },
+      "score": [
+        0,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Dallas Stadium",
+      "attendance": 70176,
+      "eventSource": "txline-historical",
+      "eventCount": 1027,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Manu KONE",
+          "playerOff": "Adrien RABIOT"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 8,
+          "clock": "8'",
+          "side": 1,
+          "player": "Adrien RABIOT"
+        },
+        {
+          "kind": "goal",
+          "minute": 22,
+          "clock": "22'",
+          "side": 2,
+          "player": "Mikel OYARZABAL",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 30,
+          "clock": "30'",
+          "side": 1,
+          "player": "Maxence Lacroix",
+          "playerOff": "William SALIBA"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 31,
+          "clock": "31'",
+          "side": 2,
+          "player": "Marc CUCURELLA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 57,
+          "clock": "57'",
+          "side": 1,
+          "player": "Desire DOUE",
+          "playerOff": "Bradley BARCOLA"
+        },
+        {
+          "kind": "goal",
+          "minute": 58,
+          "clock": "58'",
+          "side": 2,
+          "player": "Pedro PORRO",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Rayan CHERKI",
+          "playerOff": "Michael OLISE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Theo HERNANDEZ",
+          "playerOff": "Lucas Digne"
+        },
+        {
+          "kind": "substitution",
+          "minute": 74,
+          "clock": "74'",
+          "side": 2,
+          "player": "Ferran TORRES",
+          "playerOff": "Mikel OYARZABAL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 77,
+          "clock": "77'",
+          "side": 2,
+          "player": "PEDRI",
+          "playerOff": "Fabian RUIZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 77,
+          "clock": "77'",
+          "side": 2,
+          "player": "Mikel MERINO",
+          "playerOff": "Dani OLMO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 2,
+          "player": "Nico WILLIAMS",
+          "playerOff": "Alex BAENA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 2,
+          "player": "Marcos LLORENTE",
+          "playerOff": "Pedro PORRO"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 86,
+          "clock": "86'",
+          "side": 1,
+          "player": "Kylian MBAPPE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 102,
+      "fixtureId": 18241006,
+      "fifaMatchId": "400021540",
+      "fifaStageId": "289290",
+      "stage": "Semi-final",
+      "group": null,
+      "date": "2026-07-15T19:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "England",
+        "code": "ENG"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "score": [
+        1,
+        2
+      ],
+      "penalties": null,
+      "stadium": "Atlanta Stadium",
+      "attendance": null,
+      "eventSource": "txline-historical",
+      "eventCount": 964,
+      "officialMoments": [
+        {
+          "kind": "yellow_card",
+          "minute": 37,
+          "clock": "37'",
+          "side": 1,
+          "player": "Elliot ANDERSON"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 42,
+          "clock": "42'",
+          "side": 2,
+          "player": "Lisandro MARTINEZ"
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 51,
+          "clock": "51'",
+          "side": 2,
+          "player": "Cristian ROMERO"
+        },
+        {
+          "kind": "goal",
+          "minute": 55,
+          "clock": "55'",
+          "side": 1,
+          "player": "Anthony GORDON",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 64,
+          "clock": "64'",
+          "side": 2,
+          "player": "Nico GONZALEZ",
+          "playerOff": "Leandro PAREDES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 1,
+          "player": "Ezri KONSA",
+          "playerOff": "Anthony GORDON"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Nicolas OTAMENDI",
+          "playerOff": "Lisandro MARTINEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Gonzalo MONTIEL",
+          "playerOff": "Nahuel MOLINA"
+        },
+        {
+          "kind": "substitution",
+          "minute": 72,
+          "clock": "72'",
+          "side": 2,
+          "player": "Rodrigo DE PAUL",
+          "playerOff": "Giuliano SIMEONE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 81,
+          "clock": "81'",
+          "side": 2,
+          "player": "Lautaro MARTINEZ",
+          "playerOff": "Nicolas TAGLIAFICO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 1,
+          "player": "Dan BURN",
+          "playerOff": "Reece JAMES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 82,
+          "clock": "82'",
+          "side": 1,
+          "player": "Nico OREILLY",
+          "playerOff": "Declan RICE"
+        },
+        {
+          "kind": "goal",
+          "minute": 85,
+          "clock": "85'",
+          "side": 2,
+          "player": "Enzo FERNANDEZ",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 2,
+          "player": "Lautaro MARTINEZ",
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 94,
+          "clock": "90'+4'",
+          "side": 2,
+          "player": "Rodrigo DE PAUL"
+        },
+        {
+          "kind": "substitution",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 1,
+          "player": "Ivan TONEY",
+          "playerOff": "John STONES"
+        },
+        {
+          "kind": "substitution",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 1,
+          "player": "Marcus RASHFORD",
+          "playerOff": "Djed SPENCE"
+        }
+      ]
+    },
+    {
+      "matchNumber": 103,
+      "fixtureId": 18257865,
+      "fifaMatchId": "400021542",
+      "fifaStageId": "289291",
+      "stage": "Bronze final",
+      "group": null,
+      "date": "2026-07-18T21:00:00Z",
+      "status": "complete",
+      "home": {
+        "name": "France",
+        "code": "FRA"
+      },
+      "away": {
+        "name": "England",
+        "code": "ENG"
+      },
+      "score": [
+        4,
+        6
+      ],
+      "penalties": null,
+      "stadium": "Miami Stadium",
+      "attendance": 64478,
+      "eventSource": "txline-historical",
+      "eventCount": 1197,
+      "officialMoments": [
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Dayot UPAMECANO",
+          "playerOff": "Ibrahima KONATE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Bradley BARCOLA",
+          "playerOff": "Desire DOUE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Lucas Digne",
+          "playerOff": "Theo HERNANDEZ"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 1,
+          "player": "Ousmane DEMBELE",
+          "playerOff": "Rayan CHERKI"
+        },
+        {
+          "kind": "substitution",
+          "minute": 0,
+          "clock": "",
+          "side": 2,
+          "player": "Ollie WATKINS",
+          "playerOff": "Marcus RASHFORD"
+        },
+        {
+          "kind": "goal",
+          "minute": 3,
+          "clock": "3'",
+          "side": 2,
+          "player": "Declan RICE",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 18,
+          "clock": "18'",
+          "side": 2,
+          "player": "Ezri KONSA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 37,
+          "clock": "37'",
+          "side": 2,
+          "player": "Bukayo SAKA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 46,
+          "clock": "45'+1'",
+          "side": 2,
+          "player": "Bukayo SAKA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 48,
+          "clock": "48'",
+          "side": 1,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 54,
+          "clock": "54'",
+          "side": 1,
+          "player": "Bradley BARCOLA",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 66,
+          "clock": "66'",
+          "side": 1,
+          "player": "Kylian MBAPPE",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Elliot ANDERSON",
+          "playerOff": "Ivan TONEY"
+        },
+        {
+          "kind": "substitution",
+          "minute": 79,
+          "clock": "79'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "playerOff": "Eberechi EZE"
+        },
+        {
+          "kind": "substitution",
+          "minute": 83,
+          "clock": "83'",
+          "side": 2,
+          "player": "Reece JAMES",
+          "playerOff": "Jarell QUANSAH"
+        },
+        {
+          "kind": "goal",
+          "minute": 87,
+          "clock": "87'",
+          "side": 2,
+          "player": "Bukayo SAKA",
+          "assist": null
+        },
+        {
+          "kind": "substitution",
+          "minute": 91,
+          "clock": "90'+1'",
+          "side": 1,
+          "player": "Jules KOUNDE",
+          "playerOff": "Malo GUSTO"
+        },
+        {
+          "kind": "substitution",
+          "minute": 92,
+          "clock": "90'+2'",
+          "side": 2,
+          "player": "Trevoh CHALOBAH",
+          "playerOff": "Marc GUEHI"
+        },
+        {
+          "kind": "goal",
+          "minute": 96,
+          "clock": "90'+6'",
+          "side": 1,
+          "player": "Ousmane DEMBELE",
+          "assist": null
+        },
+        {
+          "kind": "goal",
+          "minute": 98,
+          "clock": "90'+8'",
+          "side": 2,
+          "player": "Jude BELLINGHAM",
+          "assist": null
+        }
+      ]
+    },
+    {
+      "matchNumber": 104,
+      "fixtureId": 18257739,
+      "fifaMatchId": "400021543",
+      "fifaStageId": "289292",
+      "stage": "Final",
+      "group": null,
+      "date": "2026-07-19T19:00:00Z",
+      "status": "upcoming",
+      "home": {
+        "name": "Spain",
+        "code": "ESP"
+      },
+      "away": {
+        "name": "Argentina",
+        "code": "ARG"
+      },
+      "score": null,
+      "penalties": null,
+      "stadium": "New York/New Jersey Stadium",
+      "attendance": null,
+      "eventSource": "txline-live-ready",
+      "eventCount": 0,
+      "officialMoments": []
+    }
+  ]
+}

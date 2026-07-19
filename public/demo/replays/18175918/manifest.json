@@ -1,0 +1,136 @@
+{
+  "fixtureId": 18175918,
+  "matchNumber": 86,
+  "generatedAt": "2026-07-19T20:56:02.567Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Argentina’s Extra-Time Edge",
+    "openingLine": "A round-of-32 meeting awaits as Argentina face Cabo Verde at Miami Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Argentina and Cabo Verde begin their round-of-32 meeting at Miami Stadium.",
+        "explainer": "The replay opens with both teams level and the knockout contest under way."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Lionel MESSI puts Argentina ahead, 1–0.",
+        "explainer": "Argentina take the lead through Lionel MESSI, creating the match’s first decisive swing."
+      },
+      {
+        "id": "halftime-2",
+        "spokenLine": "Argentina reach half-time ahead of Cabo Verde, 1–0.",
+        "explainer": "The interval arrives with Argentina holding the advantage."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "DEROY DUARTE brings Cabo Verde level, 1–1.",
+        "explainer": "Cabo Verde answer Argentina’s lead, restoring parity."
+      },
+      {
+        "id": "yellow_card-8",
+        "spokenLine": "KEVIN PINA is shown a card for Cabo Verde.",
+        "explainer": "The contest continues with a disciplinary moment for Cabo Verde."
+      },
+      {
+        "id": "goal-13",
+        "spokenLine": "Lisandro MARTINEZ puts Argentina back in front, 2–1.",
+        "explainer": "Argentina regain the lead, moving ahead again after Cabo Verde’s equaliser."
+      },
+      {
+        "id": "goal-16",
+        "spokenLine": "SIDNY LOPES CABRAL levels it for Cabo Verde, 2–2.",
+        "explainer": "Cabo Verde respond once more, leaving the score level again."
+      },
+      {
+        "id": "goal-18",
+        "spokenLine": "Player 409241 restores Argentina’s lead, 3–2.",
+        "explainer": "Argentina move in front for the third time, taking the decisive advantage."
+      },
+      {
+        "id": "yellow_card-19",
+        "spokenLine": "Gonzalo MONTIEL is shown a card for Argentina.",
+        "explainer": "A disciplinary moment arrives for Argentina late in the contest."
+      },
+      {
+        "id": "fulltime-20",
+        "spokenLine": "Argentina finish the match ahead of Cabo Verde, 3–2.",
+        "explainer": "The final score confirms Argentina’s victory after the lead changed hands repeatedly."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18175918/01-kickoff-0.mp3",
+      "text": "At kick-off, Argentina and Cabo Verde begin their round-of-32 meeting at Miami Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18175918/02-goal-1.mp3",
+      "text": "In the 29th minute, Lionel MESSI puts Argentina ahead, 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-2",
+      "audioPath": "/demo/replays/18175918/03-halftime-2.mp3",
+      "text": "At half-time, Argentina reach half-time ahead of Cabo Verde, 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18175918/04-goal-3.mp3",
+      "text": "In the 59th minute, DEROY DUARTE brings Cabo Verde level, 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-8",
+      "audioPath": "/demo/replays/18175918/05-yellow_card-8.mp3",
+      "text": "In the 68th minute, KEVIN PINA is shown a card for Cabo Verde.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-13",
+      "audioPath": "/demo/replays/18175918/06-goal-13.mp3",
+      "text": "In the 92nd minute, Lisandro MARTINEZ puts Argentina back in front, 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-16",
+      "audioPath": "/demo/replays/18175918/07-goal-16.mp3",
+      "text": "In the 103rd minute, SIDNY LOPES CABRAL levels it for Cabo Verde, 2–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-18",
+      "audioPath": "/demo/replays/18175918/08-goal-18.mp3",
+      "text": "In the 111th minute, Player 409241 restores Argentina’s lead, 3–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-19",
+      "audioPath": "/demo/replays/18175918/09-yellow_card-19.mp3",
+      "text": "In the 115th minute, Gonzalo MONTIEL is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-20",
+      "audioPath": "/demo/replays/18175918/10-fulltime-20.mp3",
+      "text": "At full-time, Argentina finish the match ahead of Cabo Verde, 3–2.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

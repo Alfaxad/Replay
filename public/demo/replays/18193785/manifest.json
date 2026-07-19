@@ -1,0 +1,280 @@
+{
+  "fixtureId": 18193785,
+  "matchNumber": 94,
+  "generatedAt": "2026-07-19T20:56:18.306Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "USA v Belgium: A Belgian Surge in Seattle",
+    "openingLine": "USA meet Belgium in the round of 16 at Seattle Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-22",
+        "spokenLine": "USA meet Belgium in the round of 16 at Seattle Stadium.",
+        "explainer": "The round of 16 begins with both sides sharing the stage in Seattle."
+      },
+      {
+        "id": "corner-35",
+        "spokenLine": "Belgium win the first confirmed corner, and the count reads 0–1.",
+        "explainer": "Belgium take the early set-piece edge."
+      },
+      {
+        "id": "pressure-125",
+        "spokenLine": "Belgium drive forward with 4 shots and 9 dangerous actions.",
+        "explainer": "The opening passage belongs to Belgium, with sustained attacking pressure."
+      },
+      {
+        "id": "goal-127",
+        "spokenLine": "Belgium strike first, and the verified score moves to 0–1.",
+        "explainer": "Belgium turn their early pressure into the opening goal."
+      },
+      {
+        "id": "goal-316",
+        "spokenLine": "Malik TILLMAN scores for USA, and the verified score moves to 1–1.",
+        "explainer": "USA restore parity and bring the match level."
+      },
+      {
+        "id": "goal-335",
+        "spokenLine": "Charles DE KETELAERE scores for Belgium, making the verified score 1–2.",
+        "explainer": "Belgium answer immediately and reclaim the lead."
+      },
+      {
+        "id": "yellow_card-351",
+        "spokenLine": "Weston McKENNIE is shown a card for USA.",
+        "explainer": "The match adds its first confirmed booking."
+      },
+      {
+        "id": "corner-392",
+        "spokenLine": "Belgium win another confirmed corner, taking the count to 0–2.",
+        "explainer": "Belgium continue to hold the corner advantage."
+      },
+      {
+        "id": "corner-461",
+        "spokenLine": "USA win a confirmed corner, and the count now reads 1–2.",
+        "explainer": "USA narrow the corner gap before the interval."
+      },
+      {
+        "id": "corner-504",
+        "spokenLine": "Belgium win a confirmed corner, moving the count to 0–3.",
+        "explainer": "Belgium restore their three-corner lead."
+      },
+      {
+        "id": "corner-543",
+        "spokenLine": "USA win a confirmed corner, and the count reads 1–3.",
+        "explainer": "USA respond again from the corner count."
+      },
+      {
+        "id": "halftime-551",
+        "spokenLine": "USA 1–2 Belgium at the interval.",
+        "explainer": "Belgium lead at half-time after a first half with three goals."
+      },
+      {
+        "id": "corner-637",
+        "spokenLine": "Belgium win a confirmed corner, and the count stands at 1–4.",
+        "explainer": "Belgium extend their corner advantage after the restart."
+      },
+      {
+        "id": "pressure-701",
+        "spokenLine": "USA drive a sustained spell with 1 shot and 13 dangerous actions.",
+        "explainer": "USA show attacking intent in this passage, though the score remains 1–2."
+      },
+      {
+        "id": "goal-703",
+        "spokenLine": "Hans VANAKEN scores for Belgium, and the verified score moves to 1–3.",
+        "explainer": "Belgium convert their advantage into a two-goal lead."
+      },
+      {
+        "id": "corner-757",
+        "spokenLine": "Belgium win a confirmed corner, taking the count to 1–5.",
+        "explainer": "Belgium continue to lead the corner count."
+      },
+      {
+        "id": "corner-788",
+        "spokenLine": "USA win a confirmed corner, and the count moves to 2–5.",
+        "explainer": "USA gain another set piece but still trail on corners."
+      },
+      {
+        "id": "yellow_card-823",
+        "spokenLine": "Malik TILLMAN is shown a card for USA.",
+        "explainer": "The second confirmed booking goes to USA."
+      },
+      {
+        "id": "corner-968",
+        "spokenLine": "USA win a confirmed corner, bringing the count to 3–5.",
+        "explainer": "USA keep pressing for a way back into the match."
+      },
+      {
+        "id": "pressure-1066",
+        "spokenLine": "USA drive a late spell with 3 shots and 23 dangerous actions.",
+        "explainer": "USA produce their strongest recorded pressure late on, still chasing a two-goal deficit."
+      },
+      {
+        "id": "goal-1110",
+        "spokenLine": "Romelu LUKAKU scores for Belgium, and the verified score moves to 1–4.",
+        "explainer": "Belgium add a fourth goal and put the result beyond reach on the scoreline."
+      },
+      {
+        "id": "fulltime-1123",
+        "spokenLine": "USA 1–4 Belgium.",
+        "explainer": "Belgium finish with a three-goal victory in Seattle."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-22",
+      "audioPath": "/demo/replays/18193785/01-kickoff-22.mp3",
+      "text": "At kick-off, USA meet Belgium in the round of 16 at Seattle Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-35",
+      "audioPath": "/demo/replays/18193785/02-corner-35.mp3",
+      "text": "In the 1st minute, Belgium win a confirmed corner. The corner count is 0–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-125",
+      "audioPath": "/demo/replays/18193785/03-pressure-125.mp3",
+      "text": "Between the 0th and 10th minutes, Belgium drive forward with 4 shots and 9 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "goal-127",
+      "audioPath": "/demo/replays/18193785/04-goal-127.mp3",
+      "text": "In the 8th minute, Belgium strike first, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-316",
+      "audioPath": "/demo/replays/18193785/05-goal-316.mp3",
+      "text": "In the 31st minute, Malik TILLMAN scores for USA, and the verified score moves to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-335",
+      "audioPath": "/demo/replays/18193785/06-goal-335.mp3",
+      "text": "In the 33rd minute, Charles DE KETELAERE scores for Belgium, making the verified score 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-351",
+      "audioPath": "/demo/replays/18193785/07-yellow_card-351.mp3",
+      "text": "In the 35th minute, Weston McKENNIE is shown a card for USA.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-392",
+      "audioPath": "/demo/replays/18193785/08-corner-392.mp3",
+      "text": "In the 37th minute, Belgium win a confirmed corner. The corner count is 0–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-461",
+      "audioPath": "/demo/replays/18193785/09-corner-461.mp3",
+      "text": "In the 44th minute, USA win a confirmed corner. The corner count is 1–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-504",
+      "audioPath": "/demo/replays/18193785/10-corner-504.mp3",
+      "text": "In the 47th minute, Belgium win a confirmed corner. The corner count is 0–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-543",
+      "audioPath": "/demo/replays/18193785/11-corner-543.mp3",
+      "text": "In the 50th minute, USA win a confirmed corner. The corner count is 1–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-551",
+      "audioPath": "/demo/replays/18193785/12-halftime-551.mp3",
+      "text": "At half-time, USA 1–2 Belgium.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-637",
+      "audioPath": "/demo/replays/18193785/13-corner-637.mp3",
+      "text": "In the 50th minute, Belgium win a confirmed corner. The corner count is 1–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-701",
+      "audioPath": "/demo/replays/18193785/14-pressure-701.mp3",
+      "text": "Between the 50th and 60th minutes, USA drive a sustained spell with 1 shot and 13 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "goal-703",
+      "audioPath": "/demo/replays/18193785/15-goal-703.mp3",
+      "text": "In the 57th minute, Hans VANAKEN scores for Belgium, and the verified score moves to 1–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-757",
+      "audioPath": "/demo/replays/18193785/16-corner-757.mp3",
+      "text": "In the 61st minute, Belgium win a confirmed corner. The corner count is 1–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-788",
+      "audioPath": "/demo/replays/18193785/17-corner-788.mp3",
+      "text": "In the 64th minute, USA win a confirmed corner. The corner count is 2–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-823",
+      "audioPath": "/demo/replays/18193785/18-yellow_card-823.mp3",
+      "text": "In the 69th minute, Malik TILLMAN is shown a card for USA.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-968",
+      "audioPath": "/demo/replays/18193785/19-corner-968.mp3",
+      "text": "In the 81st minute, USA win a confirmed corner. The corner count is 3–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-1066",
+      "audioPath": "/demo/replays/18193785/20-pressure-1066.mp3",
+      "text": "Between the 80th and 90th minutes, USA drive a late spell with 3 shots and 23 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "goal-1110",
+      "audioPath": "/demo/replays/18193785/21-goal-1110.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, Romelu LUKAKU scores for Belgium, and the verified score moves to 1–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-1123",
+      "audioPath": "/demo/replays/18193785/22-fulltime-1123.mp3",
+      "text": "At full-time, USA 1–4 Belgium.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

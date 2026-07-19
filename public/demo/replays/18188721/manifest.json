@@ -1,0 +1,112 @@
+{
+  "fixtureId": 18188721,
+  "matchNumber": 89,
+  "generatedAt": "2026-07-19T20:56:07.850Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Paraguay 0–1 France: The Decisive Break",
+    "openingLine": "Welcome to Replay: Paraguay meet France in the round of 16 at Philadelphia Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Paraguay meet France in the round of 16 at Philadelphia Stadium.",
+        "explainer": "The replay begins with both sides at the start of a knockout meeting."
+      },
+      {
+        "id": "yellow_card-1",
+        "spokenLine": "Bradley BARCOLA is shown a card for France.",
+        "explainer": "A disciplinary moment arrives before either side has found the opening goal."
+      },
+      {
+        "id": "halftime-2",
+        "spokenLine": "At the interval, Paraguay and France are level at 0–0.",
+        "explainer": "The score remains level at the break, with the match still awaiting its decisive moment."
+      },
+      {
+        "id": "goal-6",
+        "spokenLine": "Kylian MBAPPE scores for France, and the verified score moves to 0–1.",
+        "explainer": "France take the lead, changing the balance of the round-of-16 contest."
+      },
+      {
+        "id": "yellow_card-9",
+        "spokenLine": "Manu KONE is shown a card for France.",
+        "explainer": "France still lead 0–1, with the match moving deeper into its closing stages."
+      },
+      {
+        "id": "yellow_card-11",
+        "spokenLine": "Player null is shown a card for Paraguay.",
+        "explainer": "Paraguay remain behind 0–1 as the late pressure of the contest continues."
+      },
+      {
+        "id": "yellow_card-12",
+        "spokenLine": "Michael OLISE is shown a card for France.",
+        "explainer": "France still hold the 0–1 lead with the match in added time."
+      },
+      {
+        "id": "fulltime-13",
+        "spokenLine": "Paraguay 0–1 France.",
+        "explainer": "The final score confirms France's one-goal victory and their progress from the round of 16."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18188721/01-kickoff-0.mp3",
+      "text": "At kick-off, Paraguay meet France in the round of 16 at Philadelphia Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-1",
+      "audioPath": "/demo/replays/18188721/02-yellow_card-1.mp3",
+      "text": "In the 19th minute, Bradley BARCOLA is shown a card for France.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-2",
+      "audioPath": "/demo/replays/18188721/03-halftime-2.mp3",
+      "text": "At half-time, Paraguay and France are level at 0–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-6",
+      "audioPath": "/demo/replays/18188721/04-goal-6.mp3",
+      "text": "In the 70th minute, Kylian MBAPPE scores for France, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-9",
+      "audioPath": "/demo/replays/18188721/05-yellow_card-9.mp3",
+      "text": "In the 81st minute, Manu KONE is shown a card for France.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-11",
+      "audioPath": "/demo/replays/18188721/06-yellow_card-11.mp3",
+      "text": "In the 90th minute, Player null is shown a card for Paraguay.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-12",
+      "audioPath": "/demo/replays/18188721/07-yellow_card-12.mp3",
+      "text": "In the 7th minute of second-half stoppage time, Michael OLISE is shown a card for France.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-13",
+      "audioPath": "/demo/replays/18188721/08-fulltime-13.mp3",
+      "text": "At full-time, Paraguay 0–1 France.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

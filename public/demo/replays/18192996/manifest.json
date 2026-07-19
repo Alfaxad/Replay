@@ -1,0 +1,400 @@
+{
+  "fixtureId": 18192996,
+  "matchNumber": 92,
+  "generatedAt": "2026-07-19T20:56:13.609Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Mexico 2–3 England: A Round-of-16 Surge",
+    "openingLine": "Mexico meet England in the round of 16 at Mexico City Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-21",
+        "spokenLine": "Mexico meet England in the round of 16 at Mexico City Stadium.",
+        "explainer": "The replay begins with the fixture set at Mexico City Stadium."
+      },
+      {
+        "id": "yellow_card-35",
+        "spokenLine": "Declan RICE is shown a card for England.",
+        "explainer": "England receive the first recorded disciplinary moment."
+      },
+      {
+        "id": "corner-90",
+        "spokenLine": "England win a corner, moving the count to 0–1.",
+        "explainer": "England edge ahead in the early corner count."
+      },
+      {
+        "id": "corner-158",
+        "spokenLine": "Mexico win a corner, bringing the count level at 1–1.",
+        "explainer": "Mexico restore parity in the corner count."
+      },
+      {
+        "id": "corner-161",
+        "spokenLine": "Another Mexico corner makes the count 2–1.",
+        "explainer": "Mexico move in front on corners."
+      },
+      {
+        "id": "corner-200",
+        "spokenLine": "England win a corner, bringing the count level at 2–2.",
+        "explainer": "The corner count is level again."
+      },
+      {
+        "id": "goal-338",
+        "spokenLine": "Jude BELLINGHAM scores for England. The score moves to 0–1.",
+        "explainer": "England take the lead."
+      },
+      {
+        "id": "goal-349",
+        "spokenLine": "Jude BELLINGHAM scores again for England. The score moves to 0–2.",
+        "explainer": "A second England goal doubles the advantage."
+      },
+      {
+        "id": "goal-382",
+        "spokenLine": "Julian QUINONES scores for Mexico. The score moves to 1–2.",
+        "explainer": "Mexico pull a goal back before the interval."
+      },
+      {
+        "id": "corner-394",
+        "spokenLine": "Mexico win a corner, making the count 3–2.",
+        "explainer": "Mexico lead the corner count after their goal."
+      },
+      {
+        "id": "corner-450",
+        "spokenLine": "Mexico win another corner. The count remains 3–2.",
+        "explainer": "The corner count is unchanged in the record."
+      },
+      {
+        "id": "corner-455",
+        "spokenLine": "Mexico win a corner, moving the count to 4–2.",
+        "explainer": "Mexico extend their corner advantage."
+      },
+      {
+        "id": "halftime-473",
+        "spokenLine": "Mexico 1–2 England at the interval.",
+        "explainer": "England lead at half-time, with Mexico one goal behind."
+      },
+      {
+        "id": "red_card-567",
+        "spokenLine": "Jarell QUANSAH is shown a card for England.",
+        "explainer": "England face a major disciplinary moment after half-time."
+      },
+      {
+        "id": "corner-656",
+        "spokenLine": "Mexico win a corner, making the count 5–2.",
+        "explainer": "Mexico continue to lead the corner count."
+      },
+      {
+        "id": "yellow_card-676",
+        "spokenLine": "Marc GUEHI is shown a card for England.",
+        "explainer": "England receive another recorded card."
+      },
+      {
+        "id": "yellow_card-698",
+        "spokenLine": "Jorge SANCHEZ is shown a card for Mexico.",
+        "explainer": "Mexico enter the disciplinary exchange."
+      },
+      {
+        "id": "yellow_card-703",
+        "spokenLine": "Nico OREILLY is shown a card for England.",
+        "explainer": "England receive another card."
+      },
+      {
+        "id": "corner-756",
+        "spokenLine": "Mexico win a corner, moving the count to 6–2.",
+        "explainer": "Mexico's corner lead continues to grow."
+      },
+      {
+        "id": "corner-761",
+        "spokenLine": "Another Mexico corner makes the count 7–2.",
+        "explainer": "Mexico add further pressure through the corner count."
+      },
+      {
+        "id": "corner-765",
+        "spokenLine": "Mexico win again from the corner, making it 8–2.",
+        "explainer": "Mexico now lead the corner count by six."
+      },
+      {
+        "id": "pressure-767",
+        "spokenLine": "Across this passage, Mexico record 1 shots and 28 dangerous actions.",
+        "explainer": "Mexico sustain a spell of attacking activity."
+      },
+      {
+        "id": "pressure-882",
+        "spokenLine": "Across this passage, Mexico record 3 shots and 26 dangerous actions.",
+        "explainer": "Mexico's pressure continues through the next ten-minute passage."
+      },
+      {
+        "id": "corner-904",
+        "spokenLine": "Mexico win a corner, moving the count to 9–2.",
+        "explainer": "Mexico continue to dominate the corner count."
+      },
+      {
+        "id": "yellow_card-980",
+        "spokenLine": "Johan VASQUEZ is shown a card for Mexico.",
+        "explainer": "Mexico receive a recorded card late on."
+      },
+      {
+        "id": "yellow_card-984",
+        "spokenLine": "Johan VASQUEZ is shown a card for Mexico.",
+        "explainer": "The record marks another Mexico card for Johan VASQUEZ."
+      },
+      {
+        "id": "corner-991",
+        "spokenLine": "Mexico win a corner, making the count 10–2.",
+        "explainer": "Mexico reach double figures in the corner count."
+      },
+      {
+        "id": "yellow_card-993",
+        "spokenLine": "Jordan HENDERSON is shown a card for England.",
+        "explainer": "England receive a late recorded card."
+      },
+      {
+        "id": "pressure-1005",
+        "spokenLine": "Across this passage, Mexico record 5 shots and 20 dangerous actions.",
+        "explainer": "Mexico sustain another spell of pressure late in the match."
+      },
+      {
+        "id": "corner-1026",
+        "spokenLine": "Mexico win a corner, moving the count to 11–2.",
+        "explainer": "Mexico continue their late corner surge."
+      },
+      {
+        "id": "corner-1036",
+        "spokenLine": "Another Mexico corner makes the count 12–2.",
+        "explainer": "Mexico extend their commanding corner advantage."
+      },
+      {
+        "id": "fulltime-1046",
+        "spokenLine": "Mexico 2–3 England.",
+        "explainer": "England finish with a one-goal victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-21",
+      "audioPath": "/demo/replays/18192996/01-kickoff-21.mp3",
+      "text": "At kick-off, Mexico meet England in the round of 16 at Mexico City Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-35",
+      "audioPath": "/demo/replays/18192996/02-yellow_card-35.mp3",
+      "text": "In the 1st minute, Declan RICE is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-90",
+      "audioPath": "/demo/replays/18192996/03-corner-90.mp3",
+      "text": "In the 7th minute, England win a confirmed corner. The corner count is 0–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-158",
+      "audioPath": "/demo/replays/18192996/04-corner-158.mp3",
+      "text": "In the 15th minute, Mexico win a confirmed corner. The corner count is 1–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-161",
+      "audioPath": "/demo/replays/18192996/05-corner-161.mp3",
+      "text": "In the 15th minute, Mexico win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-200",
+      "audioPath": "/demo/replays/18192996/06-corner-200.mp3",
+      "text": "In the 19th minute, England win a confirmed corner. The corner count is 2–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-338",
+      "audioPath": "/demo/replays/18192996/07-goal-338.mp3",
+      "text": "In the 36th minute, Jude BELLINGHAM scores for England. The score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-349",
+      "audioPath": "/demo/replays/18192996/08-goal-349.mp3",
+      "text": "In the 36th minute, Jude BELLINGHAM scores again for England. The score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-382",
+      "audioPath": "/demo/replays/18192996/09-goal-382.mp3",
+      "text": "In the 42nd minute, Julian QUINONES scores for Mexico. The score moves to 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-394",
+      "audioPath": "/demo/replays/18192996/10-corner-394.mp3",
+      "text": "In the 43rd minute, Mexico win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-450",
+      "audioPath": "/demo/replays/18192996/11-corner-450.mp3",
+      "text": "In the 47th minute, Mexico win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-455",
+      "audioPath": "/demo/replays/18192996/12-corner-455.mp3",
+      "text": "In the 48th minute, Mexico win a confirmed corner. The corner count is 4–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-473",
+      "audioPath": "/demo/replays/18192996/13-halftime-473.mp3",
+      "text": "At half-time, Mexico 1–2 England.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "red_card-567",
+      "audioPath": "/demo/replays/18192996/14-red_card-567.mp3",
+      "text": "In the 54th minute, Jarell QUANSAH is shown a card for England.",
+      "kind": "red_card",
+      "intensity": 92
+    },
+    {
+      "id": "corner-656",
+      "audioPath": "/demo/replays/18192996/15-corner-656.mp3",
+      "text": "In the 64th minute, Mexico win a confirmed corner. The corner count is 5–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-676",
+      "audioPath": "/demo/replays/18192996/16-yellow_card-676.mp3",
+      "text": "In the 68th minute, Marc GUEHI is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-698",
+      "audioPath": "/demo/replays/18192996/17-yellow_card-698.mp3",
+      "text": "In the 71st minute, Jorge SANCHEZ is shown a card for Mexico.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-703",
+      "audioPath": "/demo/replays/18192996/18-yellow_card-703.mp3",
+      "text": "In the 72nd minute, Nico OREILLY is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-756",
+      "audioPath": "/demo/replays/18192996/19-corner-756.mp3",
+      "text": "In the 77th minute, Mexico win a confirmed corner. The corner count is 6–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-761",
+      "audioPath": "/demo/replays/18192996/20-corner-761.mp3",
+      "text": "In the 78th minute, Mexico win a confirmed corner. The corner count is 7–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-765",
+      "audioPath": "/demo/replays/18192996/21-corner-765.mp3",
+      "text": "In the 79th minute, Mexico win a confirmed corner. The corner count is 8–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-767",
+      "audioPath": "/demo/replays/18192996/22-pressure-767.mp3",
+      "text": "Between the 70th and 80th minutes, Across this passage, Mexico record 1 shots and 28 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "pressure-882",
+      "audioPath": "/demo/replays/18192996/23-pressure-882.mp3",
+      "text": "Between the 80th and 90th minutes, Across this passage, Mexico record 3 shots and 26 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "corner-904",
+      "audioPath": "/demo/replays/18192996/24-corner-904.mp3",
+      "text": "In the 91st minute, Mexico win a confirmed corner. The corner count is 9–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-980",
+      "audioPath": "/demo/replays/18192996/25-yellow_card-980.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Johan VASQUEZ is shown a card for Mexico.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-984",
+      "audioPath": "/demo/replays/18192996/26-yellow_card-984.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Johan VASQUEZ is shown a card for Mexico.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-991",
+      "audioPath": "/demo/replays/18192996/27-corner-991.mp3",
+      "text": "In the 98th minute, Mexico win a confirmed corner. The corner count is 10–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-993",
+      "audioPath": "/demo/replays/18192996/28-yellow_card-993.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Jordan HENDERSON is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "pressure-1005",
+      "audioPath": "/demo/replays/18192996/29-pressure-1005.mp3",
+      "text": "Between the 90th and 100th minutes, Across this passage, Mexico record 5 shots and 20 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 77
+    },
+    {
+      "id": "corner-1026",
+      "audioPath": "/demo/replays/18192996/30-corner-1026.mp3",
+      "text": "In the 101st minute, Mexico win a confirmed corner. The corner count is 11–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-1036",
+      "audioPath": "/demo/replays/18192996/31-corner-1036.mp3",
+      "text": "In the 101st minute, Mexico win a confirmed corner. The corner count is 12–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "fulltime-1046",
+      "audioPath": "/demo/replays/18192996/32-fulltime-1046.mp3",
+      "text": "At full-time, Mexico 2–3 England.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

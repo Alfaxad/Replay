@@ -1,0 +1,184 @@
+{
+  "fixtureId": 18176123,
+  "matchNumber": 88,
+  "generatedAt": "2026-07-19T20:56:05.900Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Australia v Egypt: A Shootout in Dallas",
+    "openingLine": "Australia meet Egypt in the round of 32 at Dallas Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Australia meet Egypt in the round of 32 at Dallas Stadium.",
+        "explainer": "This begins the round-of-32 meeting between Australia and Egypt at Dallas Stadium."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "HOSSAM ABDELMAGUID scores for Egypt, moving the verified score to 0–1.",
+        "explainer": "Egypt take the lead."
+      },
+      {
+        "id": "goal-2",
+        "spokenLine": "HOSSAM ABDELMAGUID scores again for Egypt, and the verified score moves to 0–2.",
+        "explainer": "The verified score gives Egypt a two-goal advantage."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "HOSSAM ABDELMAGUID scores for Egypt once more, moving the verified score to 0–3.",
+        "explainer": "Egypt extend their advantage."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "HOSSAM ABDELMAGUID scores again for Egypt, and the verified score moves to 0–4.",
+        "explainer": "The verified score now shows Egypt four goals ahead."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Awer MABIL scores for Australia, and the verified score moves to 1–4.",
+        "explainer": "Australia get on the scoreline."
+      },
+      {
+        "id": "goal-6",
+        "spokenLine": "Awer MABIL scores again for Australia, moving the verified score to 2–4.",
+        "explainer": "Australia reduce the verified deficit to two goals."
+      },
+      {
+        "id": "goal-11",
+        "spokenLine": "EMAM ASHOUR scores for Egypt, moving the verified score to 2–5.",
+        "explainer": "Egypt restore a three-goal advantage."
+      },
+      {
+        "id": "halftime-12",
+        "spokenLine": "At the interval, Australia trail Egypt 2–5.",
+        "explainer": "The half-time score leaves Australia three goals behind."
+      },
+      {
+        "id": "goal-13",
+        "spokenLine": "Player 408950 scores for Australia, and the verified score moves to 3–5.",
+        "explainer": "Australia reduce the verified deficit to two goals."
+      },
+      {
+        "id": "yellow_card-19",
+        "spokenLine": "Player null is shown a card for Egypt.",
+        "explainer": "Egypt receive a yellow card."
+      },
+      {
+        "id": "yellow_card-20",
+        "spokenLine": "HAISSEM HASSAN is shown a card for Egypt.",
+        "explainer": "A further yellow card is recorded for Egypt."
+      },
+      {
+        "id": "yellow_card-22",
+        "spokenLine": "YASSER IBRAHIM is shown a card for Egypt.",
+        "explainer": "Another yellow card is recorded for Egypt."
+      },
+      {
+        "id": "fulltime-24",
+        "spokenLine": "Australia 1–1 Egypt, with the penalties recorded as 2–4.",
+        "explainer": "The match finishes level, with the verified penalty score recorded as 2–4."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18176123/01-kickoff-0.mp3",
+      "text": "At kick-off, Australia meet Egypt in the round of 32 at Dallas Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18176123/02-goal-1.mp3",
+      "text": "At , HOSSAM ABDELMAGUID scores for Egypt, moving the verified score to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-2",
+      "audioPath": "/demo/replays/18176123/03-goal-2.mp3",
+      "text": "At , HOSSAM ABDELMAGUID scores again for Egypt, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18176123/04-goal-3.mp3",
+      "text": "At , HOSSAM ABDELMAGUID scores for Egypt once more, moving the verified score to 0–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18176123/05-goal-4.mp3",
+      "text": "At , HOSSAM ABDELMAGUID scores again for Egypt, and the verified score moves to 0–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/18176123/06-goal-5.mp3",
+      "text": "At , Awer MABIL scores for Australia, and the verified score moves to 1–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-6",
+      "audioPath": "/demo/replays/18176123/07-goal-6.mp3",
+      "text": "At , Awer MABIL scores again for Australia, moving the verified score to 2–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-11",
+      "audioPath": "/demo/replays/18176123/08-goal-11.mp3",
+      "text": "In the 13th minute, EMAM ASHOUR scores for Egypt, moving the verified score to 2–5.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-12",
+      "audioPath": "/demo/replays/18176123/09-halftime-12.mp3",
+      "text": "At half-time, Australia trail Egypt 2–5.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-13",
+      "audioPath": "/demo/replays/18176123/10-goal-13.mp3",
+      "text": "In the 55th minute, Player 408950 scores for Australia, and the verified score moves to 3–5.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-19",
+      "audioPath": "/demo/replays/18176123/11-yellow_card-19.mp3",
+      "text": "In the 91st minute, Player null is shown a card for Egypt.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-20",
+      "audioPath": "/demo/replays/18176123/12-yellow_card-20.mp3",
+      "text": "In the 104th minute, HAISSEM HASSAN is shown a card for Egypt.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-22",
+      "audioPath": "/demo/replays/18176123/13-yellow_card-22.mp3",
+      "text": "In the 120th minute, YASSER IBRAHIM is shown a card for Egypt.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-24",
+      "audioPath": "/demo/replays/18176123/14-fulltime-24.mp3",
+      "text": "At full-time, Australia 1–1 Egypt, with the penalties recorded as 2–4.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

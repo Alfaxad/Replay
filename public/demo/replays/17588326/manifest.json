@@ -1,0 +1,136 @@
+{
+  "fixtureId": 17588326,
+  "matchNumber": 69,
+  "generatedAt": "2026-07-19T20:55:42.618Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Six Goals in Kansas City",
+    "openingLine": "Replay begins in Kansas City, where Algeria meet Austria in Group J of the World Cup group stage.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Replay begins as Algeria meet Austria in Group J at Kansas City Stadium.",
+        "explainer": "The group-stage contest is under way in Kansas City."
+      },
+      {
+        "id": "yellow_card-4",
+        "spokenLine": "Marko ARNAUTOVIC is shown a card for Austria.",
+        "explainer": "Austria receive the first recorded disciplinary moment."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Marko ARNAUTOVIC strikes for Austria, and the score moves to 0–1.",
+        "explainer": "Austria take the lead."
+      },
+      {
+        "id": "goal-6",
+        "spokenLine": "Rafik BELGHALI answers for Algeria, bringing the score to 1–1.",
+        "explainer": "Algeria restore parity before the interval."
+      },
+      {
+        "id": "halftime-7",
+        "spokenLine": "At half-time, Algeria and Austria are level at 1–1.",
+        "explainer": "The first half closes with the scores even."
+      },
+      {
+        "id": "goal-8",
+        "spokenLine": "Marcel SABITZER puts Austria back in front at 1–2.",
+        "explainer": "Austria regain the lead after the interval."
+      },
+      {
+        "id": "goal-9",
+        "spokenLine": "Riyad MAHREZ responds for Algeria, and it is 2–2.",
+        "explainer": "Algeria level the match again."
+      },
+      {
+        "id": "goal-14",
+        "spokenLine": "Riyad MAHREZ scores again for Algeria, turning it to 3–2.",
+        "explainer": "Algeria move ahead for the first time in the verified scoreline."
+      },
+      {
+        "id": "goal-17",
+        "spokenLine": "Sasa KALAJDZIC answers for Austria, making it 3–3.",
+        "explainer": "Austria level the match once more."
+      },
+      {
+        "id": "fulltime-18",
+        "spokenLine": "Full time: Algeria and Austria finish 3–3.",
+        "explainer": "The six-goal contest ends level."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/17588326/01-kickoff-0.mp3",
+      "text": "At kick-off, Replay begins as Algeria meet Austria in Group J at Kansas City Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-4",
+      "audioPath": "/demo/replays/17588326/02-yellow_card-4.mp3",
+      "text": "In the 11th minute, Marko ARNAUTOVIC is shown a card for Austria.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/17588326/03-goal-5.mp3",
+      "text": "In the 28th minute, Marko ARNAUTOVIC strikes for Austria, and the score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-6",
+      "audioPath": "/demo/replays/17588326/04-goal-6.mp3",
+      "text": "In the 45th minute, Rafik BELGHALI answers for Algeria, bringing the score to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-7",
+      "audioPath": "/demo/replays/17588326/05-halftime-7.mp3",
+      "text": "At half-time, Algeria and Austria are level at 1–1.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-8",
+      "audioPath": "/demo/replays/17588326/06-goal-8.mp3",
+      "text": "In the 55th minute, Marcel SABITZER puts Austria back in front at 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-9",
+      "audioPath": "/demo/replays/17588326/07-goal-9.mp3",
+      "text": "In the 60th minute, Riyad MAHREZ responds for Algeria, and it is 2–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-14",
+      "audioPath": "/demo/replays/17588326/08-goal-14.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, Riyad MAHREZ scores again for Algeria, turning it to 3–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-17",
+      "audioPath": "/demo/replays/17588326/09-goal-17.mp3",
+      "text": "In the 6th minute of second-half stoppage time, Sasa KALAJDZIC answers for Austria, making it 3–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-18",
+      "audioPath": "/demo/replays/17588326/10-fulltime-18.mp3",
+      "text": "At full-time, Algeria and Austria finish 3–3.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

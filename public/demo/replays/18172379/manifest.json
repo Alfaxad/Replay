@@ -1,0 +1,100 @@
+{
+  "fixtureId": 18172379,
+  "matchNumber": 81,
+  "generatedAt": "2026-07-19T20:55:56.786Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "USA v Bosnia and Herzegovina: A Two-Goal Replay",
+    "openingLine": "Welcome to Replay, for USA against Bosnia and Herzegovina at San Francisco Bay Area Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "USA meet Bosnia and Herzegovina in the round of 32 at San Francisco Bay Area Stadium.",
+        "explainer": "The replay begins with the two sides meeting in the round of 32."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Folarin BALOGUN scores for USA. The verified score moves to 1–0.",
+        "explainer": "This is the first verified score change of the match."
+      },
+      {
+        "id": "halftime-2",
+        "spokenLine": "USA lead Bosnia and Herzegovina 1–0 at the interval.",
+        "explainer": "The half closes with USA holding the verified lead."
+      },
+      {
+        "id": "red_card-6",
+        "spokenLine": "Folarin BALOGUN is shown a red card for USA.",
+        "explainer": "A major disciplinary moment arrives for USA."
+      },
+      {
+        "id": "yellow_card-9",
+        "spokenLine": "Player null receives a yellow card for Bosnia and Herzegovina.",
+        "explainer": "Bosnia and Herzegovina are shown a yellow card."
+      },
+      {
+        "id": "goal-11",
+        "spokenLine": "Malik TILLMAN scores for USA. The verified score moves to 2–0.",
+        "explainer": "USA extend their verified lead to two goals."
+      },
+      {
+        "id": "fulltime-15",
+        "spokenLine": "USA 2–0 Bosnia and Herzegovina.",
+        "explainer": "The match ends with USA winning by two goals."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18172379/01-kickoff-0.mp3",
+      "text": "At kick-off, USA meet Bosnia and Herzegovina in the round of 32 at San Francisco Bay Area Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18172379/02-goal-1.mp3",
+      "text": "In the 45th minute, Folarin BALOGUN scores for USA. The verified score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-2",
+      "audioPath": "/demo/replays/18172379/03-halftime-2.mp3",
+      "text": "At half-time, USA lead Bosnia and Herzegovina 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "red_card-6",
+      "audioPath": "/demo/replays/18172379/04-red_card-6.mp3",
+      "text": "In the 64th minute, Folarin BALOGUN is shown a red card for USA.",
+      "kind": "red_card",
+      "intensity": 92
+    },
+    {
+      "id": "yellow_card-9",
+      "audioPath": "/demo/replays/18172379/05-yellow_card-9.mp3",
+      "text": "In the 80th minute, Player null receives a yellow card for Bosnia and Herzegovina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-11",
+      "audioPath": "/demo/replays/18172379/06-goal-11.mp3",
+      "text": "In the 82nd minute, Malik TILLMAN scores for USA. The verified score moves to 2–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-15",
+      "audioPath": "/demo/replays/18172379/07-fulltime-15.mp3",
+      "text": "At full-time, USA 2–0 Bosnia and Herzegovina.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "fixtureId": 18202701,
+  "matchNumber": 95,
+  "generatedAt": "2026-07-19T20:56:20.086Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Argentina and Egypt in Atlanta",
+    "openingLine": "Welcome to Argentina against Egypt, in the round of 16 at Atlanta Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-492",
+        "spokenLine": "Argentina meet Egypt in the round of 16 at Atlanta Stadium. The replay is under way.",
+        "explainer": "The match begins with Argentina and Egypt meeting in a knockout round at Atlanta Stadium."
+      },
+      {
+        "id": "pressure-639",
+        "spokenLine": "Argentina drive a sustained spell, with dangerous actions building across this passage.",
+        "explainer": "This pressure shows Argentina controlling the flow during the passage."
+      },
+      {
+        "id": "corner-653",
+        "spokenLine": "Argentina win a corner, and the corner count is now 2–1.",
+        "explainer": "The corner gives Argentina another set-piece opportunity and moves the count in their favor."
+      },
+      {
+        "id": "yellow_card-672",
+        "spokenLine": "Egypt receive a confirmed card as this contest continues to tighten.",
+        "explainer": "The card is a confirmed disciplinary moment for Egypt."
+      },
+      {
+        "id": "corner-712",
+        "spokenLine": "Argentina win another corner, taking the count to 3–1.",
+        "explainer": "Argentina continue to collect corners, extending their advantage in that count."
+      },
+      {
+        "id": "corner-719",
+        "spokenLine": "Another Argentina corner follows, and the count is 4–1.",
+        "explainer": "The repeated corners underline Argentina’s sustained attacking pressure."
+      },
+      {
+        "id": "goal-728",
+        "spokenLine": "MOSTAFA ZICO scores for Egypt, and the verified score moves to 0–2.",
+        "explainer": "Egypt extend their lead to two goals, despite Argentina’s pressure and corners."
+      },
+      {
+        "id": "pressure-750",
+        "spokenLine": "Argentina keep driving forward, with dangerous actions continuing through the spell.",
+        "explainer": "Argentina maintain territorial and attacking pressure while trailing 0–2."
+      },
+      {
+        "id": "corner-818",
+        "spokenLine": "Argentina win a corner, and the count reaches 5–1.",
+        "explainer": "The corner count continues to reflect Argentina’s pressure before their response."
+      },
+      {
+        "id": "goal-830",
+        "spokenLine": "Cristian ROMERO scores for Argentina, and the verified score moves to 1–2.",
+        "explainer": "Argentina reduce the deficit and move back within one goal."
+      },
+      {
+        "id": "pressure-838",
+        "spokenLine": "Argentina’s pressure surges again, bringing 4 shots and 19 dangerous actions in the passage.",
+        "explainer": "This is Argentina’s strongest listed pressure spell, arriving after they have pulled back to 1–2."
+      },
+      {
+        "id": "corner-852",
+        "spokenLine": "Argentina win another corner, taking the count to 6–1.",
+        "explainer": "The corner count reaches 6–1 as Argentina continue their push."
+      },
+      {
+        "id": "goal-876",
+        "spokenLine": "Lionel MESSI scores for Argentina, bringing the verified score to 2–2.",
+        "explainer": "Argentina draw level, completing the comeback from 0–2 to 2–2."
+      },
+      {
+        "id": "yellow_card-965",
+        "spokenLine": "MOSTAFA SHOUBIR is shown a card for Egypt.",
+        "explainer": "The confirmed card adds to Egypt’s late disciplinary moments."
+      },
+      {
+        "id": "goal-966",
+        "spokenLine": "Enzo FERNANDEZ scores for Argentina, and the verified score moves to 3–2.",
+        "explainer": "Argentina take the lead late, turning 2–2 into 3–2."
+      },
+      {
+        "id": "yellow_card-972",
+        "spokenLine": "HAISSEM HASSAN is shown a card for Egypt as the late tension continues.",
+        "explainer": "The confirmed card comes during the closing stages of a match now led by Argentina."
+      },
+      {
+        "id": "yellow_card-1010",
+        "spokenLine": "MARAWAN ATTIA is shown a card for Egypt in the closing stages.",
+        "explainer": "Another confirmed card arrives late, with Argentina still ahead."
+      },
+      {
+        "id": "fulltime-1045",
+        "spokenLine": "Full time: Argentina 3–2 Egypt.",
+        "explainer": "Argentina finish the match with a 3–2 victory over Egypt."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-492",
+      "audioPath": "/demo/replays/18202701/01-kickoff-492.mp3",
+      "text": "At kick-off, Argentina meet Egypt in the round of 16 at Atlanta Stadium. The replay is under way.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "pressure-639",
+      "audioPath": "/demo/replays/18202701/02-pressure-639.mp3",
+      "text": "Between the 50th and 60th minutes, Argentina drive a sustained spell, with dangerous actions building across this passage.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "corner-653",
+      "audioPath": "/demo/replays/18202701/03-corner-653.mp3",
+      "text": "In the 60th minute, Argentina win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-672",
+      "audioPath": "/demo/replays/18202701/04-yellow_card-672.mp3",
+      "text": "In the 62nd minute, Egypt receive a confirmed card as this contest continues to tighten.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-712",
+      "audioPath": "/demo/replays/18202701/05-corner-712.mp3",
+      "text": "In the 65th minute, Argentina win a confirmed corner. The corner count is 3–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-719",
+      "audioPath": "/demo/replays/18202701/06-corner-719.mp3",
+      "text": "In the 66th minute, Argentina win a confirmed corner. The corner count is 4–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-728",
+      "audioPath": "/demo/replays/18202701/07-goal-728.mp3",
+      "text": "In the 67th minute, MOSTAFA ZICO scores for Egypt, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "pressure-750",
+      "audioPath": "/demo/replays/18202701/08-pressure-750.mp3",
+      "text": "Between the 60th and 70th minutes, Argentina keep driving forward, with dangerous actions continuing through the spell.",
+      "kind": "pressure",
+      "intensity": 62
+    },
+    {
+      "id": "corner-818",
+      "audioPath": "/demo/replays/18202701/09-corner-818.mp3",
+      "text": "In the 77th minute, Argentina win a confirmed corner. The corner count is 5–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-830",
+      "audioPath": "/demo/replays/18202701/10-goal-830.mp3",
+      "text": "In the 79th minute, Cristian ROMERO scores for Argentina, and the verified score moves to 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "pressure-838",
+      "audioPath": "/demo/replays/18202701/11-pressure-838.mp3",
+      "text": "Between the 70th and 80th minutes, Argentina’s pressure surges again, bringing 4 shots and 19 dangerous actions in the passage.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-852",
+      "audioPath": "/demo/replays/18202701/12-corner-852.mp3",
+      "text": "In the 81st minute, Argentina win a confirmed corner. The corner count is 6–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-876",
+      "audioPath": "/demo/replays/18202701/13-goal-876.mp3",
+      "text": "In the 83rd minute, Lionel MESSI scores for Argentina, bringing the verified score to 2–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-965",
+      "audioPath": "/demo/replays/18202701/14-yellow_card-965.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, MOSTAFA SHOUBIR is shown a card for Egypt.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-966",
+      "audioPath": "/demo/replays/18202701/15-goal-966.mp3",
+      "text": "In the 2nd minute of second-half stoppage time, Enzo FERNANDEZ scores for Argentina, and the verified score moves to 3–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-972",
+      "audioPath": "/demo/replays/18202701/16-yellow_card-972.mp3",
+      "text": "In the 90th minute, HAISSEM HASSAN is shown a card for Egypt as the late tension continues.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-1010",
+      "audioPath": "/demo/replays/18202701/17-yellow_card-1010.mp3",
+      "text": "In the 8th minute of second-half stoppage time, MARAWAN ATTIA is shown a card for Egypt in the closing stages.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-1045",
+      "audioPath": "/demo/replays/18202701/18-fulltime-1045.mp3",
+      "text": "At full-time, Argentina 3–2 Egypt.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "fixtureId": 18172489,
+  "matchNumber": 76,
+  "generatedAt": "2026-07-19T20:55:49.092Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Brazil and Japan: The Late Turnaround",
+    "openingLine": "Brazil meet Japan in the round of 32 at Houston Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Brazil meet Japan in the round of 32 at Houston Stadium.",
+        "explainer": "The replay begins with Brazil and Japan meeting in the round of 32."
+      },
+      {
+        "id": "yellow_card-2",
+        "spokenLine": "Kaishu SANO is shown a card for Japan.",
+        "explainer": "Japan receive the first recorded card of the match."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "CASEMIRO is shown a card for Brazil.",
+        "explainer": "Brazil are now also on the disciplinary record."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Kaishu SANO scores for Japan, moving the verified score to 0–1.",
+        "explainer": "Japan take the lead, changing the match from level to Brazil trailing."
+      },
+      {
+        "id": "yellow_card-5",
+        "spokenLine": "Daichi KAMADA is shown a card for Japan.",
+        "explainer": "Japan add another card before the interval."
+      },
+      {
+        "id": "halftime-6",
+        "spokenLine": "Brazil 0–1 Japan at the interval.",
+        "explainer": "Japan carry their lead into half-time."
+      },
+      {
+        "id": "yellow_card-7",
+        "spokenLine": "DANILO is shown a card for Brazil.",
+        "explainer": "Brazil receive another card early in the second half."
+      },
+      {
+        "id": "goal-8",
+        "spokenLine": "CASEMIRO scores for Brazil, moving the verified score to 1–1.",
+        "explainer": "Brazil draw level, bringing the match back to an even score."
+      },
+      {
+        "id": "yellow_card-14",
+        "spokenLine": "Junnosuke SUZUKI is shown a card for Japan.",
+        "explainer": "Japan receive another card as the match moves toward its decisive stage."
+      },
+      {
+        "id": "goal-16",
+        "spokenLine": "GABRIEL MARTINELLI scores for Brazil, moving the verified score to 2–1.",
+        "explainer": "Brazil go in front late, turning a 0–1 deficit into a 2–1 lead."
+      },
+      {
+        "id": "fulltime-19",
+        "spokenLine": "Brazil 2–1 Japan.",
+        "explainer": "Brazil complete the comeback and finish ahead of Japan."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18172489/01-kickoff-0.mp3",
+      "text": "At kick-off, Brazil meet Japan in the round of 32 at Houston Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-2",
+      "audioPath": "/demo/replays/18172489/02-yellow_card-2.mp3",
+      "text": "In the 12th minute, Kaishu SANO is shown a card for Japan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/18172489/03-yellow_card-3.mp3",
+      "text": "In the 14th minute, CASEMIRO is shown a card for Brazil.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18172489/04-goal-4.mp3",
+      "text": "In the 29th minute, Kaishu SANO scores for Japan, moving the verified score to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-5",
+      "audioPath": "/demo/replays/18172489/05-yellow_card-5.mp3",
+      "text": "In the 45th minute, Daichi KAMADA is shown a card for Japan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-6",
+      "audioPath": "/demo/replays/18172489/06-halftime-6.mp3",
+      "text": "At half-time, Brazil 0–1 Japan.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-7",
+      "audioPath": "/demo/replays/18172489/07-yellow_card-7.mp3",
+      "text": "In the 48th minute, DANILO is shown a card for Brazil.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-8",
+      "audioPath": "/demo/replays/18172489/08-goal-8.mp3",
+      "text": "In the 56th minute, CASEMIRO scores for Brazil, moving the verified score to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-14",
+      "audioPath": "/demo/replays/18172489/09-yellow_card-14.mp3",
+      "text": "In the 84th minute, Junnosuke SUZUKI is shown a card for Japan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-16",
+      "audioPath": "/demo/replays/18172489/10-goal-16.mp3",
+      "text": "In the 5th minute of second-half stoppage time, GABRIEL MARTINELLI scores for Brazil, moving the verified score to 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-19",
+      "audioPath": "/demo/replays/18172489/11-fulltime-19.mp3",
+      "text": "At full-time, Brazil 2–1 Japan.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

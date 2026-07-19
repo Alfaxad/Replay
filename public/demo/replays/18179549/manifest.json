@@ -1,0 +1,124 @@
+{
+  "fixtureId": 18179549,
+  "matchNumber": 87,
+  "generatedAt": "2026-07-19T20:56:04.166Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Colombia Hold Their Ground",
+    "openingLine": "Replay begins in Kansas City, where Colombia meet Ghana in the round of 32.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Colombia meet Ghana in the round of 32 at Kansas City Stadium.",
+        "explainer": "The journey begins with both sides level and the knockout tie ahead."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "Jhon ARIAS is shown a card for Colombia.",
+        "explainer": "An early disciplinary mark enters the record for Colombia."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Jhon ARIAS scores for Colombia, moving the verified score to 1–0.",
+        "explainer": "The match has its first decisive swing, with Colombia taking the lead."
+      },
+      {
+        "id": "halftime-6",
+        "spokenLine": "Colombia lead Ghana 1–0 at the interval.",
+        "explainer": "The half closes with Colombia in front and Ghana still within one goal."
+      },
+      {
+        "id": "yellow_card-7",
+        "spokenLine": "Caleb YIRENKYI is shown a card for Ghana.",
+        "explainer": "Ghana's disciplinary record grows as the second half begins."
+      },
+      {
+        "id": "yellow_card-10",
+        "spokenLine": "Abdul FATAWU is shown a card for Ghana.",
+        "explainer": "Another card is recorded for Ghana while Colombia's 1–0 lead stands."
+      },
+      {
+        "id": "yellow_card-12",
+        "spokenLine": "Alidu SEIDU is shown a card for Ghana.",
+        "explainer": "Ghana's disciplinary tally continues to rise with the score still 1–0."
+      },
+      {
+        "id": "yellow_card-13",
+        "spokenLine": "Richard RIOS is shown a card for Colombia.",
+        "explainer": "Colombia now have a disciplinary moment of their own in the closing phase."
+      },
+      {
+        "id": "fulltime-17",
+        "spokenLine": "Colombia finish ahead of Ghana, 1–0.",
+        "explainer": "The single goal from Jhon ARIAS separates the teams at full time."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179549/01-kickoff-0.mp3",
+      "text": "At kick-off, Colombia meet Ghana in the round of 32 at Kansas City Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/18179549/02-yellow_card-3.mp3",
+      "text": "In the 12th minute, Jhon ARIAS is shown a card for Colombia.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/18179549/03-goal-5.mp3",
+      "text": "In the 14th minute, Jhon ARIAS scores for Colombia, moving the verified score to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-6",
+      "audioPath": "/demo/replays/18179549/04-halftime-6.mp3",
+      "text": "At half-time, Colombia lead Ghana 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-7",
+      "audioPath": "/demo/replays/18179549/05-yellow_card-7.mp3",
+      "text": "In the 49th minute, Caleb YIRENKYI is shown a card for Ghana.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-10",
+      "audioPath": "/demo/replays/18179549/06-yellow_card-10.mp3",
+      "text": "In the 66th minute, Abdul FATAWU is shown a card for Ghana.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-12",
+      "audioPath": "/demo/replays/18179549/07-yellow_card-12.mp3",
+      "text": "In the 76th minute, Alidu SEIDU is shown a card for Ghana.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-13",
+      "audioPath": "/demo/replays/18179549/08-yellow_card-13.mp3",
+      "text": "In the 78th minute, Richard RIOS is shown a card for Colombia.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-17",
+      "audioPath": "/demo/replays/18179549/09-fulltime-17.mp3",
+      "text": "At full-time, Colombia finish ahead of Ghana, 1–0.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

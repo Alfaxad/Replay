@@ -1,0 +1,244 @@
+{
+  "fixtureId": 18209181,
+  "matchNumber": 97,
+  "generatedAt": "2026-07-19T20:56:23.877Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "France 2–0 Morocco: The Decisive Surge",
+    "openingLine": "Welcome to the quarter-final replay: France against Morocco at Boston Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-22",
+        "spokenLine": "France meet Morocco in the quarter-final at Boston Stadium.",
+        "explainer": "The replay begins with the two quarter-finalists together in Boston."
+      },
+      {
+        "id": "corner-61",
+        "spokenLine": "France win a confirmed corner, taking the count to 1–0.",
+        "explainer": "France make the early set-piece pressure count on the corner tally."
+      },
+      {
+        "id": "pressure-246",
+        "spokenLine": "France drive a sustained spell with 2 shots and 28 dangerous actions.",
+        "explainer": "The ten-minute passage shows France building a notable attacking spell."
+      },
+      {
+        "id": "corner-248",
+        "spokenLine": "France win another confirmed corner, and the count is 2–0.",
+        "explainer": "France extend their corner advantage."
+      },
+      {
+        "id": "corner-293",
+        "spokenLine": "Morocco answer with a confirmed corner; the count is 2–1.",
+        "explainer": "Morocco register their first corner, narrowing the set-piece gap."
+      },
+      {
+        "id": "corner-383",
+        "spokenLine": "France win a confirmed corner, moving the count to 3–1.",
+        "explainer": "France restore their two-corner advantage."
+      },
+      {
+        "id": "halftime-551",
+        "spokenLine": "France 0–0 Morocco at the interval.",
+        "explainer": "The first half ends level despite France's pressure and corner advantage."
+      },
+      {
+        "id": "corner-641",
+        "spokenLine": "Morocco win a confirmed corner, and the count is 3–2.",
+        "explainer": "Morocco close the corner gap again after the interval."
+      },
+      {
+        "id": "pressure-737",
+        "spokenLine": "France drive another spell with 2 shots and 25 dangerous actions.",
+        "explainer": "France build a second sustained attacking passage before the breakthrough."
+      },
+      {
+        "id": "goal-739",
+        "spokenLine": "Kylian MBAPPE scores for France, and the verified score moves to 1–0.",
+        "explainer": "France turn their pressure into the opening goal."
+      },
+      {
+        "id": "yellow_card-763",
+        "spokenLine": "Issa DIOP is shown a card for Morocco.",
+        "explainer": "Morocco receive a disciplinary setback soon after France take the lead."
+      },
+      {
+        "id": "goal-794",
+        "spokenLine": "Ousmane DEMBELE scores for France, and the verified score moves to 2–0.",
+        "explainer": "France double their lead, creating a decisive two-goal margin."
+      },
+      {
+        "id": "corner-832",
+        "spokenLine": "Morocco win a confirmed corner, bringing the count to 3–3.",
+        "explainer": "Morocco draw level on corners while France still lead on the scoreboard."
+      },
+      {
+        "id": "corner-898",
+        "spokenLine": "France win a confirmed corner, making the count 4–3.",
+        "explainer": "France edge back in front on the corner tally."
+      },
+      {
+        "id": "corner-938",
+        "spokenLine": "Morocco win a confirmed corner, and the count is 4–4.",
+        "explainer": "Morocco level the corner count again."
+      },
+      {
+        "id": "corner-988",
+        "spokenLine": "France win a confirmed corner, moving the count to 5–4.",
+        "explainer": "France regain the narrow corner advantage."
+      },
+      {
+        "id": "pressure-1012",
+        "spokenLine": "Morocco drive a sustained spell with 5 shots and 20 dangerous actions.",
+        "explainer": "Morocco produce a strong late passage despite France's 2–0 lead."
+      },
+      {
+        "id": "corner-1035",
+        "spokenLine": "Morocco win a confirmed corner, and the count is 5–5.",
+        "explainer": "The corner count is level as Morocco continue their late spell."
+      },
+      {
+        "id": "fulltime-1114",
+        "spokenLine": "France 2–0 Morocco.",
+        "explainer": "France complete the quarter-final with a two-goal victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-22",
+      "audioPath": "/demo/replays/18209181/01-kickoff-22.mp3",
+      "text": "At kick-off, France meet Morocco in the quarter-final at Boston Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-61",
+      "audioPath": "/demo/replays/18209181/02-corner-61.mp3",
+      "text": "In the 3rd minute, France win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-246",
+      "audioPath": "/demo/replays/18209181/03-pressure-246.mp3",
+      "text": "Between the 10th and 20th minutes, France drive a sustained spell with 2 shots and 28 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 68
+    },
+    {
+      "id": "corner-248",
+      "audioPath": "/demo/replays/18209181/04-corner-248.mp3",
+      "text": "In the 19th minute, France win a confirmed corner. The corner count is 2–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-293",
+      "audioPath": "/demo/replays/18209181/05-corner-293.mp3",
+      "text": "In the 23rd minute, Morocco win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-383",
+      "audioPath": "/demo/replays/18209181/06-corner-383.mp3",
+      "text": "In the 34th minute, France win a confirmed corner. The corner count is 3–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-551",
+      "audioPath": "/demo/replays/18209181/07-halftime-551.mp3",
+      "text": "At half-time, France 0–0 Morocco.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-641",
+      "audioPath": "/demo/replays/18209181/08-corner-641.mp3",
+      "text": "In the 51st minute, Morocco win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-737",
+      "audioPath": "/demo/replays/18209181/09-pressure-737.mp3",
+      "text": "Between the 50th and 60th minutes, France drive another spell with 2 shots and 25 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 68
+    },
+    {
+      "id": "goal-739",
+      "audioPath": "/demo/replays/18209181/10-goal-739.mp3",
+      "text": "In the 60th minute, Kylian MBAPPE scores for France, and the verified score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-763",
+      "audioPath": "/demo/replays/18209181/11-yellow_card-763.mp3",
+      "text": "In the 63rd minute, Issa DIOP is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-794",
+      "audioPath": "/demo/replays/18209181/12-goal-794.mp3",
+      "text": "In the 66th minute, Ousmane DEMBELE scores for France, and the verified score moves to 2–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-832",
+      "audioPath": "/demo/replays/18209181/13-corner-832.mp3",
+      "text": "In the 72nd minute, Morocco win a confirmed corner. The corner count is 3–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-898",
+      "audioPath": "/demo/replays/18209181/14-corner-898.mp3",
+      "text": "In the 79th minute, France win a confirmed corner. The corner count is 4–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-938",
+      "audioPath": "/demo/replays/18209181/15-corner-938.mp3",
+      "text": "In the 83rd minute, Morocco win a confirmed corner. The corner count is 4–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-988",
+      "audioPath": "/demo/replays/18209181/16-corner-988.mp3",
+      "text": "In the 87th minute, France win a confirmed corner. The corner count is 5–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-1012",
+      "audioPath": "/demo/replays/18209181/17-pressure-1012.mp3",
+      "text": "Between the 80th and 90th minutes, Morocco drive a sustained spell with 5 shots and 20 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 77
+    },
+    {
+      "id": "corner-1035",
+      "audioPath": "/demo/replays/18209181/18-corner-1035.mp3",
+      "text": "In the 91st minute, Morocco win a confirmed corner. The corner count is 5–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "fulltime-1114",
+      "audioPath": "/demo/replays/18209181/19-fulltime-1114.mp3",
+      "text": "At full-time, France 2–0 Morocco.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

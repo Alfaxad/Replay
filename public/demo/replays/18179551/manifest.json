@@ -1,0 +1,100 @@
+{
+  "fixtureId": 18179551,
+  "matchNumber": 84,
+  "generatedAt": "2026-07-19T20:56:02.564Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Spain’s Three-Step Passage",
+    "openingLine": "A round-of-32 meeting at Los Angeles Stadium: Spain against Austria, with the replay ready to unfold.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Spain meet Austria in the round of 32 at Los Angeles Stadium.",
+        "explainer": "The replay opens with the confirmed fixture and setting."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "Mikel OYARZABAL scores for Spain, and the verified score moves to 1–0.",
+        "explainer": "Spain take the lead, creating the first decisive swing of the match."
+      },
+      {
+        "id": "halftime-4",
+        "spokenLine": "Spain lead Austria 1–0 at the interval.",
+        "explainer": "The half-time score confirms Spain’s advantage after the opening goal."
+      },
+      {
+        "id": "goal-7",
+        "spokenLine": "Pedro PORRO scores for Spain, and the verified score moves to 2–0.",
+        "explainer": "Spain double their lead, strengthening their position in the match."
+      },
+      {
+        "id": "yellow_card-10",
+        "spokenLine": "Stefan POSCH is shown a card for Austria.",
+        "explainer": "Austria receive a disciplinary moment as Spain continue to lead 2–0."
+      },
+      {
+        "id": "goal-13",
+        "spokenLine": "Mikel OYARZABAL scores again for Spain, and the verified score moves to 3–0.",
+        "explainer": "Oyarzabal’s second goal takes Spain three clear and settles the final scoreline."
+      },
+      {
+        "id": "fulltime-16",
+        "spokenLine": "Spain complete a 3–0 victory over Austria.",
+        "explainer": "The final whistle confirms Spain’s three-goal win in the round of 32."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179551/01-kickoff-0.mp3",
+      "text": "At kick-off, Spain meet Austria in the round of 32 at Los Angeles Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18179551/02-goal-3.mp3",
+      "text": "In the 36th minute, Mikel OYARZABAL scores for Spain, and the verified score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-4",
+      "audioPath": "/demo/replays/18179551/03-halftime-4.mp3",
+      "text": "At half-time, Spain lead Austria 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-7",
+      "audioPath": "/demo/replays/18179551/04-goal-7.mp3",
+      "text": "In the 66th minute, Pedro PORRO scores for Spain, and the verified score moves to 2–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-10",
+      "audioPath": "/demo/replays/18179551/05-yellow_card-10.mp3",
+      "text": "In the 83rd minute, Stefan POSCH is shown a card for Austria.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-13",
+      "audioPath": "/demo/replays/18179551/06-goal-13.mp3",
+      "text": "In the 89th minute, Mikel OYARZABAL scores again for Spain, and the verified score moves to 3–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-16",
+      "audioPath": "/demo/replays/18179551/07-fulltime-16.mp3",
+      "text": "At full-time, Spain complete a 3–0 victory over Austria.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

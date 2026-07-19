@@ -1,0 +1,39 @@
+{
+  "name": "replay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/with-workspace-env.mjs dev",
+    "build": "node scripts/with-workspace-env.mjs build",
+    "build:vercel-demo": "node scripts/build-vercel-demo.mjs",
+    "start": "node scripts/with-workspace-env.mjs start",
+    "lint": "tsc --noEmit",
+    "test": "node --import tsx --test tests/**/*.test.ts",
+    "data:archive": "node scripts/data/archive-knockout.mjs",
+    "demo:audio": "node --conditions=react-server --import tsx scripts/data/generate-demo-audio.ts",
+    "demo:audio:plan": "node --conditions=react-server --import tsx scripts/data/generate-demo-audio.ts --dry-run",
+    "txline:provision": "node scripts/txline/provision-devnet.mjs",
+    "txline:verify": "node scripts/txline/verify-devnet.mjs"
+  },
+  "dependencies": {
+    "@openai/agents": "0.13.5",
+    "@coral-xyz/anchor": "0.32.1",
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.91.9",
+    "lucide-react": "1.25.0",
+    "next": "16.2.10",
+    "openai": "6.48.0",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "tweetnacl": "^1.0.3",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "fixtureId": 18241006,
+  "matchNumber": 102,
+  "generatedAt": "2026-07-19T20:56:31.997Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "From England’s Lead to Argentina’s Turnaround",
+    "openingLine": "England meet Argentina in the semi-final at Atlanta Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-17",
+        "spokenLine": "England meet Argentina in the semi-final at Atlanta Stadium.",
+        "explainer": "The semi-final begins with both sides level and the whole contest ahead."
+      },
+      {
+        "id": "corner-77",
+        "spokenLine": "England win a confirmed corner. The count is 1–0.",
+        "explainer": "England make the first set-piece mark of the match."
+      },
+      {
+        "id": "corner-221",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–1.",
+        "explainer": "Argentina answer, bringing the corner count level."
+      },
+      {
+        "id": "yellow_card-304",
+        "spokenLine": "Elliot ANDERSON is shown a card for England.",
+        "explainer": "England’s first confirmed booking adds an early disciplinary note."
+      },
+      {
+        "id": "yellow_card-343",
+        "spokenLine": "Lisandro MARTINEZ is shown a card for Argentina.",
+        "explainer": "Argentina now have a confirmed booking as well."
+      },
+      {
+        "id": "halftime-425",
+        "spokenLine": "England 0–0 Argentina at the interval.",
+        "explainer": "Neither side has broken through before half-time."
+      },
+      {
+        "id": "corner-463",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–2.",
+        "explainer": "Argentina move ahead in the corner count after the interval."
+      },
+      {
+        "id": "yellow_card-502",
+        "spokenLine": "Cristian ROMERO is shown a card for Argentina.",
+        "explainer": "Argentina receive another confirmed booking."
+      },
+      {
+        "id": "goal-540",
+        "spokenLine": "Anthony GORDON scores for England. The score moves to 1–0.",
+        "explainer": "England break the deadlock and take the lead in the semi-final."
+      },
+      {
+        "id": "corner-560",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–3.",
+        "explainer": "Argentina respond with another corner after falling behind."
+      },
+      {
+        "id": "corner-663",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–4.",
+        "explainer": "The corner count continues to tilt toward Argentina."
+      },
+      {
+        "id": "corner-671",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–5.",
+        "explainer": "Another corner underlines Argentina’s growing set-piece pressure."
+      },
+      {
+        "id": "pressure-677",
+        "spokenLine": "Argentina drive a sustained spell: 4 shots and 22 dangerous actions.",
+        "explainer": "This is a concentrated attacking passage from Argentina."
+      },
+      {
+        "id": "pressure-781",
+        "spokenLine": "Argentina drive another spell: 4 shots and 21 dangerous actions.",
+        "explainer": "Argentina maintain the pressure across a second ten-minute passage."
+      },
+      {
+        "id": "corner-824",
+        "spokenLine": "Argentina win a confirmed corner. The count is 1–6.",
+        "explainer": "Argentina’s pressure produces another corner before the equaliser."
+      },
+      {
+        "id": "goal-831",
+        "spokenLine": "Enzo FERNANDEZ scores for Argentina. The score moves to 1–1.",
+        "explainer": "Argentina turn their sustained pressure into an equaliser."
+      },
+      {
+        "id": "goal-871",
+        "spokenLine": "Lautaro MARTINEZ scores for Argentina. The score moves to 1–2.",
+        "explainer": "Argentina complete the turnaround and move in front."
+      },
+      {
+        "id": "yellow_card-874",
+        "spokenLine": "Rodrigo DE PAUL is shown a card for Argentina.",
+        "explainer": "Argentina’s late lead comes with another confirmed booking."
+      },
+      {
+        "id": "pressure-941",
+        "spokenLine": "England drive a sustained spell: 1 shot and 22 dangerous actions.",
+        "explainer": "England produce a late attacking surge while trailing."
+      },
+      {
+        "id": "fulltime-962",
+        "spokenLine": "England 1–2 Argentina.",
+        "explainer": "Argentina finish ahead and win the semi-final."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-17",
+      "audioPath": "/demo/replays/18241006/01-kickoff-17.mp3",
+      "text": "At kick-off, England meet Argentina in the semi-final at Atlanta Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-77",
+      "audioPath": "/demo/replays/18241006/02-corner-77.mp3",
+      "text": "In the 6th minute, England win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-221",
+      "audioPath": "/demo/replays/18241006/03-corner-221.mp3",
+      "text": "In the 23rd minute, Argentina win a confirmed corner. The corner count is 1–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-304",
+      "audioPath": "/demo/replays/18241006/04-yellow_card-304.mp3",
+      "text": "In the 37th minute, Elliot ANDERSON is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-343",
+      "audioPath": "/demo/replays/18241006/05-yellow_card-343.mp3",
+      "text": "In the 42nd minute, Lisandro MARTINEZ is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-425",
+      "audioPath": "/demo/replays/18241006/06-halftime-425.mp3",
+      "text": "At half-time, England 0–0 Argentina.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-463",
+      "audioPath": "/demo/replays/18241006/07-corner-463.mp3",
+      "text": "In the 47th minute, Argentina win a confirmed corner. The corner count is 1–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-502",
+      "audioPath": "/demo/replays/18241006/08-yellow_card-502.mp3",
+      "text": "In the 51st minute, Cristian ROMERO is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-540",
+      "audioPath": "/demo/replays/18241006/09-goal-540.mp3",
+      "text": "In the 55th minute, Anthony GORDON scores for England. The score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-560",
+      "audioPath": "/demo/replays/18241006/10-corner-560.mp3",
+      "text": "In the 56th minute, Argentina win a confirmed corner. The corner count is 1–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-663",
+      "audioPath": "/demo/replays/18241006/11-corner-663.mp3",
+      "text": "In the 66th minute, Argentina win a confirmed corner. The corner count is 1–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-671",
+      "audioPath": "/demo/replays/18241006/12-corner-671.mp3",
+      "text": "In the 67th minute, Argentina win a confirmed corner. The corner count is 1–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-677",
+      "audioPath": "/demo/replays/18241006/13-pressure-677.mp3",
+      "text": "Between the 60th and 70th minutes, Argentina drive a sustained spell: 4 shots and 22 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "pressure-781",
+      "audioPath": "/demo/replays/18241006/14-pressure-781.mp3",
+      "text": "Between the 70th and 80th minutes, Argentina drive another spell: 4 shots and 21 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-824",
+      "audioPath": "/demo/replays/18241006/15-corner-824.mp3",
+      "text": "In the 84th minute, Argentina win a confirmed corner. The corner count is 1–6.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-831",
+      "audioPath": "/demo/replays/18241006/16-goal-831.mp3",
+      "text": "In the 85th minute, Enzo FERNANDEZ scores for Argentina. The score moves to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-871",
+      "audioPath": "/demo/replays/18241006/17-goal-871.mp3",
+      "text": "In the 2nd minute of second-half stoppage time, Lautaro MARTINEZ scores for Argentina. The score moves to 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-874",
+      "audioPath": "/demo/replays/18241006/18-yellow_card-874.mp3",
+      "text": "In the 4th minute of second-half stoppage time, Rodrigo DE PAUL is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "pressure-941",
+      "audioPath": "/demo/replays/18241006/19-pressure-941.mp3",
+      "text": "Between the 90th and 100th minutes, England drive a sustained spell: 1 shot and 22 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 65
+    },
+    {
+      "id": "fulltime-962",
+      "audioPath": "/demo/replays/18241006/20-fulltime-962.mp3",
+      "text": "At full-time, England 1–2 Argentina.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "fixtureId": 18218149,
+  "matchNumber": 98,
+  "generatedAt": "2026-07-19T20:56:25.530Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Spain's Late Quarter-final Turn",
+    "openingLine": "Spain meet Belgium in a quarter-final at Los Angeles Stadium, and the replay is ready to begin.",
+    "moments": [
+      {
+        "id": "kickoff-25",
+        "spokenLine": "The quarter-final is under way, with Spain meeting Belgium at Los Angeles Stadium.",
+        "explainer": "This begins the completed quarter-final journey between Spain and Belgium."
+      },
+      {
+        "id": "goal-325",
+        "spokenLine": "Fabian RUIZ puts Spain ahead, and the verified score moves to 1–0.",
+        "explainer": "Spain take the first confirmed lead of the match."
+      },
+      {
+        "id": "corner-361",
+        "spokenLine": "Spain win a corner, and the corner count is 1–0.",
+        "explainer": "The count records Spain's first confirmed corner."
+      },
+      {
+        "id": "goal-422",
+        "spokenLine": "Charles DE KETELAERE answers for Belgium, making the verified score 1–1.",
+        "explainer": "Belgium level the match before half-time."
+      },
+      {
+        "id": "yellow_card-439",
+        "spokenLine": "Pau CUBARSI is shown a card for Spain.",
+        "explainer": "Spain receive a confirmed disciplinary moment while the score is level."
+      },
+      {
+        "id": "corner-478",
+        "spokenLine": "Spain win another corner, and the corner count is 2–0.",
+        "explainer": "Spain extend their confirmed corner advantage."
+      },
+      {
+        "id": "corner-481",
+        "spokenLine": "Spain win a further corner, taking the corner count to 3–0.",
+        "explainer": "The corner count now shows three for Spain and none for Belgium."
+      },
+      {
+        "id": "halftime-522",
+        "spokenLine": "At the interval, Spain and Belgium are level at 1–1.",
+        "explainer": "The first half closes with neither side ahead."
+      },
+      {
+        "id": "corner-579",
+        "spokenLine": "Belgium win a corner, and the corner count is 3–1.",
+        "explainer": "Belgium register their first confirmed corner of the match."
+      },
+      {
+        "id": "corner-605",
+        "spokenLine": "Spain win a corner, and the corner count is 4–1.",
+        "explainer": "Spain restore their three-corner advantage."
+      },
+      {
+        "id": "pressure-690",
+        "spokenLine": "Spain drive a sustained spell: 3 shots and 26 dangerous actions across this passage.",
+        "explainer": "The verified flow shows Spain building pressure while the score remains 1–1."
+      },
+      {
+        "id": "corner-727",
+        "spokenLine": "Spain win another corner, and the corner count is 5–1.",
+        "explainer": "Spain add to their confirmed corner lead."
+      },
+      {
+        "id": "pressure-778",
+        "spokenLine": "Spain drive another spell: 3 shots and 19 dangerous actions across this passage.",
+        "explainer": "A second sustained spell keeps Spain's pressure visible in the flow."
+      },
+      {
+        "id": "pressure-886",
+        "spokenLine": "Spain drive on with 2 shots and 23 dangerous actions across this passage.",
+        "explainer": "Spain continue to produce pressure before the decisive late goal."
+      },
+      {
+        "id": "yellow_card-937",
+        "spokenLine": "Kevin DE BRUYNE is shown a card for Belgium.",
+        "explainer": "Belgium receive a confirmed disciplinary moment late in the match."
+      },
+      {
+        "id": "goal-967",
+        "spokenLine": "Mikel MERINO restores Spain's lead, and the verified score moves to 2–1.",
+        "explainer": "Spain turn their sustained pressure into the decisive lead."
+      },
+      {
+        "id": "yellow_card-1018",
+        "spokenLine": "Aymeric LAPORTE is shown a card for Spain.",
+        "explainer": "Spain receive a confirmed card after moving ahead."
+      },
+      {
+        "id": "yellow_card-1045",
+        "spokenLine": "Axel WITSEL is shown a card for Belgium.",
+        "explainer": "Belgium receive a confirmed card late in the 2–1 match."
+      },
+      {
+        "id": "fulltime-1087",
+        "spokenLine": "Full time: Spain 2–1 Belgium.",
+        "explainer": "Spain finish the quarter-final with the verified 2–1 victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-25",
+      "audioPath": "/demo/replays/18218149/01-kickoff-25.mp3",
+      "text": "At kick-off, The quarter-final is under way, with Spain meeting Belgium at Los Angeles Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-325",
+      "audioPath": "/demo/replays/18218149/02-goal-325.mp3",
+      "text": "In the 30th minute, Fabian RUIZ puts Spain ahead, and the verified score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-361",
+      "audioPath": "/demo/replays/18218149/03-corner-361.mp3",
+      "text": "In the 34th minute, Spain win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-422",
+      "audioPath": "/demo/replays/18218149/04-goal-422.mp3",
+      "text": "In the 41st minute, Charles DE KETELAERE answers for Belgium, making the verified score 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-439",
+      "audioPath": "/demo/replays/18218149/05-yellow_card-439.mp3",
+      "text": "In the 43rd minute, Pau CUBARSI is shown a card for Spain.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "corner-478",
+      "audioPath": "/demo/replays/18218149/06-corner-478.mp3",
+      "text": "In the 45th minute, Spain win a confirmed corner. The corner count is 2–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-481",
+      "audioPath": "/demo/replays/18218149/07-corner-481.mp3",
+      "text": "In the 46th minute, Spain win a confirmed corner. The corner count is 3–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-522",
+      "audioPath": "/demo/replays/18218149/08-halftime-522.mp3",
+      "text": "At half-time, Spain and Belgium are level at 1–1.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-579",
+      "audioPath": "/demo/replays/18218149/09-corner-579.mp3",
+      "text": "In the 49th minute, Belgium win a confirmed corner. The corner count is 3–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-605",
+      "audioPath": "/demo/replays/18218149/10-corner-605.mp3",
+      "text": "In the 51st minute, Spain win a confirmed corner. The corner count is 4–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-690",
+      "audioPath": "/demo/replays/18218149/11-pressure-690.mp3",
+      "text": "Between the 50th and 60th minutes, Spain drive a sustained spell: 3 shots and 26 dangerous actions across this passage.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "corner-727",
+      "audioPath": "/demo/replays/18218149/12-corner-727.mp3",
+      "text": "In the 61st minute, Spain win a confirmed corner. The corner count is 5–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-778",
+      "audioPath": "/demo/replays/18218149/13-pressure-778.mp3",
+      "text": "Between the 60th and 70th minutes, Spain drive another spell: 3 shots and 19 dangerous actions across this passage.",
+      "kind": "pressure",
+      "intensity": 71
+    },
+    {
+      "id": "pressure-886",
+      "audioPath": "/demo/replays/18218149/14-pressure-886.mp3",
+      "text": "Between the 70th and 80th minutes, Spain drive on with 2 shots and 23 dangerous actions across this passage.",
+      "kind": "pressure",
+      "intensity": 68
+    },
+    {
+      "id": "yellow_card-937",
+      "audioPath": "/demo/replays/18218149/15-yellow_card-937.mp3",
+      "text": "In the 85th minute, Kevin DE BRUYNE is shown a card for Belgium.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-967",
+      "audioPath": "/demo/replays/18218149/16-goal-967.mp3",
+      "text": "In the 88th minute, Mikel MERINO restores Spain's lead, and the verified score moves to 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-1018",
+      "audioPath": "/demo/replays/18218149/17-yellow_card-1018.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, Aymeric LAPORTE is shown a card for Spain.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-1045",
+      "audioPath": "/demo/replays/18218149/18-yellow_card-1045.mp3",
+      "text": "In the 5th minute of second-half stoppage time, Axel WITSEL is shown a card for Belgium.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-1087",
+      "audioPath": "/demo/replays/18218149/19-fulltime-1087.mp3",
+      "text": "At full-time, Spain 2–1 Belgium.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

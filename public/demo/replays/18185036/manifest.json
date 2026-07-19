@@ -1,0 +1,184 @@
+{
+  "fixtureId": 18185036,
+  "matchNumber": 90,
+  "generatedAt": "2026-07-19T20:56:09.686Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Canada v Morocco: The Atlas Lions Pull Away",
+    "openingLine": "A place in the quarter-finals is at stake as Canada meet Morocco in Houston.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Canada meet Morocco in the round of 16 at Houston Stadium.",
+        "explainer": "The knockout journey begins with both sides level and everything still to play for."
+      },
+      {
+        "id": "yellow_card-1",
+        "spokenLine": "Redouane HALHAL is shown a card for Morocco.",
+        "explainer": "The first booking adds an early edge to a still-goalless contest."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "Richie LARYEA is shown a card for Canada.",
+        "explainer": "Canada receive their first booking as the match remains level."
+      },
+      {
+        "id": "yellow_card-4",
+        "spokenLine": "Achraf HAKIMI is shown a card for Morocco.",
+        "explainer": "Morocco are also cautioned, keeping the contest finely balanced."
+      },
+      {
+        "id": "yellow_card-5",
+        "spokenLine": "Jonathan DAVID is shown a card for Canada.",
+        "explainer": "Canada collect another booking before the interval, with no score to separate them."
+      },
+      {
+        "id": "yellow_card-6",
+        "spokenLine": "Azzedine OUNAHI is shown a card for Morocco.",
+        "explainer": "Morocco’s caution count rises as the tense first half draws on."
+      },
+      {
+        "id": "halftime-7",
+        "spokenLine": "Canada 0–0 Morocco at the interval.",
+        "explainer": "Neither side has broken through, so the round-of-16 tie remains completely open."
+      },
+      {
+        "id": "yellow_card-8",
+        "spokenLine": "Luc DE FOUGEROLLES is shown a card for Canada.",
+        "explainer": "Canada begin the second half with another booking, still searching for a breakthrough."
+      },
+      {
+        "id": "goal-9",
+        "spokenLine": "Azzedine OUNAHI scores for Morocco. The verified score moves to 0–1.",
+        "explainer": "Morocco now lead, transforming a goalless tie into a chase for Canada."
+      },
+      {
+        "id": "yellow_card-10",
+        "spokenLine": "Bilal EL KHANNOUSS is shown a card for Morocco.",
+        "explainer": "Morocco lead 0–1, but the physical contest continues with another booking."
+      },
+      {
+        "id": "yellow_card-14",
+        "spokenLine": "Cyle LARIN is shown a card for Canada.",
+        "explainer": "Canada are cautioned again while still trailing 0–1."
+      },
+      {
+        "id": "goal-17",
+        "spokenLine": "Azzedine OUNAHI scores for Morocco. The verified score moves to 0–2.",
+        "explainer": "Morocco double their lead, leaving Canada with a much steeper climb."
+      },
+      {
+        "id": "goal-22",
+        "spokenLine": "Soufiane RAHIMI scores for Morocco. The verified score moves to 0–3.",
+        "explainer": "Morocco add a third, turning their advantage into a decisive victory."
+      },
+      {
+        "id": "fulltime-23",
+        "spokenLine": "Canada 0–3 Morocco.",
+        "explainer": "Morocco complete a three-goal round-of-16 win over Canada."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18185036/01-kickoff-0.mp3",
+      "text": "At kick-off, Canada meet Morocco in the round of 16 at Houston Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-1",
+      "audioPath": "/demo/replays/18185036/02-yellow_card-1.mp3",
+      "text": "In the 20th minute, Redouane HALHAL is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/18185036/03-yellow_card-3.mp3",
+      "text": "In the 40th minute, Richie LARYEA is shown a card for Canada.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-4",
+      "audioPath": "/demo/replays/18185036/04-yellow_card-4.mp3",
+      "text": "In the 40th minute, Achraf HAKIMI is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-5",
+      "audioPath": "/demo/replays/18185036/05-yellow_card-5.mp3",
+      "text": "In the 43rd minute, Jonathan DAVID is shown a card for Canada.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-6",
+      "audioPath": "/demo/replays/18185036/06-yellow_card-6.mp3",
+      "text": "In the 45th minute, Azzedine OUNAHI is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-7",
+      "audioPath": "/demo/replays/18185036/07-halftime-7.mp3",
+      "text": "At half-time, Canada 0–0 Morocco.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-8",
+      "audioPath": "/demo/replays/18185036/08-yellow_card-8.mp3",
+      "text": "In the 49th minute, Luc DE FOUGEROLLES is shown a card for Canada.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-9",
+      "audioPath": "/demo/replays/18185036/09-goal-9.mp3",
+      "text": "In the 50th minute, Azzedine OUNAHI scores for Morocco. The verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-10",
+      "audioPath": "/demo/replays/18185036/10-yellow_card-10.mp3",
+      "text": "In the 6th minute of first-half stoppage time, Bilal EL KHANNOUSS is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-14",
+      "audioPath": "/demo/replays/18185036/11-yellow_card-14.mp3",
+      "text": "In the 67th minute, Cyle LARIN is shown a card for Canada.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-17",
+      "audioPath": "/demo/replays/18185036/12-goal-17.mp3",
+      "text": "In the 82nd minute, Azzedine OUNAHI scores for Morocco. The verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-22",
+      "audioPath": "/demo/replays/18185036/13-goal-22.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Soufiane RAHIMI scores for Morocco. The verified score moves to 0–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-23",
+      "audioPath": "/demo/replays/18185036/14-fulltime-23.mp3",
+      "text": "At full-time, Canada 0–3 Morocco.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

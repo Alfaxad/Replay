@@ -1,0 +1,328 @@
+{
+  "fixtureId": 18222446,
+  "matchNumber": 100,
+  "generatedAt": "2026-07-19T20:56:28.821Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Argentina v Switzerland: The Quarter-final Replay",
+    "openingLine": "Welcome to Replay, and a quarter-final night in Kansas City.",
+    "moments": [
+      {
+        "id": "kickoff-19",
+        "spokenLine": "Argentina meet Switzerland in the quarter-final at Kansas City Stadium.",
+        "explainer": "The replay opens with the match setting established: Argentina against Switzerland, with a place in the quarter-final at stake."
+      },
+      {
+        "id": "corner-110",
+        "spokenLine": "Argentina win a corner, taking the count to 1–0.",
+        "explainer": "It is an early attacking marker for Argentina, who have the first confirmed corner."
+      },
+      {
+        "id": "corner-114",
+        "spokenLine": "Another Argentina corner arrives, and the count moves to 2–0.",
+        "explainer": "Argentina sustain their early set-piece pressure with a second confirmed corner."
+      },
+      {
+        "id": "pressure-115",
+        "spokenLine": "Switzerland drive a sustained spell: 4 shots and 16 dangerous actions in ten minutes.",
+        "explainer": "The opening passage is not one-sided; Switzerland answer with the stronger verified spell of pressure."
+      },
+      {
+        "id": "goal-117",
+        "spokenLine": "Alexis MAC ALLISTER scores for Argentina, and the score moves to 1–0.",
+        "explainer": "After Switzerland’s pressure, Argentina take the lead, changing the match from level contest to one-goal advantage."
+      },
+      {
+        "id": "corner-310",
+        "spokenLine": "Switzerland win a corner, narrowing the count to 2–1.",
+        "explainer": "Switzerland keep their response alive, adding a first confirmed corner to Argentina’s two."
+      },
+      {
+        "id": "yellow_card-387",
+        "spokenLine": "Breel EMBOLO is shown a card for Switzerland.",
+        "explainer": "A disciplinary checkpoint arrives before half-time, with Argentina still leading 1–0."
+      },
+      {
+        "id": "halftime-435",
+        "spokenLine": "Argentina lead Switzerland 1–0 at the interval.",
+        "explainer": "Argentina carry a one-goal advantage into the break after Alexis MAC ALLISTER’s opener."
+      },
+      {
+        "id": "corner-516",
+        "spokenLine": "Argentina win another corner, and the count is now 3–1.",
+        "explainer": "The restart brings another Argentina set piece, extending their corner advantage."
+      },
+      {
+        "id": "corner-615",
+        "spokenLine": "Switzerland win a corner, bringing the count to 3–2.",
+        "explainer": "Switzerland remain close on the corner count, with only one separating the teams."
+      },
+      {
+        "id": "goal-661",
+        "spokenLine": "Dan NDOYE scores for Switzerland, and the score moves to 1–1.",
+        "explainer": "Switzerland turn the contest level again, wiping out Argentina’s half-time lead."
+      },
+      {
+        "id": "yellow_card-676",
+        "spokenLine": "Argentina receive a confirmed card.",
+        "explainer": "The match has become a level, closely contested quarter-final at 1–1."
+      },
+      {
+        "id": "red_card-687",
+        "spokenLine": "Breel EMBOLO is shown a red card for Switzerland.",
+        "explainer": "At 1–1, this is a major turning point in the match."
+      },
+      {
+        "id": "corner-829",
+        "spokenLine": "Argentina win a corner, taking the count to 4–2.",
+        "explainer": "Argentina add to their set-piece pressure after the score has been levelled."
+      },
+      {
+        "id": "corner-903",
+        "spokenLine": "Another Argentina corner arrives, and the count reaches 5–2.",
+        "explainer": "The corner count shows Argentina continuing to press forward."
+      },
+      {
+        "id": "corner-942",
+        "spokenLine": "Argentina win again from the corner, making it 6–2.",
+        "explainer": "Three late Argentina corners have widened their set-piece advantage."
+      },
+      {
+        "id": "yellow_card-1008",
+        "spokenLine": "Thiago ALMADA is shown a card for Argentina.",
+        "explainer": "The match remains 1–1 as Argentina’s pressure is accompanied by another disciplinary moment."
+      },
+      {
+        "id": "yellow_card-1021",
+        "spokenLine": "Thiago ALMADA is shown a card for Argentina.",
+        "explainer": "Another recorded card arrives during a tense 1–1 passage."
+      },
+      {
+        "id": "pressure-1040",
+        "spokenLine": "Argentina drive a sustained spell: 9 shots and 47 dangerous actions in ten minutes.",
+        "explainer": "The numbers underline a powerful Argentina surge, with the score still waiting for its next change."
+      },
+      {
+        "id": "corner-1104",
+        "spokenLine": "Argentina win a corner, and the count moves to 7–2.",
+        "explainer": "Argentina’s pressure continues into the added passage, now reflected in seven confirmed corners."
+      },
+      {
+        "id": "pressure-1167",
+        "spokenLine": "Argentina drive another spell: 4 shots and 30 dangerous actions across ten minutes.",
+        "explainer": "A second sustained Argentina surge keeps the match tilted their way."
+      },
+      {
+        "id": "yellow_card-1199",
+        "spokenLine": "Jose Manuel LOPEZ is shown a card for Argentina.",
+        "explainer": "The disciplinary record grows as the tense match remains poised before Argentina’s next score."
+      },
+      {
+        "id": "goal-1201",
+        "spokenLine": "Julian ALVAREZ scores for Argentina, and the score moves to 2–1.",
+        "explainer": "Argentina finally turn their sustained pressure into a renewed lead."
+      },
+      {
+        "id": "corner-1257",
+        "spokenLine": "Argentina win another corner, taking the count to 8–2.",
+        "explainer": "With Argentina ahead 2–1, their continued corner pressure points to a strong closing spell."
+      },
+      {
+        "id": "goal-1282",
+        "spokenLine": "Lautaro MARTINEZ scores for Argentina, and the score moves to 3–1.",
+        "explainer": "The late goal gives Argentina a two-goal advantage and puts the result beyond Switzerland’s immediate reach."
+      },
+      {
+        "id": "fulltime-1306",
+        "spokenLine": "Argentina finish 3–1 winners over Switzerland.",
+        "explainer": "Argentina’s late goals settle the quarter-final after Switzerland had levelled the match at 1–1."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-19",
+      "audioPath": "/demo/replays/18222446/01-kickoff-19.mp3",
+      "text": "At kick-off, Argentina meet Switzerland in the quarter-final at Kansas City Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-110",
+      "audioPath": "/demo/replays/18222446/02-corner-110.mp3",
+      "text": "In the 8th minute, Argentina win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-114",
+      "audioPath": "/demo/replays/18222446/03-corner-114.mp3",
+      "text": "In the 8th minute, Argentina win a confirmed corner. The corner count is 2–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-115",
+      "audioPath": "/demo/replays/18222446/04-pressure-115.mp3",
+      "text": "Between the 0th and 10th minutes, Switzerland drive a sustained spell: 4 shots and 16 dangerous actions in ten minutes.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "goal-117",
+      "audioPath": "/demo/replays/18222446/05-goal-117.mp3",
+      "text": "In the 10th minute, Alexis MAC ALLISTER scores for Argentina, and the score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-310",
+      "audioPath": "/demo/replays/18222446/06-corner-310.mp3",
+      "text": "In the 33rd minute, Switzerland win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-387",
+      "audioPath": "/demo/replays/18222446/07-yellow_card-387.mp3",
+      "text": "In the 44th minute, Breel EMBOLO is shown a card for Switzerland.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-435",
+      "audioPath": "/demo/replays/18222446/08-halftime-435.mp3",
+      "text": "At half-time, Argentina lead Switzerland 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-516",
+      "audioPath": "/demo/replays/18222446/09-corner-516.mp3",
+      "text": "In the 50th minute, Argentina win a confirmed corner. The corner count is 3–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-615",
+      "audioPath": "/demo/replays/18222446/10-corner-615.mp3",
+      "text": "In the 62nd minute, Switzerland win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-661",
+      "audioPath": "/demo/replays/18222446/11-goal-661.mp3",
+      "text": "In the 67th minute, Dan NDOYE scores for Switzerland, and the score moves to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-676",
+      "audioPath": "/demo/replays/18222446/12-yellow_card-676.mp3",
+      "text": "In the 68th minute, Argentina receive a confirmed card.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "red_card-687",
+      "audioPath": "/demo/replays/18222446/13-red_card-687.mp3",
+      "text": "In the 72nd minute, Breel EMBOLO is shown a red card for Switzerland.",
+      "kind": "red_card",
+      "intensity": 92
+    },
+    {
+      "id": "corner-829",
+      "audioPath": "/demo/replays/18222446/14-corner-829.mp3",
+      "text": "In the 90th minute, Argentina win a confirmed corner. The corner count is 4–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-903",
+      "audioPath": "/demo/replays/18222446/15-corner-903.mp3",
+      "text": "In the 97th minute, Argentina win a confirmed corner. The corner count is 5–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-942",
+      "audioPath": "/demo/replays/18222446/16-corner-942.mp3",
+      "text": "In the 90th minute, Argentina win a confirmed corner. The corner count is 6–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "yellow_card-1008",
+      "audioPath": "/demo/replays/18222446/17-yellow_card-1008.mp3",
+      "text": "In the 97th minute, Thiago ALMADA is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-1021",
+      "audioPath": "/demo/replays/18222446/18-yellow_card-1021.mp3",
+      "text": "In the 97th minute, Thiago ALMADA is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "pressure-1040",
+      "audioPath": "/demo/replays/18222446/19-pressure-1040.mp3",
+      "text": "Between the 90th and 100th minutes, Argentina drive a sustained spell: 9 shots and 47 dangerous actions in ten minutes.",
+      "kind": "pressure",
+      "intensity": 88
+    },
+    {
+      "id": "corner-1104",
+      "audioPath": "/demo/replays/18222446/20-corner-1104.mp3",
+      "text": "In the 105th minute, Argentina win a confirmed corner. The corner count is 7–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-1167",
+      "audioPath": "/demo/replays/18222446/21-pressure-1167.mp3",
+      "text": "Between the 100th and 110th minutes, Argentina drive another spell: 4 shots and 30 dangerous actions across ten minutes.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "yellow_card-1199",
+      "audioPath": "/demo/replays/18222446/22-yellow_card-1199.mp3",
+      "text": "In the 114th minute, Jose Manuel LOPEZ is shown a card for Argentina.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-1201",
+      "audioPath": "/demo/replays/18222446/23-goal-1201.mp3",
+      "text": "In the 112th minute, Julian ALVAREZ scores for Argentina, and the score moves to 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "corner-1257",
+      "audioPath": "/demo/replays/18222446/24-corner-1257.mp3",
+      "text": "In the 118th minute, Argentina win a confirmed corner. The corner count is 8–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "goal-1282",
+      "audioPath": "/demo/replays/18222446/25-goal-1282.mp3",
+      "text": "In the 1st minute of extra-time stoppage time, Lautaro MARTINEZ scores for Argentina, and the score moves to 3–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-1306",
+      "audioPath": "/demo/replays/18222446/26-fulltime-1306.mp3",
+      "text": "At full-time, Argentina finish 3–1 winners over Switzerland.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

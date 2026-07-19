@@ -1,0 +1,112 @@
+{
+  "fixtureId": 18179764,
+  "matchNumber": 80,
+  "generatedAt": "2026-07-19T20:55:54.899Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "England Come From Behind",
+    "openingLine": "Welcome back to Replay, where England meet Congo DR in a round-of-32 contest at Atlanta Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "England meet Congo DR in the round of 32 at Atlanta Stadium.",
+        "explainer": "The replay begins with both teams level, and the knockout setting gives the opening whistle immediate weight."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Brian CIPENGA has put Congo DR ahead, and the score is 0–1.",
+        "explainer": "Congo DR take the lead, leaving England to chase the match from behind."
+      },
+      {
+        "id": "yellow_card-2",
+        "spokenLine": "Jude BELLINGHAM is shown a card for England.",
+        "explainer": "England are now carrying a booking as the contest continues."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "Noah SADIKI is shown a card for Congo DR.",
+        "explainer": "Congo DR also have a player cautioned before the interval."
+      },
+      {
+        "id": "halftime-4",
+        "spokenLine": "England trail Congo DR 0–1 at half-time.",
+        "explainer": "The first half belongs to Congo DR on the scoreboard, with England needing a response after the break."
+      },
+      {
+        "id": "goal-9",
+        "spokenLine": "Harry KANE restores parity for England: 1–1.",
+        "explainer": "England draw level, turning a one-goal deficit into an entirely open contest."
+      },
+      {
+        "id": "goal-12",
+        "spokenLine": "Harry KANE puts England ahead, 2–1.",
+        "explainer": "England complete the turnaround and move in front late in the match."
+      },
+      {
+        "id": "fulltime-16",
+        "spokenLine": "England defeat Congo DR 2–1.",
+        "explainer": "The final score confirms England's comeback from 0–1 down to a 2–1 victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179764/01-kickoff-0.mp3",
+      "text": "At kick-off, England meet Congo DR in the round of 32 at Atlanta Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18179764/02-goal-1.mp3",
+      "text": "In the 7th minute, Brian CIPENGA has put Congo DR ahead, and the score is 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-2",
+      "audioPath": "/demo/replays/18179764/03-yellow_card-2.mp3",
+      "text": "In the 19th minute, Jude BELLINGHAM is shown a card for England.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/18179764/04-yellow_card-3.mp3",
+      "text": "In the 27th minute, Noah SADIKI is shown a card for Congo DR.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-4",
+      "audioPath": "/demo/replays/18179764/05-halftime-4.mp3",
+      "text": "At half-time, England trail Congo DR 0–1.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-9",
+      "audioPath": "/demo/replays/18179764/06-goal-9.mp3",
+      "text": "In the 75th minute, Harry KANE restores parity for England: 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-12",
+      "audioPath": "/demo/replays/18179764/07-goal-12.mp3",
+      "text": "In the 86th minute, Harry KANE puts England ahead, 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-16",
+      "audioPath": "/demo/replays/18179764/08-fulltime-16.mp3",
+      "text": "At full-time, England defeat Congo DR 2–1.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

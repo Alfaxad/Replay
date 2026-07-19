@@ -1,0 +1,88 @@
+{
+  "fixtureId": 18167317,
+  "matchNumber": 73,
+  "generatedAt": "2026-07-19T20:55:44.525Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "South Africa v Canada: The Late Breakthrough",
+    "openingLine": "At Los Angeles Stadium, South Africa meet Canada in the round of 32.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "South Africa meet Canada in the round of 32 at Los Angeles Stadium. The replay is under way.",
+        "explainer": "The match begins with both sides level at the start of the round of 32."
+      },
+      {
+        "id": "halftime-2",
+        "spokenLine": "Neither side has broken through: South Africa 0–0 Canada. The contest remains finely balanced.",
+        "explainer": "The score is still level at the interval, with no goal separating the teams."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "Nathan SALIBA is shown a card for Canada, adding a moment of tension to this scoreless match.",
+        "explainer": "Canada receive the first recorded yellow card while the score remains level."
+      },
+      {
+        "id": "yellow_card-6",
+        "spokenLine": "Niko SIGUR is shown a card for Canada, another flash of discipline in a scoreless contest.",
+        "explainer": "Canada receive a second recorded yellow card before either side has scored."
+      },
+      {
+        "id": "goal-12",
+        "spokenLine": "Stephen EUSTAQUIO scores for Canada, and the verified score moves to 0–1. The match has its decisive swing.",
+        "explainer": "Canada move in front late on, turning a level match into a one-goal contest."
+      },
+      {
+        "id": "fulltime-13",
+        "spokenLine": "South Africa 0–1 Canada. Stephen EUSTAQUIO’s goal is the difference, and Canada go through.",
+        "explainer": "The final score confirms Canada’s victory by the only goal of the match."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18167317/01-kickoff-0.mp3",
+      "text": "At kick-off, South Africa meet Canada in the round of 32 at Los Angeles Stadium. The replay is under way.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "halftime-2",
+      "audioPath": "/demo/replays/18167317/02-halftime-2.mp3",
+      "text": "At half-time, Neither side has broken through: South Africa 0–0 Canada. The contest remains finely balanced.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/18167317/03-yellow_card-3.mp3",
+      "text": "In the 54th minute, Nathan SALIBA is shown a card for Canada, adding a moment of tension to this scoreless match.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-6",
+      "audioPath": "/demo/replays/18167317/04-yellow_card-6.mp3",
+      "text": "In the 67th minute, Niko SIGUR is shown a card for Canada, another flash of discipline in a scoreless contest.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-12",
+      "audioPath": "/demo/replays/18167317/05-goal-12.mp3",
+      "text": "In the 2nd minute of second-half stoppage time, Stephen EUSTAQUIO scores for Canada, and the verified score moves to 0–1. The match has its decisive swing.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-13",
+      "audioPath": "/demo/replays/18167317/06-fulltime-13.mp3",
+      "text": "At full-time, South Africa 0–1 Canada. Stephen EUSTAQUIO’s goal is the difference, and Canada go through.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

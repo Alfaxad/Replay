@@ -1,0 +1,269 @@
+{
+  "fixtureId": 18188721,
+  "source": "fifa-official-events",
+  "events": [
+    {
+      "fixtureId": 18188721,
+      "seq": 0,
+      "timestamp": 1783198800000,
+      "action": "kickoff",
+      "gameState": "inplay",
+      "clockSeconds": 0,
+      "clockRunning": true,
+      "confirmed": true,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 1,
+      "timestamp": 1783199940000,
+      "action": "yellow_card",
+      "gameState": "inplay",
+      "clockSeconds": 1140,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 2,
+      "timestamp": 1783201500000,
+      "action": "halftime_finalised",
+      "gameState": "halftime",
+      "clockSeconds": 2700,
+      "clockRunning": false,
+      "confirmed": true,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 3,
+      "timestamp": 1783202280000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 3480,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 4,
+      "timestamp": 1783202460000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 3660,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 5,
+      "timestamp": 1783202460000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 3660,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        0
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 6,
+      "timestamp": 1783203000000,
+      "action": "goal",
+      "gameState": "inplay",
+      "clockSeconds": 4200,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 7,
+      "timestamp": 1783203060000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 4260,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 8,
+      "timestamp": 1783203060000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 4260,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 9,
+      "timestamp": 1783203660000,
+      "action": "yellow_card",
+      "gameState": "inplay",
+      "clockSeconds": 4860,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 10,
+      "timestamp": 1783203840000,
+      "action": "substitution",
+      "gameState": "inplay",
+      "clockSeconds": 5040,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 11,
+      "timestamp": 1783204200000,
+      "action": "yellow_card",
+      "gameState": "inplay",
+      "clockSeconds": 5400,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 12,
+      "timestamp": 1783204620000,
+      "action": "yellow_card",
+      "gameState": "inplay",
+      "clockSeconds": 5820,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    },
+    {
+      "fixtureId": 18188721,
+      "seq": 13,
+      "timestamp": 1783206000000,
+      "action": "game_finalised",
+      "gameState": "final",
+      "clockSeconds": 5400,
+      "clockRunning": false,
+      "confirmed": true,
+      "score": [
+        0,
+        1
+      ],
+      "corners": [
+        0,
+        0
+      ]
+    }
+  ]
+}

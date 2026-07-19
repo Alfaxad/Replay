@@ -1,0 +1,88 @@
+{
+  "fixtureId": 18175981,
+  "matchNumber": 77,
+  "generatedAt": "2026-07-19T20:55:50.374Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "France Against Sweden",
+    "openingLine": "Relive France against Sweden in the round of 32 at New York/New Jersey Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "France meet Sweden in the round of 32 at New York/New Jersey Stadium.",
+        "explainer": "The replay begins with France and Sweden at the round-of-32 stage."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Kylian MBAPPE scores for France, and the score moves to 1–0.",
+        "explainer": "France take the lead, changing the score from level to 1–0."
+      },
+      {
+        "id": "halftime-2",
+        "spokenLine": "France lead Sweden 1–0 at the interval.",
+        "explainer": "The half closes with France holding a one-goal advantage."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "Bradley BARCOLA scores for France, and the score moves to 2–0.",
+        "explainer": "France extend their lead to two goals."
+      },
+      {
+        "id": "goal-6",
+        "spokenLine": "Kylian MBAPPE scores again for France, and the score moves to 3–0.",
+        "explainer": "France add a third goal, moving three goals clear of Sweden."
+      },
+      {
+        "id": "fulltime-15",
+        "spokenLine": "France 3–0 Sweden.",
+        "explainer": "The completed match ends with France three goals ahead of Sweden."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18175981/01-kickoff-0.mp3",
+      "text": "At kick-off, France meet Sweden in the round of 32 at New York/New Jersey Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18175981/02-goal-1.mp3",
+      "text": "In the 45th minute, Kylian MBAPPE scores for France, and the score moves to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-2",
+      "audioPath": "/demo/replays/18175981/03-halftime-2.mp3",
+      "text": "At half-time, France lead Sweden 1–0.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18175981/04-goal-3.mp3",
+      "text": "In the 53rd minute, Bradley BARCOLA scores for France, and the score moves to 2–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-6",
+      "audioPath": "/demo/replays/18175981/05-goal-6.mp3",
+      "text": "In the 74th minute, Kylian MBAPPE scores again for France, and the score moves to 3–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-15",
+      "audioPath": "/demo/replays/18175981/06-fulltime-15.mp3",
+      "text": "At full-time, France 3–0 Sweden.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

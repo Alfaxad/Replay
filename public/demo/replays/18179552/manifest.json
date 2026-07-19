@@ -1,0 +1,100 @@
+{
+  "fixtureId": 18179552,
+  "matchNumber": 85,
+  "generatedAt": "2026-07-19T20:56:02.566Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Switzerland v Algeria: A Two-Goal Passage",
+    "openingLine": "Welcome to Replay, where Switzerland’s round-of-32 meeting with Algeria comes back to life.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Switzerland meet Algeria in the round of 32 at BC Place Vancouver. The replay is under way.",
+        "explainer": "This sets the scene for the completed knockout match and places it at BC Place Vancouver."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Breel EMBOLO scores for Switzerland, moving the verified score to 1–0.",
+        "explainer": "This is the first decisive swing, giving Switzerland the lead."
+      },
+      {
+        "id": "yellow_card-2",
+        "spokenLine": "Fares CHAIBI is shown a card for Algeria.",
+        "explainer": "This is a verified disciplinary moment for Algeria during the opening half."
+      },
+      {
+        "id": "halftime-3",
+        "spokenLine": "Switzerland 1–0 Algeria at the interval: a narrow lead, but a lead all the same.",
+        "explainer": "The half-time score confirms Switzerland remain ahead after the opening goal."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Dan NDOYE scores for Switzerland, moving the verified score to 2–0.",
+        "explainer": "The second Switzerland goal doubles the advantage and creates a decisive scoreline."
+      },
+      {
+        "id": "yellow_card-11",
+        "spokenLine": "Hicham BOUDAOUI is shown a card for Algeria.",
+        "explainer": "This is Algeria’s second verified yellow-card moment."
+      },
+      {
+        "id": "fulltime-16",
+        "spokenLine": "Switzerland 2–0 Algeria. The result is complete.",
+        "explainer": "The final score confirms Switzerland’s two-goal victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179552/01-kickoff-0.mp3",
+      "text": "At kick-off, Switzerland meet Algeria in the round of 32 at BC Place Vancouver. The replay is under way.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18179552/02-goal-1.mp3",
+      "text": "In the 10th minute, Breel EMBOLO scores for Switzerland, moving the verified score to 1–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-2",
+      "audioPath": "/demo/replays/18179552/03-yellow_card-2.mp3",
+      "text": "In the 36th minute, Fares CHAIBI is shown a card for Algeria.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-3",
+      "audioPath": "/demo/replays/18179552/04-halftime-3.mp3",
+      "text": "At half-time, Switzerland 1–0 Algeria at the interval: a narrow lead, but a lead all the same.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18179552/05-goal-4.mp3",
+      "text": "In the 46th minute, Dan NDOYE scores for Switzerland, moving the verified score to 2–0.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-11",
+      "audioPath": "/demo/replays/18179552/06-yellow_card-11.mp3",
+      "text": "In the 72nd minute, Hicham BOUDAOUI is shown a card for Algeria.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-16",
+      "audioPath": "/demo/replays/18179552/07-fulltime-16.mp3",
+      "text": "At full-time, Switzerland 2–0 Algeria. The result is complete.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

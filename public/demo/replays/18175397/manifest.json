@@ -1,0 +1,100 @@
+{
+  "fixtureId": 18175397,
+  "matchNumber": 78,
+  "generatedAt": "2026-07-19T20:55:52.040Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Côte d'Ivoire v Norway: The Decisive Finish",
+    "openingLine": "Welcome to Replay, where the match returns one moment at a time.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Côte d'Ivoire meet Norway in the round of 32 at Dallas Stadium.",
+        "explainer": "The round of 32 begins at Dallas Stadium, with Côte d'Ivoire facing Norway."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Antonio NUSA puts Norway ahead, and the verified score moves to 0–1.",
+        "explainer": "Norway take the lead through Antonio NUSA, creating the first decisive swing of the match."
+      },
+      {
+        "id": "yellow_card-2",
+        "spokenLine": "Antonio NUSA is shown a card for Norway.",
+        "explainer": "The caution arrives just before the interval, with Norway still ahead."
+      },
+      {
+        "id": "halftime-3",
+        "spokenLine": "Côte d'Ivoire trail Norway 0–1 at the interval.",
+        "explainer": "Norway carry their one-goal advantage into half-time."
+      },
+      {
+        "id": "goal-8",
+        "spokenLine": "Amad DIALLO levels it for Côte d'Ivoire, moving the verified score to 1–1.",
+        "explainer": "The match is level again, wiping out Norway's half-time advantage."
+      },
+      {
+        "id": "goal-10",
+        "spokenLine": "Erling HAALAND restores Norway's lead, making the verified score 1–2.",
+        "explainer": "Norway move ahead once more, this time by a single goal late in the match."
+      },
+      {
+        "id": "fulltime-14",
+        "spokenLine": "Côte d'Ivoire 1–2 Norway.",
+        "explainer": "The final verified score confirms Norway's victory in the round of 32."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18175397/01-kickoff-0.mp3",
+      "text": "At kick-off, Côte d'Ivoire meet Norway in the round of 32 at Dallas Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18175397/02-goal-1.mp3",
+      "text": "In the 39th minute, Antonio NUSA puts Norway ahead, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-2",
+      "audioPath": "/demo/replays/18175397/03-yellow_card-2.mp3",
+      "text": "In the 1st minute of first-half stoppage time, Antonio NUSA is shown a card for Norway.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-3",
+      "audioPath": "/demo/replays/18175397/04-halftime-3.mp3",
+      "text": "At half-time, Côte d'Ivoire trail Norway 0–1.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-8",
+      "audioPath": "/demo/replays/18175397/05-goal-8.mp3",
+      "text": "In the 74th minute, Amad DIALLO levels it for Côte d'Ivoire, moving the verified score to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-10",
+      "audioPath": "/demo/replays/18175397/06-goal-10.mp3",
+      "text": "In the 86th minute, Erling HAALAND restores Norway's lead, making the verified score 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-14",
+      "audioPath": "/demo/replays/18175397/07-fulltime-14.mp3",
+      "text": "At full-time, Côte d'Ivoire 1–2 Norway.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

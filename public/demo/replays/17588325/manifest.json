@@ -1,0 +1,136 @@
+{
+  "fixtureId": 17588325,
+  "matchNumber": 70,
+  "generatedAt": "2026-07-19T20:55:44.524Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Jordan v Argentina: A Fightback and Final Answer",
+    "openingLine": "Welcome to Replay: Jordan meet Argentina in Group J at Dallas Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Jordan meet Argentina in Group J at Dallas Stadium.",
+        "explainer": "The replay begins with this Group J meeting from the World Cup group stage."
+      },
+      {
+        "id": "yellow_card-3",
+        "spokenLine": "MOHANNAD ABUTAHA is shown a card for Jordan.",
+        "explainer": "The first verified disciplinary moment belongs to Jordan."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Giovani LO CELSO scores, and Argentina lead Jordan 0–1.",
+        "explainer": "Argentina take the lead through Giovani LO CELSO."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Lautaro MARTINEZ scores, and Argentina now lead Jordan 0–2.",
+        "explainer": "Argentina extend their advantage before half-time."
+      },
+      {
+        "id": "halftime-6",
+        "spokenLine": "Jordan trail Argentina 0–2 at the interval.",
+        "explainer": "The half-time score gives Argentina a clear advantage."
+      },
+      {
+        "id": "goal-7",
+        "spokenLine": "MOUSA ALTAMARI scores, and Jordan pull back to 1–2.",
+        "explainer": "Jordan reduce the deficit and move back within one goal."
+      },
+      {
+        "id": "yellow_card-11",
+        "spokenLine": "YAZAN ALARAB is shown a card for Jordan.",
+        "explainer": "Jordan receive another verified card as the match continues."
+      },
+      {
+        "id": "goal-14",
+        "spokenLine": "Lionel MESSI scores, and Argentina lead Jordan 1–3.",
+        "explainer": "Argentina restore a two-goal advantage through Lionel MESSI."
+      },
+      {
+        "id": "yellow_card-18",
+        "spokenLine": "MOHAMMAD ABUZRAIQ is shown a card for Jordan.",
+        "explainer": "Jordan receive a further card late in the match."
+      },
+      {
+        "id": "fulltime-19",
+        "spokenLine": "Jordan 1–3 Argentina. That is full time.",
+        "explainer": "Argentina finish with the verified 1–3 victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/17588325/01-kickoff-0.mp3",
+      "text": "At kick-off, Jordan meet Argentina in Group J at Dallas Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-3",
+      "audioPath": "/demo/replays/17588325/02-yellow_card-3.mp3",
+      "text": "In the 17th minute, MOHANNAD ABUTAHA is shown a card for Jordan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/17588325/03-goal-4.mp3",
+      "text": "In the 19th minute, Giovani LO CELSO scores, and Argentina lead Jordan 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/17588325/04-goal-5.mp3",
+      "text": "In the 31st minute, Lautaro MARTINEZ scores, and Argentina now lead Jordan 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-6",
+      "audioPath": "/demo/replays/17588325/05-halftime-6.mp3",
+      "text": "At half-time, Jordan trail Argentina 0–2.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-7",
+      "audioPath": "/demo/replays/17588325/06-goal-7.mp3",
+      "text": "In the 55th minute, MOUSA ALTAMARI scores, and Jordan pull back to 1–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-11",
+      "audioPath": "/demo/replays/17588325/07-yellow_card-11.mp3",
+      "text": "In the 64th minute, YAZAN ALARAB is shown a card for Jordan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-14",
+      "audioPath": "/demo/replays/17588325/08-goal-14.mp3",
+      "text": "In the 80th minute, Lionel MESSI scores, and Argentina lead Jordan 1–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-18",
+      "audioPath": "/demo/replays/17588325/09-yellow_card-18.mp3",
+      "text": "In the 4th minute of second-half stoppage time, MOHAMMAD ABUZRAIQ is shown a card for Jordan.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-19",
+      "audioPath": "/demo/replays/17588325/10-fulltime-19.mp3",
+      "text": "At full-time, Jordan 1–3 Argentina.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

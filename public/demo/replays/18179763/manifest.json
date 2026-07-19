@@ -1,0 +1,124 @@
+{
+  "fixtureId": 18179763,
+  "matchNumber": 83,
+  "generatedAt": "2026-07-19T20:56:00.639Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Portugal's Late Turnaround",
+    "openingLine": "Portugal meet Croatia in the round of 32 at Toronto Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Portugal meet Croatia in the round of 32 at Toronto Stadium, and the replay is under way.",
+        "explainer": "The match begins with Portugal and Croatia facing one another in the round of 32."
+      },
+      {
+        "id": "yellow_card-2",
+        "spokenLine": "RUBEN DIAS is shown a card for Portugal.",
+        "explainer": "This is Portugal's first recorded booking of the match."
+      },
+      {
+        "id": "halftime-3",
+        "spokenLine": "Portugal 0–0 Croatia at the interval; neither side has broken through.",
+        "explainer": "The score is level at half-time, with no goals separating the teams."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Ivan PERISIC scores for Croatia, and the verified score moves to 0–1.",
+        "explainer": "Croatia take the lead, changing the match from level to Portugal trailing."
+      },
+      {
+        "id": "yellow_card-5",
+        "spokenLine": "Luka MODRIC is shown a card for Croatia.",
+        "explainer": "Croatia receive a booking while holding their 0–1 lead."
+      },
+      {
+        "id": "goal-10",
+        "spokenLine": "CRISTIANO RONALDO scores for Portugal, and the verified score moves to 1–1.",
+        "explainer": "Portugal draw level, erasing Croatia's lead."
+      },
+      {
+        "id": "goal-14",
+        "spokenLine": "GONCALO RAMOS scores for Portugal, and the verified score moves to 2–1.",
+        "explainer": "Portugal move ahead late, completing the decisive swing in the score."
+      },
+      {
+        "id": "yellow_card-16",
+        "spokenLine": "Ivan PERISIC is shown a card for Croatia.",
+        "explainer": "Croatia receive a booking after Portugal have moved in front."
+      },
+      {
+        "id": "fulltime-17",
+        "spokenLine": "Portugal 2–1 Croatia. Portugal complete the turnaround.",
+        "explainer": "The final score confirms Portugal's victory after trailing 0–1."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18179763/01-kickoff-0.mp3",
+      "text": "At kick-off, Portugal meet Croatia in the round of 32 at Toronto Stadium, and the replay is under way.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "yellow_card-2",
+      "audioPath": "/demo/replays/18179763/02-yellow_card-2.mp3",
+      "text": "In the 17th minute, RUBEN DIAS is shown a card for Portugal.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "halftime-3",
+      "audioPath": "/demo/replays/18179763/03-halftime-3.mp3",
+      "text": "At half-time, Portugal 0–0 Croatia at the interval; neither side has broken through.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18179763/04-goal-4.mp3",
+      "text": "In the 53rd minute, Ivan PERISIC scores for Croatia, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-5",
+      "audioPath": "/demo/replays/18179763/05-yellow_card-5.mp3",
+      "text": "In the 59th minute, Luka MODRIC is shown a card for Croatia.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-10",
+      "audioPath": "/demo/replays/18179763/06-goal-10.mp3",
+      "text": "In the 68th minute, CRISTIANO RONALDO scores for Portugal, and the verified score moves to 1–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-14",
+      "audioPath": "/demo/replays/18179763/07-goal-14.mp3",
+      "text": "In the 4th minute of second-half stoppage time, GONCALO RAMOS scores for Portugal, and the verified score moves to 2–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-16",
+      "audioPath": "/demo/replays/18179763/08-yellow_card-16.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Ivan PERISIC is shown a card for Croatia.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-17",
+      "audioPath": "/demo/replays/18179763/09-fulltime-17.mp3",
+      "text": "At full-time, Portugal 2–1 Croatia. Portugal complete the turnaround.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

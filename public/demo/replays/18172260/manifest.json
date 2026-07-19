@@ -1,0 +1,148 @@
+{
+  "fixtureId": 18172260,
+  "matchNumber": 75,
+  "generatedAt": "2026-07-19T20:55:47.592Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Netherlands and Morocco: A Match Replayed",
+    "openingLine": "Welcome to a round-of-32 meeting between Netherlands and Morocco at Monterrey Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Netherlands meet Morocco in the round of 32 at Monterrey Stadium.",
+        "explainer": "The replay begins with both sides level and the knockout tie under way."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Ismael SAIBARI scores for Morocco, and the verified score moves to 0–1.",
+        "explainer": "Morocco take the lead immediately in the verified sequence."
+      },
+      {
+        "id": "goal-2",
+        "spokenLine": "Ismael SAIBARI scores for Morocco again, and the verified score moves to 0–2.",
+        "explainer": "The score shows Morocco extending their advantage."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "Ismael SAIBARI scores for Morocco, and the verified score moves to 0–3.",
+        "explainer": "Morocco move three goals clear in the verified sequence."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Wout WEGHORST scores for Netherlands, and the verified score moves to 1–3.",
+        "explainer": "Netherlands begin to pull the score back."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Wout WEGHORST scores for Netherlands, and the verified score moves to 2–3.",
+        "explainer": "The gap narrows to one goal, bringing Netherlands back into the contest."
+      },
+      {
+        "id": "halftime-6",
+        "spokenLine": "Netherlands 2–3 Morocco at the interval.",
+        "explainer": "Morocco lead at half-time, but Netherlands are within one goal."
+      },
+      {
+        "id": "yellow_card-7",
+        "spokenLine": "Issa DIOP is shown a card for Morocco.",
+        "explainer": "Morocco receive a disciplinary mark early in the second half."
+      },
+      {
+        "id": "goal-10",
+        "spokenLine": "Cody GAKPO scores for Netherlands, and the verified score moves to 3–3.",
+        "explainer": "The scores are level, completing Netherlands’ recovery in the verified sequence."
+      },
+      {
+        "id": "goal-18",
+        "spokenLine": "Issa DIOP scores for Morocco, and the verified score moves to 3–4.",
+        "explainer": "Morocco regain the lead with the decisive swing shown in the verified score."
+      },
+      {
+        "id": "fulltime-21",
+        "spokenLine": "Netherlands 1–1 Morocco. 2–3 on penalties.",
+        "explainer": "The match record closes level, with Morocco ahead on penalties."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18172260/01-kickoff-0.mp3",
+      "text": "At kick-off, Netherlands meet Morocco in the round of 32 at Monterrey Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18172260/02-goal-1.mp3",
+      "text": "At , Ismael SAIBARI scores for Morocco, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-2",
+      "audioPath": "/demo/replays/18172260/03-goal-2.mp3",
+      "text": "At , Ismael SAIBARI scores for Morocco again, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18172260/04-goal-3.mp3",
+      "text": "At , Ismael SAIBARI scores for Morocco, and the verified score moves to 0–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18172260/05-goal-4.mp3",
+      "text": "At , Wout WEGHORST scores for Netherlands, and the verified score moves to 1–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/18172260/06-goal-5.mp3",
+      "text": "At , Wout WEGHORST scores for Netherlands, and the verified score moves to 2–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-6",
+      "audioPath": "/demo/replays/18172260/07-halftime-6.mp3",
+      "text": "At half-time, Netherlands 2–3 Morocco.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "yellow_card-7",
+      "audioPath": "/demo/replays/18172260/08-yellow_card-7.mp3",
+      "text": "In the 47th minute, Issa DIOP is shown a card for Morocco.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-10",
+      "audioPath": "/demo/replays/18172260/09-goal-10.mp3",
+      "text": "In the 72nd minute, Cody GAKPO scores for Netherlands, and the verified score moves to 3–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-18",
+      "audioPath": "/demo/replays/18172260/10-goal-18.mp3",
+      "text": "In the 1st minute of second-half stoppage time, Issa DIOP scores for Morocco, and the verified score moves to 3–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "fulltime-21",
+      "audioPath": "/demo/replays/18172260/11-fulltime-21.mp3",
+      "text": "At full-time, Netherlands 1–1 Morocco. 2–3 on penalties.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

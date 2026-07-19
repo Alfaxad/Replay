@@ -1,0 +1,232 @@
+{
+  "fixtureId": 18175983,
+  "matchNumber": 74,
+  "generatedAt": "2026-07-19T20:55:46.175Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Germany and Paraguay: A Match of Two Scores",
+    "openingLine": "Welcome back to Replay, where Germany and Paraguay’s round-of-32 meeting unfolds again at Boston Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-0",
+        "spokenLine": "Germany meet Paraguay in the round of 32 at Boston Stadium.",
+        "explainer": "This begins the replay of their knockout meeting at Boston Stadium."
+      },
+      {
+        "id": "goal-1",
+        "spokenLine": "Jose CANALE scores for Paraguay, and the verified score moves to 0–1.",
+        "explainer": "Paraguay take the lead on the verified score."
+      },
+      {
+        "id": "goal-2",
+        "spokenLine": "Jose CANALE scores for Paraguay, and the verified score moves to 0–2.",
+        "explainer": "The verified score now shows Paraguay two goals ahead."
+      },
+      {
+        "id": "goal-3",
+        "spokenLine": "Jose CANALE scores for Paraguay, and the verified score moves to 0–3.",
+        "explainer": "Paraguay extend their advantage on the verified score."
+      },
+      {
+        "id": "goal-4",
+        "spokenLine": "Jose CANALE scores for Paraguay, and the verified score moves to 0–4.",
+        "explainer": "The verified score records a four-goal Paraguay lead."
+      },
+      {
+        "id": "goal-5",
+        "spokenLine": "Nadiem AMIRI scores for Germany, and the verified score moves to 1–4.",
+        "explainer": "Germany get on the verified scoresheet."
+      },
+      {
+        "id": "goal-6",
+        "spokenLine": "Nadiem AMIRI scores for Germany, and the verified score moves to 2–4.",
+        "explainer": "Germany close the gap on the verified score."
+      },
+      {
+        "id": "goal-7",
+        "spokenLine": "Nadiem AMIRI scores for Germany, and the verified score moves to 3–4.",
+        "explainer": "Germany are now within one goal on the verified score."
+      },
+      {
+        "id": "goal-10",
+        "spokenLine": "Julio ENCISO scores for Paraguay, and the verified score moves to 3–5.",
+        "explainer": "Paraguay restore a two-goal advantage before the interval."
+      },
+      {
+        "id": "halftime-11",
+        "spokenLine": "Germany 3–5 Paraguay at the interval.",
+        "explainer": "Half-time arrives with Paraguay ahead by two goals."
+      },
+      {
+        "id": "goal-12",
+        "spokenLine": "Kai HAVERTZ scores for Germany, and the verified score moves to 4–5.",
+        "explainer": "Germany pull back to within one goal on the verified score."
+      },
+      {
+        "id": "yellow_card-16",
+        "spokenLine": "Andres CUBAS is shown a card for Paraguay.",
+        "explainer": "Paraguay receive a disciplinary moment."
+      },
+      {
+        "id": "yellow_card-21",
+        "spokenLine": "Player null is shown a card for Paraguay.",
+        "explainer": "Another Paraguay card is recorded."
+      },
+      {
+        "id": "yellow_card-22",
+        "spokenLine": "Player null is shown a card for Germany.",
+        "explainer": "Germany are shown a card."
+      },
+      {
+        "id": "yellow_card-26",
+        "spokenLine": "Jamal MUSIALA is shown a card for Germany.",
+        "explainer": "Jamal MUSIALA is recorded in the disciplinary action for Germany."
+      },
+      {
+        "id": "yellow_card-27",
+        "spokenLine": "Jamal MUSIALA is shown a card for Germany.",
+        "explainer": "A further card for Germany is recorded against Jamal MUSIALA."
+      },
+      {
+        "id": "yellow_card-28",
+        "spokenLine": "Player null is shown a card for Paraguay.",
+        "explainer": "Paraguay receive another recorded card."
+      },
+      {
+        "id": "fulltime-31",
+        "spokenLine": "Germany 1–1 Paraguay. 3–4 on penalties.",
+        "explainer": "The match finishes level, with Paraguay winning the shootout 4–3."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-0",
+      "audioPath": "/demo/replays/18175983/01-kickoff-0.mp3",
+      "text": "At kick-off, Germany meet Paraguay in the round of 32 at Boston Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "goal-1",
+      "audioPath": "/demo/replays/18175983/02-goal-1.mp3",
+      "text": "At , Jose CANALE scores for Paraguay, and the verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-2",
+      "audioPath": "/demo/replays/18175983/03-goal-2.mp3",
+      "text": "At , Jose CANALE scores for Paraguay, and the verified score moves to 0–2.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-3",
+      "audioPath": "/demo/replays/18175983/04-goal-3.mp3",
+      "text": "At , Jose CANALE scores for Paraguay, and the verified score moves to 0–3.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-4",
+      "audioPath": "/demo/replays/18175983/05-goal-4.mp3",
+      "text": "At , Jose CANALE scores for Paraguay, and the verified score moves to 0–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-5",
+      "audioPath": "/demo/replays/18175983/06-goal-5.mp3",
+      "text": "At , Nadiem AMIRI scores for Germany, and the verified score moves to 1–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-6",
+      "audioPath": "/demo/replays/18175983/07-goal-6.mp3",
+      "text": "At , Nadiem AMIRI scores for Germany, and the verified score moves to 2–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-7",
+      "audioPath": "/demo/replays/18175983/08-goal-7.mp3",
+      "text": "At , Nadiem AMIRI scores for Germany, and the verified score moves to 3–4.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "goal-10",
+      "audioPath": "/demo/replays/18175983/09-goal-10.mp3",
+      "text": "In the 42nd minute, Julio ENCISO scores for Paraguay, and the verified score moves to 3–5.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "halftime-11",
+      "audioPath": "/demo/replays/18175983/10-halftime-11.mp3",
+      "text": "At half-time, Germany 3–5 Paraguay.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "goal-12",
+      "audioPath": "/demo/replays/18175983/11-goal-12.mp3",
+      "text": "In the 54th minute, Kai HAVERTZ scores for Germany, and the verified score moves to 4–5.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-16",
+      "audioPath": "/demo/replays/18175983/12-yellow_card-16.mp3",
+      "text": "In the 65th minute, Andres CUBAS is shown a card for Paraguay.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-21",
+      "audioPath": "/demo/replays/18175983/13-yellow_card-21.mp3",
+      "text": "In the 105th minute, Player null is shown a card for Paraguay.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-22",
+      "audioPath": "/demo/replays/18175983/14-yellow_card-22.mp3",
+      "text": "In the 1st minute of extra-time stoppage time, Player null is shown a card for Germany.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-26",
+      "audioPath": "/demo/replays/18175983/15-yellow_card-26.mp3",
+      "text": "In the 115th minute, Jamal MUSIALA is shown a card for Germany.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-27",
+      "audioPath": "/demo/replays/18175983/16-yellow_card-27.mp3",
+      "text": "In the 115th minute, Jamal MUSIALA is shown a card for Germany.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-28",
+      "audioPath": "/demo/replays/18175983/17-yellow_card-28.mp3",
+      "text": "In the 117th minute, Player null is shown a card for Paraguay.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-31",
+      "audioPath": "/demo/replays/18175983/18-fulltime-31.mp3",
+      "text": "At full-time, Germany 1–1 Paraguay. 3–4 on penalties.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "fixtureId": 18198205,
+  "matchNumber": 93,
+  "generatedAt": "2026-07-19T20:56:15.707Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Portugal v Spain: The Late Decider",
+    "openingLine": "A round-of-16 meeting between Portugal and Spain begins at Dallas Stadium.",
+    "moments": [
+      {
+        "id": "kickoff-18",
+        "spokenLine": "Portugal meet Spain in the round of 16 at Dallas Stadium.",
+        "explainer": "The replay begins with a confirmed knockout-stage meeting between these two sides."
+      },
+      {
+        "id": "corner-127",
+        "spokenLine": "Portugal win a corner, and the count moves to 1–0.",
+        "explainer": "Portugal make the first confirmed mark on the corner count."
+      },
+      {
+        "id": "corner-157",
+        "spokenLine": "Another Portugal corner, making the count 2–0.",
+        "explainer": "Portugal add to their early set-piece pressure."
+      },
+      {
+        "id": "corner-204",
+        "spokenLine": "Spain answer with a corner; the count is now 2–1.",
+        "explainer": "Spain reduce Portugal’s early corner advantage."
+      },
+      {
+        "id": "pressure-236",
+        "spokenLine": "Spain drive a sustained spell: 4 shots and 17 dangerous actions.",
+        "explainer": "This is Spain’s first major verified pressure surge of the match."
+      },
+      {
+        "id": "corner-290",
+        "spokenLine": "Spain win another corner, bringing the count level at 2–2.",
+        "explainer": "The corner count is level after Spain’s sustained pressure."
+      },
+      {
+        "id": "pressure-383",
+        "spokenLine": "Spain drive another spell: 4 shots and 15 dangerous actions.",
+        "explainer": "Spain produce a second verified passage of sustained attacking pressure."
+      },
+      {
+        "id": "corner-385",
+        "spokenLine": "Portugal win a corner and edge the count back to 3–2.",
+        "explainer": "Portugal regain the corner advantage before the interval."
+      },
+      {
+        "id": "halftime-486",
+        "spokenLine": "Portugal 0–0 Spain at the interval.",
+        "explainer": "Despite Spain’s pressure, the score remains level at half-time."
+      },
+      {
+        "id": "corner-649",
+        "spokenLine": "Spain win a corner, leveling the count at 3–3.",
+        "explainer": "Spain draw level on corners after the restart."
+      },
+      {
+        "id": "corner-656",
+        "spokenLine": "Another Spain corner; the count moves to 3–4.",
+        "explainer": "Spain take the lead in the corner count."
+      },
+      {
+        "id": "corner-727",
+        "spokenLine": "Spain win another corner, stretching the count to 3–5.",
+        "explainer": "Spain continue to build their set-piece advantage."
+      },
+      {
+        "id": "corner-789",
+        "spokenLine": "Spain claim another corner, and the count reaches 3–6.",
+        "explainer": "The corner flow continues firmly toward Spain."
+      },
+      {
+        "id": "corner-797",
+        "spokenLine": "Another Spain corner makes it 3–7.",
+        "explainer": "Spain extend their commanding corner advantage."
+      },
+      {
+        "id": "pressure-798",
+        "spokenLine": "Spain drive a sustained spell: 4 shots and 17 dangerous actions.",
+        "explainer": "Spain’s late pressure is backed by another strong verified passage."
+      },
+      {
+        "id": "yellow_card-885",
+        "spokenLine": "BERNARDO SILVA is shown a card for Portugal.",
+        "explainer": "Portugal receive a disciplinary setback late in the match."
+      },
+      {
+        "id": "goal-904",
+        "spokenLine": "Mikel MERINO scores for Spain. The verified score moves to 0–1.",
+        "explainer": "Spain finally turn their pressure into the decisive lead."
+      },
+      {
+        "id": "yellow_card-929",
+        "spokenLine": "RENATO VEIGA is shown a card for Portugal.",
+        "explainer": "Portugal receive another card as they trail Spain."
+      },
+      {
+        "id": "yellow_card-982",
+        "spokenLine": "Ferran TORRES is shown a card for Spain.",
+        "explainer": "Spain receive a late card while protecting their lead."
+      },
+      {
+        "id": "fulltime-992",
+        "spokenLine": "Portugal 0–1 Spain.",
+        "explainer": "Spain’s late goal decides the round-of-16 match."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-18",
+      "audioPath": "/demo/replays/18198205/01-kickoff-18.mp3",
+      "text": "At kick-off, Portugal meet Spain in the round of 16 at Dallas Stadium.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "corner-127",
+      "audioPath": "/demo/replays/18198205/02-corner-127.mp3",
+      "text": "In the 8th minute, Portugal win a confirmed corner. The corner count is 1–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-157",
+      "audioPath": "/demo/replays/18198205/03-corner-157.mp3",
+      "text": "In the 11th minute, Portugal win a confirmed corner. The corner count is 2–0.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-204",
+      "audioPath": "/demo/replays/18198205/04-corner-204.mp3",
+      "text": "In the 15th minute, Spain win a confirmed corner. The corner count is 2–1.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-236",
+      "audioPath": "/demo/replays/18198205/05-pressure-236.mp3",
+      "text": "Between the 10th and 20th minutes, Spain drive a sustained spell: 4 shots and 17 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-290",
+      "audioPath": "/demo/replays/18198205/06-corner-290.mp3",
+      "text": "In the 29th minute, Spain win a confirmed corner. The corner count is 2–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-383",
+      "audioPath": "/demo/replays/18198205/07-pressure-383.mp3",
+      "text": "Between the 30th and 40th minutes, Spain drive another spell: 4 shots and 15 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "corner-385",
+      "audioPath": "/demo/replays/18198205/08-corner-385.mp3",
+      "text": "In the 39th minute, Portugal win a confirmed corner. The corner count is 3–2.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "halftime-486",
+      "audioPath": "/demo/replays/18198205/09-halftime-486.mp3",
+      "text": "At half-time, Portugal 0–0 Spain.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "corner-649",
+      "audioPath": "/demo/replays/18198205/10-corner-649.mp3",
+      "text": "In the 60th minute, Spain win a confirmed corner. The corner count is 3–3.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-656",
+      "audioPath": "/demo/replays/18198205/11-corner-656.mp3",
+      "text": "In the 61st minute, Spain win a confirmed corner. The corner count is 3–4.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-727",
+      "audioPath": "/demo/replays/18198205/12-corner-727.mp3",
+      "text": "In the 72nd minute, Spain win a confirmed corner. The corner count is 3–5.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-789",
+      "audioPath": "/demo/replays/18198205/13-corner-789.mp3",
+      "text": "In the 77th minute, Spain win a confirmed corner. The corner count is 3–6.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "corner-797",
+      "audioPath": "/demo/replays/18198205/14-corner-797.mp3",
+      "text": "In the 78th minute, Spain win a confirmed corner. The corner count is 3–7.",
+      "kind": "corner",
+      "intensity": 48
+    },
+    {
+      "id": "pressure-798",
+      "audioPath": "/demo/replays/18198205/15-pressure-798.mp3",
+      "text": "Between the 70th and 80th minutes, Spain drive a sustained spell: 4 shots and 17 dangerous actions.",
+      "kind": "pressure",
+      "intensity": 74
+    },
+    {
+      "id": "yellow_card-885",
+      "audioPath": "/demo/replays/18198205/16-yellow_card-885.mp3",
+      "text": "In the 89th minute, BERNARDO SILVA is shown a card for Portugal.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "goal-904",
+      "audioPath": "/demo/replays/18198205/17-goal-904.mp3",
+      "text": "In the 1st minute of second-half stoppage time, Mikel MERINO scores for Spain. The verified score moves to 0–1.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-929",
+      "audioPath": "/demo/replays/18198205/18-yellow_card-929.mp3",
+      "text": "In the 3rd minute of second-half stoppage time, RENATO VEIGA is shown a card for Portugal.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "yellow_card-982",
+      "audioPath": "/demo/replays/18198205/19-yellow_card-982.mp3",
+      "text": "In the 8th minute of second-half stoppage time, Ferran TORRES is shown a card for Spain.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "fulltime-992",
+      "audioPath": "/demo/replays/18198205/20-fulltime-992.mp3",
+      "text": "At full-time, Portugal 0–1 Spain.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}
