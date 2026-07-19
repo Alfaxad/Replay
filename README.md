@@ -338,12 +338,14 @@ has subscribers.
 - The public Vercel deployment contains no OpenAI, TxLINE, or Solana secrets and
   performs no runtime AI calls.
 
-## Deliberately Out of Scope
+## Commercial & Monetization Path
 
-Replay excludes multiplayer, smart-contract settlement, on-chain proof
-verification, tokens, NFTs, deposits, wagering, native mobile apps, player
-props, multiple personalities, Realtime MCP, and unbounded continuous AI
-commentary. Solana exists only to activate TxLINE's free development feed.
+The commercialization and monetization of Replay is attainable through
+subscription models that allow users to interact with agents and relive their
+World Cup experiences through realtime conversations. Furthermore, the project
+can expand to provide real-time experiences and personalized streaming during
+the next World Cup, alongside pay-to-win multiplayer quizzes and timeback
+replays of classic World Cup competitions.
 
 ## Links
 
