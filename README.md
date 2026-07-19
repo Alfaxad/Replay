@@ -14,8 +14,7 @@ voice-only conversation grounded in the selected game.
 Its visual language recalls the warm radio sets and printed match programmes of
 20th-century World Cups. Underneath that nostalgic surface is a modern stack:
 TxLINE match data, a deterministic event reducer, OpenAI story and speech
-models, WebRTC, Web Audio, Next.js, and a free Solana devnet subscription used
-only to activate TxLINE access.
+models, WebRTC, Web Audio, Next.js, and a free Solana devnet subscription for TxLINE api access.
 
 ![Replay home experience](docs/assets/replay-home.png)
 
