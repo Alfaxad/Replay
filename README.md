@@ -148,7 +148,7 @@ For a deeper technical walkthrough, read
 | Service | Use in Replay | Reference |
 | --- | --- | --- |
 | TxLINE | Defines the covered fixture set and supplies authenticated historical scores plus live score/odds streams. | [Quickstart](https://txline.txodds.com/documentation/quickstart) · [World Cup free tier](https://txline.txodds.com/documentation/worldcup) · [Scores](https://txline.txodds.com/documentation/scores/overview) · [Snapshots](https://txline.txodds.com/documentation/examples/fetching-snapshots) · [Streaming](https://txline.txodds.com/documentation/examples/streaming-data) |
-| Solana devnet | Activates the free TxLINE subscription. It is infrastructure only—there are no tokens, deposits, wagers, NFTs, or consumer wallet interactions in Replay. | [Install](https://solana.com/docs/intro/installation) · [CLI basics](https://solana.com/docs/intro/installation/solana-cli-basics) · [Devnet faucet](https://faucet.solana.com/) |
+| Solana devnet | Activates the free TxLINE subscription. | [Install](https://solana.com/docs/intro/installation) · [CLI basics](https://solana.com/docs/intro/installation/solana-cli-basics) · [Devnet faucet](https://faucet.solana.com/) |
 | Next.js 16 + React 19 | Hosts the interface, route handlers, static archive, demo build profile, and server-only trust boundary. | [Next.js docs](https://nextjs.org/docs) · [React docs](https://react.dev/) |
 
 The exact JavaScript dependency versions are pinned in
