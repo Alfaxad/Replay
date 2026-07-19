@@ -1,0 +1,126 @@
+{
+  "fixtureId": 18257739,
+  "source": "txline-snapshot",
+  "rawEventCount": 41,
+  "capturedAt": "2026-07-19T22:20:44.000Z",
+  "derivation": {
+    "endpoint": "/scores/snapshot/18257739",
+    "note": "TxLINE's historical endpoint was not populated after full time, so this replay preserves the decisive confirmed states from the final score snapshot.",
+    "scoreTransition": "The first retained snapshot state carrying Spain's 1-0 lead is clocked at 105:39, which is presented as the 106th minute."
+  },
+  "events": [
+    {
+      "fixtureId": 18257739,
+      "seq": 1,
+      "timestamp": 1784487900000,
+      "action": "kickoff",
+      "gameState": "inplay",
+      "clockSeconds": 0,
+      "clockRunning": true,
+      "confirmed": true,
+      "score": [0, 0],
+      "corners": [0, 0]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 468,
+      "timestamp": 1784491034295,
+      "action": "halftime_finalised",
+      "gameState": "halftime",
+      "clockSeconds": 2700,
+      "clockRunning": false,
+      "confirmed": true,
+      "score": [0, 0],
+      "corners": [2, 0]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 900,
+      "timestamp": 1784495246000,
+      "action": "extra_time_start",
+      "gameState": "extra_time",
+      "clockSeconds": 5400,
+      "clockRunning": true,
+      "confirmed": true,
+      "score": [0, 0],
+      "corners": [8, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 942,
+      "timestamp": 1784495398821,
+      "action": "red_card",
+      "gameState": "extra_time",
+      "clockSeconds": 5552,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [0, 0],
+      "corners": [8, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 1189,
+      "timestamp": 1784497460796,
+      "action": "goal",
+      "gameState": "extra_time",
+      "clockSeconds": 6339,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [1, 0],
+      "corners": [9, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 1235,
+      "timestamp": 1784497684174,
+      "action": "yellow_card",
+      "gameState": "extra_time",
+      "clockSeconds": 6667,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 2,
+      "score": [1, 0],
+      "corners": [9, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 1259,
+      "timestamp": 1784497818362,
+      "action": "var_review",
+      "gameState": "extra_time",
+      "clockSeconds": 6802,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [1, 0],
+      "corners": [9, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 1261,
+      "timestamp": 1784497821665,
+      "action": "var_overturned",
+      "gameState": "extra_time",
+      "clockSeconds": 6807,
+      "clockRunning": true,
+      "confirmed": true,
+      "participant": 1,
+      "score": [1, 0],
+      "corners": [9, 1]
+    },
+    {
+      "fixtureId": 18257739,
+      "seq": 1385,
+      "timestamp": 1784498864700,
+      "action": "game_finalised",
+      "gameState": "final",
+      "clockSeconds": 7500,
+      "clockRunning": false,
+      "confirmed": true,
+      "score": [1, 0],
+      "corners": [9, 4]
+    }
+  ]
+}

@@ -12,6 +12,7 @@ const projectRoot = path.resolve(import.meta.dirname, "../..");
 const outputRoot = path.join(projectRoot, "public", "demo", "replays");
 const force = process.argv.includes("--force");
 const dryRun = process.argv.includes("--dry-run");
+const requestedFixtureId = Number(process.argv.find((argument) => argument.startsWith("--fixture="))?.split("=")[1] ?? 0);
 
 type DemoChapter = {
   id: string;
@@ -95,7 +96,11 @@ function narration(moment: RadioMoment, script: ReplayScript): string {
 
 async function main() {
   const catalog = getArchiveCatalog();
-  const completed = catalog.matches.filter((match) => match.status === "complete");
+  const allCompleted = catalog.matches.filter((match) => match.status === "complete");
+  const completed = allCompleted.filter((match) => !requestedFixtureId || match.fixtureId === requestedFixtureId);
+  if (requestedFixtureId && completed.length !== 1) {
+    throw new Error(`Completed fixture ${requestedFixtureId} is not present in the Replay catalog`);
+  }
   const replays = completed.map((match) => getRadioReplay(match.fixtureId)).filter((replay): replay is NonNullable<typeof replay> => Boolean(replay?.moments.length));
   const totalChapters = replays.reduce((sum, replay) => sum + replay.moments.length, 0);
 
@@ -147,7 +152,7 @@ async function main() {
     const manifest: DemoManifest = {
       fixtureId: replay.match.fixtureId,
       matchNumber: replay.match.matchNumber,
-      generatedAt: new Date().toISOString(),
+      generatedAt: existing?.generatedAt ?? new Date().toISOString(),
       model: "gpt-4o-mini-tts",
       storyModel: "gpt-5.6-luna",
       voice: "ash",
@@ -158,16 +163,21 @@ async function main() {
     summaries.push({ fixtureId: replay.match.fixtureId, matchNumber: replay.match.matchNumber, chapters: chapters.length });
   }
 
+  const library = allCompleted.map((match) => {
+    const manifest = JSON.parse(fs.readFileSync(path.join(outputRoot, String(match.fixtureId), "manifest.json"), "utf8")) as DemoManifest;
+    return { fixtureId: match.fixtureId, matchNumber: match.matchNumber, chapters: manifest.chapters.length };
+  });
+
   fs.writeFileSync(path.join(outputRoot, "index.json"), `${JSON.stringify({
     generatedAt: new Date().toISOString(),
     mode: "offline-demo",
     modelsUsedAtGenerationTime: ["gpt-5.6-luna", "gpt-4o-mini-tts"],
     runtimeOpenAICalls: 0,
-    completedMatches: summaries.length,
-    chapters: summaries.reduce((sum, item) => sum + item.chapters, 0),
-    matches: summaries,
+    completedMatches: library.length,
+    chapters: library.reduce((sum, item) => sum + item.chapters, 0),
+    matches: library,
   }, null, 2)}\n`);
-  console.log(`Offline demo library ready: ${summaries.length} matches, ${totalChapters} MP3 chapters.`);
+  console.log(`Offline demo library ready: ${library.length} matches, ${library.reduce((sum, item) => sum + item.chapters, 0)} MP3 chapters.`);
 }
 
 await main();

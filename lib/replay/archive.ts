@@ -28,7 +28,7 @@ export type ArchiveMatch = {
   penalties: [number, number] | null;
   stadium: string;
   attendance: number | null;
-  eventSource: "txline-historical" | "fifa-official-events" | "txline-live-ready";
+  eventSource: "txline-historical" | "txline-snapshot" | "fifa-official-events" | "txline-live-ready";
   eventCount: number;
   officialMoments: OfficialMoment[];
 };
@@ -45,7 +45,7 @@ export type RadioMoment = {
   title: string;
   fact: string;
   importance: number;
-  source: "txline-historical" | "fifa-official-events";
+  source: "txline-historical" | "txline-snapshot" | "fifa-official-events";
 };
 
 type Catalog = {
@@ -113,6 +113,28 @@ function eventCopy(event: CanonicalEvent, match: ArchiveMatch, source: RadioMome
       title: `GOAL · ${team}`,
       fact: `${player}. The verified score moves to ${event.score[0]}–${event.score[1]}.`,
       importance: 100, source,
+    };
+  }
+  if (event.action === "extra_time_start") {
+    return {
+      id: `extra-time-${event.seq}`, seq: event.seq, kind: "extra_time", clockSeconds: event.clockSeconds,
+      clockLabel: "ET", score: event.score, corners: event.corners,
+      title: "Extra time",
+      fact: `${match.home.name} and ${match.away.name} are locked at ${event.score[0]}–${event.score[1]} after ninety minutes. The World Cup final continues.`,
+      importance: 90, source,
+    };
+  }
+  if (event.action === "var_review" || event.action === "var_overturned") {
+    const reviewMinute = `${Math.floor(event.clockSeconds / 60) + 1}'`;
+    const overturned = event.action === "var_overturned";
+    return {
+      id: `${event.action}-${event.seq}`, seq: event.seq, kind: "var", clockSeconds: event.clockSeconds,
+      clockLabel: reviewMinute, side, score: event.score, corners: event.corners,
+      title: overturned ? "VAR overturn" : `VAR review · ${team}`,
+      fact: overturned
+        ? `The VAR review overturns the possible goal. ${match.home.name} remain ${event.score[0]}–${event.score[1]} ahead.`
+        : `TxLINE records a VAR review after a possible ${team} goal with the score at ${event.score[0]}–${event.score[1]}.`,
+      importance: overturned ? 91 : 86, source,
     };
   }
   if (event.action === "corner") {
@@ -210,13 +232,13 @@ export function getRadioReplay(fixtureId: number): { match: ArchiveMatch; moment
   if (match.status === "upcoming") return { match, moments: [], rawEventCount: 0 };
   const replayPath = path.join(dataRoot, "replays", `${fixtureId}.json`);
   if (!fs.existsSync(replayPath)) return { match, moments: [], rawEventCount: 0 };
-  const replay = readJson<{ source: RadioMoment["source"]; events: CanonicalEvent[] }>(replayPath);
+  const replay = readJson<{ source: RadioMoment["source"]; rawEventCount?: number; events: CanonicalEvent[] }>(replayPath);
   const source = replay.source;
   const core = replay.events
-    .filter((event) => event.confirmed && ["kickoff", "goal", "corner", "yellow_card", "red_card", "halftime_finalised", "game_finalised"].includes(event.action))
+    .filter((event) => event.confirmed && ["kickoff", "goal", "corner", "yellow_card", "red_card", "halftime_finalised", "extra_time_start", "var_review", "var_overturned", "game_finalised"].includes(event.action))
     .map((event) => eventCopy(event, match, source))
     .filter((moment): moment is RadioMoment => Boolean(moment));
   const moments = dedupeMoments([...core, ...pressureMoments(replay.events, match, source)])
     .sort((a, b) => a.seq - b.seq);
-  return { match, moments, rawEventCount: replay.events.length };
+  return { match, moments, rawEventCount: replay.rawEventCount ?? replay.events.length };
 }

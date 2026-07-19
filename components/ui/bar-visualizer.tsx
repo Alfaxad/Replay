@@ -61,7 +61,8 @@ export function BarVisualizer({
     <div className={`bar-visualizer ${centerAlign ? "bar-visualizer--center" : ""} ${className}`} data-state={state} role="img" aria-label={`Audio visualizer: ${state}`} {...props}>
       {values.map((value, index) => {
         const height = minHeight + value * (maxHeight - minHeight);
-        return <i key={index} style={{ transform: `scaleY(${height / 100})` }} />;
+        const scale = (height / 100).toFixed(6);
+        return <i key={index} style={{ transform: `scaleY(${scale})` }} />;
       })}
     </div>
   );

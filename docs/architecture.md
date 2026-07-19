@@ -15,7 +15,7 @@ Replay separates truth, story, performance, and conversation:
 | Mode | Story | Narration | Realtime | Credentials |
 | --- | --- | --- | --- | --- |
 | Full local Replay | Live GPT-5.6 Luna | Streamed `gpt-4o-mini-tts` PCM with Ash | `gpt-realtime-2.1-mini` WebRTC | Server-side workspace key |
-| Public Vercel demo | Pre-generated manifest | 471 cached Ash MP3 chapters | Explicitly disabled | None |
+| Public Vercel demo | Pre-generated manifest | 480 cached Ash MP3 chapters | Explicitly disabled | None |
 
 The Vercel edition is a build profile, not a separate implementation. `NEXT_PUBLIC_REPLAY_DEMO=1` selects cached client behavior at build time, while `VERCEL=1` or `REPLAY_DEMO_MODE=1` makes all OpenAI routes fail closed with `403`. This keeps the public mirror aligned with the full product while preventing accidental runtime token spend.
 

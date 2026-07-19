@@ -31,7 +31,7 @@ For the public, API-free path, open [replay-txline.vercel.app](https://replay-tx
 2. Open France 4–6 England and press **Play**. A pre-generated Ash MP3 begins and the same 21-band analyser responds to the real audio output.
 3. Change playback speed or jump between chapters; cached audio preserves the normal Replay controls.
 4. Show **Realtime disabled — Public demo safeguard**. The button cannot request microphone access.
-5. Explain that all 33 completed matches and 471 chapters are cached; the final stays live-ready until it has a verified completed record.
+5. Explain that all 34 completed matches and 480 chapters are cached, including the Spain–Argentina final reconstructed from TxLINE's finalized snapshot sequence.
 
 ## Judge talking points
 

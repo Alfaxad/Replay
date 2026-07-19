@@ -10,6 +10,7 @@ function ordinal(value: number): string {
 export function spokenClockLead(clockLabel: string): string {
   const normalized = clockLabel.trim();
   if (normalized === "HT") return "At half-time,";
+  if (normalized === "ET") return "At the start of extra time,";
   if (normalized === "FT") return "At full-time,";
   if (normalized === "00'" || normalized === "0'") return "At kick-off,";
 
@@ -43,6 +44,8 @@ export function stripSpokenClockEcho(clockLabel: string, text: string): string {
     cleaned = cleaned
       .replace(/^(?:at\s+half[- ]time|half[- ]time|at\s+the\s+interval)\s*[:,;.–-]?\s*/i, "")
       .replace(/\s+(?:at\s+half[- ]time|at\s+the\s+interval)\.?$/i, "");
+  } else if (normalized === "ET") {
+    cleaned = cleaned.replace(/^(?:at\s+the\s+start\s+of\s+extra\s+time|extra\s+time|after\s+ninety\s+minutes)\s*[:,;.–-]?\s*/i, "");
   } else if (normalized === "FT") {
     cleaned = cleaned
       .replace(/^(?:at\s+full[- ]time|full[- ]time)\s*[:,;.–-]?\s*/i, "")

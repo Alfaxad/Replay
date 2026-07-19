@@ -1,0 +1,35 @@
+# Replay is a TypeScript/Next.js application and has no Python runtime.
+# This file intentionally contains no pip-installable packages.
+#
+# Install the actual application libraries with:
+#   corepack enable
+#   pnpm install --frozen-lockfile
+#
+# Canonical dependency manifests:
+#   package.json
+#   pnpm-lock.yaml
+#
+# Required system tooling:
+#   Node.js >= 22
+#   pnpm >= 10
+#   Solana CLI (only for TxLINE devnet provisioning)
+#
+# Principal JavaScript libraries installed by pnpm:
+#   next == 16.2.10
+#   react == 19.2.7
+#   react-dom == 19.2.7
+#   openai == 6.48.0
+#   @openai/agents == 0.13.5
+#   @coral-xyz/anchor == 0.32.1
+#   @solana/spl-token ~= 0.4.12
+#   @solana/web3.js ~= 1.91.9
+#   lucide-react == 1.25.0
+#   tweetnacl ~= 1.0.3
+#   zod == 4.4.3
+#
+# Development tooling:
+#   typescript ~= 5.9.2
+#   tsx ~= 4.20.6
+#   @types/node ~= 22.18.0
+#   @types/react ~= 19.2.0
+#   @types/react-dom ~= 19.2.0

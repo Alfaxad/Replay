@@ -28,9 +28,10 @@ function readJson<T>(file: string): T {
 test("offline demo covers every completed archive replay without runtime AI calls", () => {
   const index = readJson<DemoIndex>(path.join(demoRoot, "index.json"));
   assert.equal(index.runtimeOpenAICalls, 0);
-  assert.equal(index.completedMatches, 33);
-  assert.equal(index.chapters, 471);
-  assert.equal(index.matches.length, 33);
+  assert.equal(index.completedMatches, 34);
+  assert.equal(index.chapters, 480);
+  assert.equal(index.matches.length, 34);
+  assert.ok(index.matches.some((match) => match.fixtureId === 18257739 && match.chapters === 9));
 });
 
 test("every cached chapter matches the deterministic replay and has a playable MP3 asset", () => {

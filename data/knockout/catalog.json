@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T18:37:50.387Z",
+  "generatedAt": "2026-07-19T22:20:44.000Z",
   "scope": "FIFA World Cup 2026 · TxLINE published fixture coverage",
   "sources": [
     {
@@ -5302,7 +5302,7 @@
       "stage": "Final",
       "group": null,
       "date": "2026-07-19T19:00:00Z",
-      "status": "upcoming",
+      "status": "complete",
       "home": {
         "name": "Spain",
         "code": "ESP"
@@ -5311,13 +5311,36 @@
         "name": "Argentina",
         "code": "ARG"
       },
-      "score": null,
+      "score": [
+        1,
+        0
+      ],
       "penalties": null,
       "stadium": "New York/New Jersey Stadium",
       "attendance": null,
-      "eventSource": "txline-live-ready",
-      "eventCount": 0,
-      "officialMoments": []
+      "eventSource": "txline-snapshot",
+      "eventCount": 41,
+      "officialMoments": [
+        {
+          "kind": "red_card",
+          "minute": 93,
+          "clock": "93'",
+          "side": 2
+        },
+        {
+          "kind": "goal",
+          "minute": 106,
+          "clock": "106'",
+          "side": 1,
+          "assist": null
+        },
+        {
+          "kind": "yellow_card",
+          "minute": 112,
+          "clock": "112'",
+          "side": 2
+        }
+      ]
     }
   ]
 }

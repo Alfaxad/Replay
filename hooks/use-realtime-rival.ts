@@ -64,6 +64,9 @@ export function useRealtimeCompanion() {
   const metersRef = useRef<Record<MeterChannel, AudioMeter | null>>({ listener: null, ash: null });
   const outputMeterProbeRef = useRef<number | null>(null);
   const connectingRef = useRef<Promise<RealtimeSession> | null>(null);
+  const pendingSessionRef = useRef<RealtimeSession | null>(null);
+  const lifecycleRef = useRef(0);
+  const mountedRef = useRef(true);
   const [status, setStatus] = useState<VoiceStatus>("idle");
   const [connected, setConnected] = useState(false);
   const [listenerLevels, setListenerLevels] = useState<number[]>([]);
@@ -156,6 +159,8 @@ export function useRealtimeCompanion() {
     if (connectingRef.current) return connectingRef.current;
     const verifiedContext = context.trim();
     if (!verifiedContext) throw new Error("The verified match record is not ready yet");
+    const generation = lifecycleRef.current;
+    const pendingHolder: { session: RealtimeSession | null } = { session: null };
     const pending = (async () => {
       setStatus("connecting");
       setError(null);
@@ -193,6 +198,8 @@ export function useRealtimeCompanion() {
           },
         },
       });
+      pendingHolder.session = session;
+      pendingSessionRef.current = session;
       session.on("agent_start", () => setStatus("thinking"));
       session.on("audio_start", () => {
         setStatus("speaking");
@@ -219,35 +226,50 @@ export function useRealtimeCompanion() {
       });
       const token = (await tokenResponse.json()) as { value?: string; error?: string };
       if (!tokenResponse.ok || !token.value) throw new Error(token.error ?? "Voice token unavailable");
+      if (generation !== lifecycleRef.current) throw new Error("Voice connection was cancelled");
       await session.connect({ apiKey: token.value, model: "gpt-realtime-2.1-mini" });
+      if (generation !== lifecycleRef.current) {
+        session.close();
+        throw new Error("Voice connection was cancelled");
+      }
       monitorAshOutput(output);
       session.mute(false);
+      pendingSessionRef.current = null;
       sessionRef.current = session;
-      connectingRef.current = null;
       setConnected(true);
       setStatus("listening");
       return session;
     })();
     connectingRef.current = pending;
     try {
-      return await pending;
+      const connectedSession = await pending;
+      if (connectingRef.current === pending) connectingRef.current = null;
+      return connectedSession;
     } catch (cause) {
       const message = cause instanceof Error ? cause.message : "Unable to connect voice";
-      const failedSession = sessionRef.current as RealtimeSession | null;
+      const failedSession = pendingHolder.session;
       failedSession?.close();
-      sessionRef.current = null;
-      releaseMedia();
-      setConnected(false);
-      setError(message);
-      setStatus("error");
-      connectingRef.current = null;
+      if (pendingSessionRef.current === failedSession) pendingSessionRef.current = null;
+      if (sessionRef.current === failedSession) sessionRef.current = null;
+      if (generation === lifecycleRef.current) {
+        releaseMedia();
+        if (mountedRef.current) {
+          setConnected(false);
+          setError(message);
+          setStatus("error");
+        }
+      }
+      if (connectingRef.current === pending) connectingRef.current = null;
       throw cause;
     }
   }, [ensureAudioElement, monitorAshOutput, releaseMedia, startMeter]);
 
   const disconnect = useCallback(() => {
+    lifecycleRef.current += 1;
     sessionRef.current?.close();
+    pendingSessionRef.current?.close();
     sessionRef.current = null;
+    pendingSessionRef.current = null;
     connectingRef.current = null;
     releaseMedia();
     setConnected(false);
@@ -255,19 +277,27 @@ export function useRealtimeCompanion() {
     setError(null);
   }, [releaseMedia]);
 
-  useEffect(() => () => {
-    sessionRef.current?.close();
-    mediaRef.current?.getTracks().forEach((track) => track.stop());
-    if (outputMeterProbeRef.current !== null) cancelAnimationFrame(outputMeterProbeRef.current);
-    for (const channel of ["listener", "ash"] as const) {
-      const meter = metersRef.current[channel];
-      if (!meter) continue;
-      window.clearInterval(meter.timer);
-      meter.source.disconnect();
-      meter.analyser.disconnect();
-      void meter.context.close();
-    }
-    audioElementRef.current?.remove();
+  useEffect(() => {
+    mountedRef.current = true;
+    return () => {
+      mountedRef.current = false;
+      lifecycleRef.current += 1;
+      sessionRef.current?.close();
+      pendingSessionRef.current?.close();
+      sessionRef.current = null;
+      pendingSessionRef.current = null;
+      mediaRef.current?.getTracks().forEach((track) => track.stop());
+      if (outputMeterProbeRef.current !== null) cancelAnimationFrame(outputMeterProbeRef.current);
+      for (const channel of ["listener", "ash"] as const) {
+        const meter = metersRef.current[channel];
+        if (!meter) continue;
+        window.clearInterval(meter.timer);
+        meter.source.disconnect();
+        meter.analyser.disconnect();
+        void meter.context.close();
+      }
+      audioElementRef.current?.remove();
+    };
   }, []);
 
   return {

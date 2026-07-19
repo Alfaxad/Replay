@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-19T20:56:33.835Z",
+  "generatedAt": "2026-07-19T22:29:28.189Z",
   "mode": "offline-demo",
   "modelsUsedAtGenerationTime": [
     "gpt-5.6-luna",
     "gpt-4o-mini-tts"
   ],
   "runtimeOpenAICalls": 0,
-  "completedMatches": 33,
-  "chapters": 471,
+  "completedMatches": 34,
+  "chapters": 480,
   "matches": [
     {
       "fixtureId": 17588326,
@@ -173,6 +173,11 @@
       "fixtureId": 18257865,
       "matchNumber": 103,
       "chapters": 22
+    },
+    {
+      "fixtureId": 18257739,
+      "matchNumber": 104,
+      "chapters": 9
     }
   ]
 }

@@ -1,6 +1,6 @@
 # TxLINE devnet scripts
 
-These scripts provision and verify RIVAL's TxLINE devnet access using the
+These scripts provision and verify Replay's TxLINE devnet access using the
 official TxODDS devnet program and IDL.
 
 ```bash
@@ -9,7 +9,8 @@ pnpm txline:verify
 ```
 
 Credentials are written to `.solana/txline-devnet.json`, which is excluded by
-the repository's `.gitignore`. Scripts log transaction signatures, record
+the repository's `.gitignore`. Scripts retain transaction signatures only in
+the ignored local state file, record
 counts, and HTTP status only; they do not print the guest JWT or API token.
 
 The IDL is copied from

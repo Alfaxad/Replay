@@ -1,0 +1,124 @@
+{
+  "fixtureId": 18257739,
+  "matchNumber": 104,
+  "generatedAt": "2026-07-19T22:29:28.185Z",
+  "model": "gpt-4o-mini-tts",
+  "storyModel": "gpt-5.6-luna",
+  "voice": "ash",
+  "script": {
+    "arcTitle": "Spain v Argentina: The Final",
+    "openingLine": "Welcome to Replay, where Spain and Argentina’s final unfolds again, moment by moment.",
+    "moments": [
+      {
+        "id": "kickoff-1",
+        "spokenLine": "The final begins: Spain meet Argentina at New York/New Jersey Stadium, with everything still to be decided.",
+        "explainer": "The replay opens with the two finalists meeting at the named stadium."
+      },
+      {
+        "id": "halftime-468",
+        "spokenLine": "At the interval, Spain and Argentina are level at 0–0, with neither side breaking through.",
+        "explainer": "The goalless score shows a tightly balanced first half."
+      },
+      {
+        "id": "extra-time-900",
+        "spokenLine": "After ninety minutes, Spain and Argentina remain locked at 0–0. The World Cup final goes on.",
+        "explainer": "The deadlock carries the final beyond normal time."
+      },
+      {
+        "id": "red_card-942",
+        "spokenLine": "Argentina receive a confirmed red card, a major late turn in this final.",
+        "explainer": "The confirmed dismissal is a decisive change as extra time unfolds."
+      },
+      {
+        "id": "goal-1189",
+        "spokenLine": "Spain score, and the verified score moves to 1–0—the breakthrough this final had been waiting for.",
+        "explainer": "Spain finally break the 0–0 deadlock and take the lead."
+      },
+      {
+        "id": "yellow_card-1235",
+        "spokenLine": "Argentina receive a confirmed yellow card as Spain hold their 1–0 lead.",
+        "explainer": "The card arrives with Spain still ahead on the verified score."
+      },
+      {
+        "id": "var_review-1259",
+        "spokenLine": "A possible Spain goal is under review, with Spain leading 1–0.",
+        "explainer": "The review matters because another possible Spain goal could change the final score."
+      },
+      {
+        "id": "var_overturned-1261",
+        "spokenLine": "The VAR review overturns the possible goal, and Spain remain 1–0 ahead.",
+        "explainer": "The score stays unchanged after the decision."
+      },
+      {
+        "id": "fulltime-1385",
+        "spokenLine": "Full time: Spain 1–0 Argentina. Spain have won the final.",
+        "explainer": "The final score confirms Spain’s victory."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "id": "kickoff-1",
+      "audioPath": "/demo/replays/18257739/01-kickoff-1.mp3",
+      "text": "At kick-off, The final begins: Spain meet Argentina at New York/New Jersey Stadium, with everything still to be decided.",
+      "kind": "kickoff",
+      "intensity": 72
+    },
+    {
+      "id": "halftime-468",
+      "audioPath": "/demo/replays/18257739/02-halftime-468.mp3",
+      "text": "At half-time, Spain and Argentina are level at 0–0, with neither side breaking through.",
+      "kind": "halftime",
+      "intensity": 78
+    },
+    {
+      "id": "extra-time-900",
+      "audioPath": "/demo/replays/18257739/03-extra-time-900.mp3",
+      "text": "At the start of extra time, Spain and Argentina remain locked at 0–0. The World Cup final goes on.",
+      "kind": "extra_time",
+      "intensity": 90
+    },
+    {
+      "id": "red_card-942",
+      "audioPath": "/demo/replays/18257739/04-red_card-942.mp3",
+      "text": "In the 93rd minute, Argentina receive a confirmed red card, a major late turn in this final.",
+      "kind": "red_card",
+      "intensity": 92
+    },
+    {
+      "id": "goal-1189",
+      "audioPath": "/demo/replays/18257739/05-goal-1189.mp3",
+      "text": "In the 106th minute, Spain score, and the verified score moves to 1–0—the breakthrough this final had been waiting for.",
+      "kind": "goal",
+      "intensity": 100
+    },
+    {
+      "id": "yellow_card-1235",
+      "audioPath": "/demo/replays/18257739/06-yellow_card-1235.mp3",
+      "text": "In the 112th minute, Argentina receive a confirmed yellow card as Spain hold their 1–0 lead.",
+      "kind": "yellow_card",
+      "intensity": 58
+    },
+    {
+      "id": "var_review-1259",
+      "audioPath": "/demo/replays/18257739/07-var_review-1259.mp3",
+      "text": "In the 114th minute, A possible Spain goal is under review, with Spain leading 1–0.",
+      "kind": "var",
+      "intensity": 86
+    },
+    {
+      "id": "var_overturned-1261",
+      "audioPath": "/demo/replays/18257739/08-var_overturned-1261.mp3",
+      "text": "In the 114th minute, The VAR review overturns the possible goal, and Spain remain 1–0 ahead.",
+      "kind": "var",
+      "intensity": 91
+    },
+    {
+      "id": "fulltime-1385",
+      "audioPath": "/demo/replays/18257739/09-fulltime-1385.mp3",
+      "text": "At full-time, Spain 1–0 Argentina. Spain have won the final.",
+      "kind": "fulltime",
+      "intensity": 98
+    }
+  ]
+}

@@ -11,7 +11,7 @@ pnpm demo:audio:plan
 pnpm demo:audio
 ```
 
-Generation is resumable. Existing MP3s are reused when their narration text is unchanged; only missing or revised chapters are requested again. The current library contains 33 completed matches and 471 Ash MP3 chapters. The generated index declares `runtimeOpenAICalls: 0` and is covered by the integrity tests.
+Generation is resumable. Existing MP3s are reused when their narration text is unchanged; only missing or revised chapters are requested again. The current library contains 34 completed matches and 480 Ash MP3 chapters. The generated index declares `runtimeOpenAICalls: 0` and is covered by the integrity tests.
 
 ## Build and deploy
 

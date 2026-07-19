@@ -51,7 +51,7 @@ type ArchiveMatch = {
   penalties: [number, number] | null;
   stadium: string;
   attendance: number | null;
-  eventSource: "txline-historical" | "fifa-official-events" | "txline-live-ready";
+  eventSource: "txline-historical" | "txline-snapshot" | "fifa-official-events" | "txline-live-ready";
   eventCount: number;
 };
 
@@ -68,7 +68,7 @@ type ReplayMoment = {
   title: string;
   fact: string;
   importance: number;
-  source: "txline-historical" | "fifa-official-events";
+  source: "txline-historical" | "txline-snapshot" | "fifa-official-events";
 };
 type ReplayData = { match: ArchiveMatch; moments: ReplayMoment[]; rawEventCount: number };
 type StoryScript = {
@@ -95,6 +95,7 @@ function ReplayMark({ compact = false }: { compact?: boolean }) {
 
 function sourceLabel(source: ArchiveMatch["eventSource"]): string {
   if (source === "txline-historical") return "Full TxLINE replay";
+  if (source === "txline-snapshot") return "TxLINE final snapshot";
   if (source === "fifa-official-events") return "Official FIFA moments";
   return "Live stream ready";
 }
@@ -187,7 +188,7 @@ function Library({ onOpen }: { onOpen: (fixtureId: number) => void }) {
     return stageMatches && queryMatches;
   });
   const completedMatches = matches.filter((match) => match.status === "complete").length;
-  const fullReplays = matches.filter((match) => match.eventSource === "txline-historical").length;
+  const fullReplays = matches.filter((match) => match.eventSource === "txline-historical" || match.eventSource === "txline-snapshot").length;
   const totalRecords = matches.reduce((sum, match) => sum + match.eventCount, 0);
 
   return (

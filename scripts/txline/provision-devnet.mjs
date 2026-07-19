@@ -97,7 +97,7 @@ async function main() {
   }
 
   const balance = await connection.getBalance(payer.publicKey, "confirmed");
-  console.log(`Wallet: ${payer.publicKey.toBase58()}`);
+  console.log("Local devnet wallet loaded.");
   console.log(`Devnet balance: ${balance / anchor.web3.LAMPORTS_PER_SOL} SOL`);
   console.log(`TxLINE program: ${program.programId.toBase58()}`);
 
@@ -170,7 +170,7 @@ async function main() {
         [payer],
         { commitment: "confirmed" },
       );
-      console.log(`Created Token-2022 account: ${signature}`);
+      console.log("Created Token-2022 account.");
       state = { ...state, associatedTokenAccountTx: signature };
       writeState(state);
     }
@@ -206,7 +206,7 @@ async function main() {
         systemProgram: SystemProgram.programId,
       })
       .rpc();
-    console.log(`Subscription confirmed: ${signature}`);
+    console.log("Subscription confirmed.");
     state = {
       ...state,
       network: "devnet",
@@ -219,7 +219,7 @@ async function main() {
     };
     writeState(state);
   } else {
-    console.log(`Using existing subscription transaction: ${state.subscriptionTx}`);
+    console.log("Using existing subscription state.");
   }
 
   const guest = await postJson(`${API_ORIGIN}/auth/guest/start`, {});

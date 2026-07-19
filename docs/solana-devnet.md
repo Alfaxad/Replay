@@ -1,22 +1,21 @@
 # Solana devnet setup
 
-RIVAL uses a dedicated Solana devnet wallet for TxLINE's free-tier subscription.
+Replay uses a dedicated Solana devnet wallet for TxLINE's free-tier subscription.
 This wallet is development-only and must never receive mainnet assets.
 
 ## Project wallet
 
 - Network: `devnet`
-- Public address: `4GYcYFGzG8huh1iE3XVofTFf2R2hSnaHH7LgBT7KLYFY`
 - CLI config: `.solana/config.yml`
 - Local keypair: `.solana/devnet-wallet.json`
 
 The `.solana/` directory is gitignored. The keypair file is local secret material
 and must never be committed, logged, pasted into support messages, or deployed.
 
-The wallet was generated silently, so the JSON keypair file is its only local
-recovery material. This is acceptable for a disposable devnet wallet. Back it up
-only if the devnet TxLINE subscription must survive loss of the development
-machine.
+The public address is intentionally not stored in Git. Resolve it locally with
+`solana address` when it is needed. The JSON keypair file is the only local
+recovery material; back it up only if this disposable devnet subscription must
+survive loss of the development machine.
 
 ## Commands
 
@@ -34,23 +33,25 @@ If the wallet needs additional test SOL:
 solana airdrop 1 --config .solana/config.yml
 ```
 
-The public Solana faucet may rate-limit CLI requests. In that case, use the
-[official web faucet](https://faucet.solana.com/) with the public address above.
-Devnet SOL has no monetary value.
+The public Solana faucet may rate-limit CLI requests. In that case, copy the
+address returned by `solana address --config .solana/config.yml` into the
+[official web faucet](https://faucet.solana.com/). Devnet SOL has no monetary
+value.
 
 ## TxLINE subscription
 
-Provisioned on July 18, 2026 using TxLINE devnet service level `1`, a four-week
-duration, and an empty selected-leagues list.
+The project uses TxLINE devnet service level `1`, a four-week duration, and an
+empty selected-leagues list.
 
 - On-chain price: `0` TxL units per week
 - Sampling interval reported by the pricing matrix: `0` seconds
-- Subscription transaction:
-  [`29B2NkPDoj2mx51dJWV5tqr75Y3Lp7GN4Ra1a3DzD62n9mjAwWQXCjW7eW3uD2Qon1bZSCSJz8Lg8szatAcs1pH6`](https://explorer.solana.com/tx/29B2NkPDoj2mx51dJWV5tqr75Y3Lp7GN4Ra1a3DzD62n9mjAwWQXCjW7eW3uD2Qon1bZSCSJz8Lg8szatAcs1pH6?cluster=devnet)
+- Subscription transaction: retained only in the ignored local state file
 - Guest JWT and activated API token: stored locally in
   `.solana/txline-devnet.json`
 
-The credential state file is owner-readable only and excluded from Git.
+The credential state file is owner-readable only and excluded from Git. Wallet
+addresses, transaction signatures, JWTs, and API tokens must not be copied into
+tracked documentation or shared logs.
 
 ## Verified API access
 
